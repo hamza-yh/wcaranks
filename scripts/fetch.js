@@ -1,3 +1,6 @@
+import fs from 'fs/promises';
+
+
 async function main() {
     await fs.mkdir('api', { recursive: true });
     await fs.writeFile('api/test.json', '["test","test"]', { flag: 'wx' }).catch(() => {});

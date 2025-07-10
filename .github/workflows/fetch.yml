@@ -1,4 +1,4 @@
-name: Sync WCIF Data
+name: Update Rankings Data
 
 permissions:
   contents: write
