@@ -1,0 +1,2523 @@
+{
+  "1": {
+    "ids": [
+      "Stanley Chapel"
+    ],
+    "time": 5939
+  },
+  "2": {
+    "ids": [
+      "Kaijun Lin (林恺俊)"
+    ],
+    "time": 8008
+  },
+  "3": {
+    "ids": [
+      "Manuel Gutman"
+    ],
+    "time": 8675
+  },
+  "4": {
+    "ids": [
+      "Ryan Eckersley"
+    ],
+    "time": 9062
+  },
+  "5": {
+    "ids": [
+      "Daniel Wallin"
+    ],
+    "time": 9079
+  },
+  "6": {
+    "ids": [
+      "Ezra Hirschi"
+    ],
+    "time": 9591
+  },
+  "7": {
+    "ids": [
+      "Michael Tripodi"
+    ],
+    "time": 9939
+  },
+  "8": {
+    "ids": [
+      "Graham Siggins"
+    ],
+    "time": 10167
+  },
+  "9": {
+    "ids": [
+      "Hill Pong Yong Feng"
+    ],
+    "time": 10227
+  },
+  "10": {
+    "ids": [
+      "Amy Smith"
+    ],
+    "time": 10342
+  },
+  "11": {
+    "ids": [
+      "Adrian Dębski"
+    ],
+    "time": 10685
+  },
+  "12": {
+    "ids": [
+      "Simon Praschl"
+    ],
+    "time": 11384
+  },
+  "13": {
+    "ids": [
+      "Tommy Cherry"
+    ],
+    "time": 11530
+  },
+  "14": {
+    "ids": [
+      "Charlie Harrison"
+    ],
+    "time": 11943
+  },
+  "15": {
+    "ids": [
+      "Alvin Cheng Hiu Yeung (鄭曉洋)"
+    ],
+    "time": 11950
+  },
+  "16": {
+    "ids": [
+      "Karol Piskorek"
+    ],
+    "time": 12191
+  },
+  "17": {
+    "ids": [
+      "Cale Schoon"
+    ],
+    "time": 12261
+  },
+  "18": {
+    "ids": [
+      "Mikołaj Morawski"
+    ],
+    "time": 12316
+  },
+  "19": {
+    "ids": [
+      "Theodore Chan"
+    ],
+    "time": 12628
+  },
+  "20": {
+    "ids": [
+      "Roman Strakhov"
+    ],
+    "time": 12806
+  },
+  "21": {
+    "ids": [
+      "Berta García Parra"
+    ],
+    "time": 13274
+  },
+  "22": {
+    "ids": [
+      "Sora Wenjie Xu (徐文杰)"
+    ],
+    "time": 13678
+  },
+  "23": {
+    "ids": [
+      "Tom Nelson"
+    ],
+    "time": 13937
+  },
+  "24": {
+    "ids": [
+      "Marcos Ferreira Semolini"
+    ],
+    "time": 13995
+  },
+  "25": {
+    "ids": [
+      "Kamil Przybylski"
+    ],
+    "time": 14161
+  },
+  "26": {
+    "ids": [
+      "Martin Fröhlich"
+    ],
+    "time": 14265
+  },
+  "27": {
+    "ids": [
+      "Rowe Hessler"
+    ],
+    "time": 14442
+  },
+  "28": {
+    "ids": [
+      "Israel Fraga da Silva"
+    ],
+    "time": 14535
+  },
+  "29": {
+    "ids": [
+      "Martin Vædele Egdal"
+    ],
+    "time": 14762
+  },
+  "30": {
+    "ids": [
+      "Oliver Fritz"
+    ],
+    "time": 14770
+  },
+  "31": {
+    "ids": [
+      "Daniel Anker Hermansen"
+    ],
+    "time": 14959
+  },
+  "32": {
+    "ids": [
+      "Jordi Lleixà López"
+    ],
+    "time": 15342
+  },
+  "33": {
+    "ids": [
+      "Yeon Kyun Park (박연균)"
+    ],
+    "time": 15354
+  },
+  "34": {
+    "ids": [
+      "Jaye Sloan"
+    ],
+    "time": 15356
+  },
+  "35": {
+    "ids": [
+      "Oliver Frost"
+    ],
+    "time": 15562
+  },
+  "36": {
+    "ids": [
+      "Mengfei Shen (沈梦非)"
+    ],
+    "time": 15744
+  },
+  "37": {
+    "ids": [
+      "Naoto Kobayashi (小林直登)"
+    ],
+    "time": 15775
+  },
+  "38": {
+    "ids": [
+      "William Phommaha"
+    ],
+    "time": 16020
+  },
+  "39": {
+    "ids": [
+      "William Wright"
+    ],
+    "time": 16294
+  },
+  "40": {
+    "ids": [
+      "Elliott Kobelansky"
+    ],
+    "time": 16488
+  },
+  "41": {
+    "ids": [
+      "Ahsanul Insan Hamid"
+    ],
+    "time": 16621
+  },
+  "42": {
+    "ids": [
+      "Mason Langenderfer"
+    ],
+    "time": 16776
+  },
+  "43": {
+    "ids": [
+      "Grzegorz Jałocha"
+    ],
+    "time": 16842
+  },
+  "44": {
+    "ids": [
+      "Bálint Csengő"
+    ],
+    "time": 16983
+  },
+  "45": {
+    "ids": [
+      "Riccardo Ripoldi"
+    ],
+    "time": 17204
+  },
+  "46": {
+    "ids": [
+      "Yuki Yamamoto (山本祐輝)"
+    ],
+    "time": 17820
+  },
+  "47": {
+    "ids": [
+      "Mark Boyanowski"
+    ],
+    "time": 18065
+  },
+  "48": {
+    "ids": [
+      "Guido Dipietro"
+    ],
+    "time": 18205
+  },
+  "49": {
+    "ids": [
+      "Shivam Bansal"
+    ],
+    "time": 18658
+  },
+  "50": {
+    "ids": [
+      "Carter Kucala"
+    ],
+    "time": 18682
+  },
+  "51": {
+    "ids": [
+      "Paul Taylor"
+    ],
+    "time": 18834
+  },
+  "52": {
+    "ids": [
+      "Kevin Liu"
+    ],
+    "time": 18904
+  },
+  "53": {
+    "ids": [
+      "Enoch Gray"
+    ],
+    "time": 19237
+  },
+  "54": {
+    "ids": [
+      "Mohammed Aiman Koli"
+    ],
+    "time": 19430
+  },
+  "55": {
+    "ids": [
+      "Christopher Sun"
+    ],
+    "time": 19457
+  },
+  "56": {
+    "ids": [
+      "Yucheng Chen (陈裕铖)"
+    ],
+    "time": 19493
+  },
+  "57": {
+    "ids": [
+      "Jonathan Blöcher"
+    ],
+    "time": 19565
+  },
+  "58": {
+    "ids": [
+      "Abhijeet Ghodgaonkar (अभिजीत घोडगावकर)"
+    ],
+    "time": 19681
+  },
+  "59": {
+    "ids": [
+      "Marcell Endrey"
+    ],
+    "time": 19756
+  },
+  "60": {
+    "ids": [
+      "Thomas Strasser"
+    ],
+    "time": 19963
+  },
+  "61": {
+    "ids": [
+      "Mihály Horváth"
+    ],
+    "time": 20094
+  },
+  "62": {
+    "ids": [
+      "Noah Swor"
+    ],
+    "time": 20443
+  },
+  "63": {
+    "ids": [
+      "Ng Jia Quan (黄佳铨)"
+    ],
+    "time": 20463
+  },
+  "64": {
+    "ids": [
+      "Josh Weimer"
+    ],
+    "time": 20466
+  },
+  "65": {
+    "ids": [
+      "Noah Kraft"
+    ],
+    "time": 20496
+  },
+  "66": {
+    "ids": [
+      "Rodolphe Rouyrre"
+    ],
+    "time": 20574
+  },
+  "67": {
+    "ids": [
+      "Jia-Hong Lu (陸嘉宏)"
+    ],
+    "time": 20777
+  },
+  "68": {
+    "ids": [
+      "Zicong Liu (刘子聪)"
+    ],
+    "time": 21005
+  },
+  "69": {
+    "ids": [
+      "Julian Alejandro Forero Gonzalez"
+    ],
+    "time": 21093
+  },
+  "70": {
+    "ids": [
+      "Jaehyun Jeong (정재현)"
+    ],
+    "time": 21197
+  },
+  "71": {
+    "ids": [
+      "Oleg Gritsenko"
+    ],
+    "time": 21562
+  },
+  "72": {
+    "ids": [
+      "Hari Anirudh"
+    ],
+    "time": 21642
+  },
+  "73": {
+    "ids": [
+      "Thiago Han"
+    ],
+    "time": 21754
+  },
+  "74": {
+    "ids": [
+      "Callum Hales-Jepp"
+    ],
+    "time": 22156
+  },
+  "75": {
+    "ids": [
+      "Niklas Aasen Eliasson"
+    ],
+    "time": 22167
+  },
+  "76": {
+    "ids": [
+      "Brandon Lin (林博浩)"
+    ],
+    "time": 22171
+  },
+  "77": {
+    "ids": [
+      "Arthur Garcin"
+    ],
+    "time": 22339
+  },
+  "78": {
+    "ids": [
+      "Jonathan Dammann"
+    ],
+    "time": 22742
+  },
+  "79": {
+    "ids": [
+      "Max Siauw"
+    ],
+    "time": 23127
+  },
+  "80": {
+    "ids": [
+      "Luca Chiandotto"
+    ],
+    "time": 23336
+  },
+  "81": {
+    "ids": [
+      "Ryan Pilat"
+    ],
+    "time": 23377
+  },
+  "82": {
+    "ids": [
+      "Zeke Mackay"
+    ],
+    "time": 23447
+  },
+  "83": {
+    "ids": [
+      "Sebastiano Tronto"
+    ],
+    "time": 23470
+  },
+  "84": {
+    "ids": [
+      "Lennon Hughes"
+    ],
+    "time": 23882
+  },
+  "85": {
+    "ids": [
+      "Chenhao Sun (孙晨皓)"
+    ],
+    "time": 24045
+  },
+  "86": {
+    "ids": [
+      "Thomas Patterson"
+    ],
+    "time": 24276
+  },
+  "87": {
+    "ids": [
+      "Zhe Wang (王哲)"
+    ],
+    "time": 24725
+  },
+  "88": {
+    "ids": [
+      "Eskil Munthe"
+    ],
+    "time": 24772
+  },
+  "89": {
+    "ids": [
+      "Jason White"
+    ],
+    "time": 24776
+  },
+  "90": {
+    "ids": [
+      "Lim Hung (林弘)"
+    ],
+    "time": 24983
+  },
+  "91": {
+    "ids": [
+      "Witali Bułatow"
+    ],
+    "time": 25186
+  },
+  "92": {
+    "ids": [
+      "Thomas Reinke"
+    ],
+    "time": 25359
+  },
+  "93": {
+    "ids": [
+      "DongJae Lee"
+    ],
+    "time": 25542
+  },
+  "94": {
+    "ids": [
+      "Timo Norrkniivilä"
+    ],
+    "time": 25567
+  },
+  "95": {
+    "ids": [
+      "Tomoyuki Hiraide (平出智之)"
+    ],
+    "time": 25688
+  },
+  "96": {
+    "ids": [
+      "Michael Ngan (顏律言)"
+    ],
+    "time": 25707
+  },
+  "97": {
+    "ids": [
+      "Greehith Annabathina"
+    ],
+    "time": 25985
+  },
+  "98": {
+    "ids": [
+      "Aris Raksamani (อริศม์ รักษมณี)"
+    ],
+    "time": 26238
+  },
+  "99": {
+    "ids": [
+      "Haijun Tan (谭海俊)"
+    ],
+    "time": 26493
+  },
+  "100": {
+    "ids": [
+      "Oliver Wheat"
+    ],
+    "time": 26767
+  },
+  "101": {
+    "ids": [
+      "Harry Savage"
+    ],
+    "time": 26880
+  },
+  "102": {
+    "ids": [
+      "Nevins Chan Pak Hoong (陈百鸿)"
+    ],
+    "time": 26987
+  },
+  "103": {
+    "ids": [
+      "Mattheo de Wit"
+    ],
+    "time": 27083
+  },
+  "104": {
+    "ids": [
+      "Jan Bentlage"
+    ],
+    "time": 27419
+  },
+  "105": {
+    "ids": [
+      "Jack Cai"
+    ],
+    "time": 27477
+  },
+  "106": {
+    "ids": [
+      "Evan Liu"
+    ],
+    "time": 27591
+  },
+  "107": {
+    "ids": [
+      "Ivo Stoutjesdijk"
+    ],
+    "time": 27631
+  },
+  "108": {
+    "ids": [
+      "Jareth Soong Ying Rui (宋颖锐)"
+    ],
+    "time": 28025
+  },
+  "109": {
+    "ids": [
+      "Henri Gerber"
+    ],
+    "time": 28109
+  },
+  "110": {
+    "ids": [
+      "Luke Garrett"
+    ],
+    "time": 28584
+  },
+  "111": {
+    "ids": [
+      "Victor Valentin Glyrskov"
+    ],
+    "time": 28657
+  },
+  "112": {
+    "ids": [
+      "Noa Arthurs"
+    ],
+    "time": 29131
+  },
+  "113": {
+    "ids": [
+      "Swami Srinivasan"
+    ],
+    "time": 29286
+  },
+  "114": {
+    "ids": [
+      "Shawn Lee Zhi Xuan (李致轩)"
+    ],
+    "time": 29358
+  },
+  "115": {
+    "ids": [
+      "Rodrigo Ángeles Montes de Oca"
+    ],
+    "time": 29521
+  },
+  "116": {
+    "ids": [
+      "Willem Klose"
+    ],
+    "time": 29596
+  },
+  "117": {
+    "ids": [
+      "Ben Ridley"
+    ],
+    "time": 29614
+  },
+  "118": {
+    "ids": [
+      "Nicolas Campanario"
+    ],
+    "time": 29745
+  },
+  "119": {
+    "ids": [
+      "Kaius Young"
+    ],
+    "time": 30038
+  },
+  "120": {
+    "ids": [
+      "Andreas Pohl"
+    ],
+    "time": 30128
+  },
+  "121": {
+    "ids": [
+      "Hiroto Fujita (藤田浩斗)"
+    ],
+    "time": 30692
+  },
+  "122": {
+    "ids": [
+      "Jack McDougall"
+    ],
+    "time": 30841
+  },
+  "123": {
+    "ids": [
+      "Katharina Schlomberg"
+    ],
+    "time": 30974
+  },
+  "124": {
+    "ids": [
+      "Josete Sánchez"
+    ],
+    "time": 31007
+  },
+  "125": {
+    "ids": [
+      "Minhyun Kim (김민현)"
+    ],
+    "time": 31012
+  },
+  "126": {
+    "ids": [
+      "Liliya Kamaltdinova"
+    ],
+    "time": 31014
+  },
+  "127": {
+    "ids": [
+      "Wayne Pi"
+    ],
+    "time": 31572
+  },
+  "128": {
+    "ids": [
+      "Cham J. Chambers"
+    ],
+    "time": 31775
+  },
+  "129": {
+    "ids": [
+      "Abner Brijesh"
+    ],
+    "time": 31841
+  },
+  "130": {
+    "ids": [
+      "Samuel Moliver"
+    ],
+    "time": 32038
+  },
+  "131": {
+    "ids": [
+      "Brayden Thompson"
+    ],
+    "time": 32063
+  },
+  "132": {
+    "ids": [
+      "Anto Kam (甘浩東)"
+    ],
+    "time": 32106
+  },
+  "133": {
+    "ids": [
+      "Francisco Moraes Mandalozzo"
+    ],
+    "time": 32288
+  },
+  "134": {
+    "ids": [
+      "Jáchym Střelec"
+    ],
+    "time": 32303
+  },
+  "135": {
+    "ids": [
+      "Yifan Cheng (程依凡)"
+    ],
+    "time": 32337
+  },
+  "136": {
+    "ids": [
+      "Luis Gabriel Magadia"
+    ],
+    "time": 32645
+  },
+  "137": {
+    "ids": [
+      "Marco Edoardo Cittar"
+    ],
+    "time": 32696
+  },
+  "138": {
+    "ids": [
+      "Eddy Deturche"
+    ],
+    "time": 32710
+  },
+  "139": {
+    "ids": [
+      "Yonghao Xu (徐永浩)"
+    ],
+    "time": 32841
+  },
+  "140": {
+    "ids": [
+      "Tobias Peter"
+    ],
+    "time": 33020
+  },
+  "141": {
+    "ids": [
+      "Yuhang Sun (孙煜航)"
+    ],
+    "time": 33127
+  },
+  "142": {
+    "ids": [
+      "Olli Vikstedt"
+    ],
+    "time": 33221
+  },
+  "143": {
+    "ids": [
+      "Julian David"
+    ],
+    "time": 33397
+  },
+  "144": {
+    "ids": [
+      "Marcel Ručigaj"
+    ],
+    "time": 33515
+  },
+  "145": {
+    "ids": [
+      "Frederick Zheng"
+    ],
+    "time": 33589
+  },
+  "146": {
+    "ids": [
+      "Bruno Lezama"
+    ],
+    "time": 33590
+  },
+  "147": {
+    "ids": [
+      "Adam Marcellus Kelly"
+    ],
+    "time": 33680
+  },
+  "148": {
+    "ids": [
+      "Zijun Liu (刘子钧)"
+    ],
+    "time": 33938
+  },
+  "149": {
+    "ids": [
+      "Kai Jiptner"
+    ],
+    "time": 33973
+  },
+  "150": {
+    "ids": [
+      "Ashwyn Wadhawan"
+    ],
+    "time": 34107
+  },
+  "151": {
+    "ids": [
+      "Taku Yanai (矢内拓)"
+    ],
+    "time": 34116
+  },
+  "152": {
+    "ids": [
+      "Jiachi Han (韩佳池)"
+    ],
+    "time": 34126
+  },
+  "153": {
+    "ids": [
+      "Vincent Hartanto Utomo"
+    ],
+    "time": 34348
+  },
+  "154": {
+    "ids": [
+      "Shuto Ueno (上野柊斗)"
+    ],
+    "time": 34604
+  },
+  "155": {
+    "ids": [
+      "Bowen Xie"
+    ],
+    "time": 34620
+  },
+  "156": {
+    "ids": [
+      "Raymond Goslow"
+    ],
+    "time": 34652
+  },
+  "157": {
+    "ids": [
+      "Anqi Yu"
+    ],
+    "time": 34715
+  },
+  "158": {
+    "ids": [
+      "Kristian Holme"
+    ],
+    "time": 34760
+  },
+  "159": {
+    "ids": [
+      "Rodson Lingad"
+    ],
+    "time": 34923
+  },
+  "160": {
+    "ids": [
+      "Ben Timmons"
+    ],
+    "time": 34998
+  },
+  "161": {
+    "ids": [
+      "Matteo Dummar"
+    ],
+    "time": 35008
+  },
+  "162": {
+    "ids": [
+      "Marlon de V. Marques"
+    ],
+    "time": 35011
+  },
+  "163": {
+    "ids": [
+      "Gianfranco Huanqui"
+    ],
+    "time": 35090
+  },
+  "164": {
+    "ids": [
+      "Yifan Wang (王逸帆)"
+    ],
+    "time": 35095
+  },
+  "165": {
+    "ids": [
+      "Fernando Israel Zúñiga Macedo"
+    ],
+    "time": 35315
+  },
+  "166": {
+    "ids": [
+      "Dylan Swarts"
+    ],
+    "time": 35420
+  },
+  "167": {
+    "ids": [
+      "Timothy Lawrance"
+    ],
+    "time": 35518
+  },
+  "168": {
+    "ids": [
+      "Ragil Setyadi"
+    ],
+    "time": 35523
+  },
+  "169": {
+    "ids": [
+      "Jaxon Foster"
+    ],
+    "time": 35612
+  },
+  "170": {
+    "ids": [
+      "Mark Rivers"
+    ],
+    "time": 35660
+  },
+  "171": {
+    "ids": [
+      "Nathan Benson"
+    ],
+    "time": 35715
+  },
+  "172": {
+    "ids": [
+      "Konstantin Jaehne"
+    ],
+    "time": 35781
+  },
+  "173": {
+    "ids": [
+      "Jens Grieme"
+    ],
+    "time": 35798
+  },
+  "174": {
+    "ids": [
+      "Jan Fonš"
+    ],
+    "time": 35910
+  },
+  "175": {
+    "ids": [
+      "Marike Faught"
+    ],
+    "time": 35971
+  },
+  "176": {
+    "ids": [
+      "István Kocza"
+    ],
+    "time": 36141
+  },
+  "177": {
+    "ids": [
+      "Kyeongmin Choi"
+    ],
+    "time": 36156
+  },
+  "178": {
+    "ids": [
+      "Chen-Pin Sun (孫振斌)"
+    ],
+    "time": 36534
+  },
+  "179": {
+    "ids": [
+      "Niklas Thomßen"
+    ],
+    "time": 36592
+  },
+  "180": {
+    "ids": [
+      "Gabriel Alejandro Orozco Casillas"
+    ],
+    "time": 36939
+  },
+  "181": {
+    "ids": [
+      "Mikus Lembergs"
+    ],
+    "time": 37302
+  },
+  "182": {
+    "ids": [
+      "Anthony Lauro"
+    ],
+    "time": 37432
+  },
+  "183": {
+    "ids": [
+      "Fabian Settelen"
+    ],
+    "time": 37509
+  },
+  "184": {
+    "ids": [
+      "János Csontos"
+    ],
+    "time": 37613
+  },
+  "185": {
+    "ids": [
+      "Kacper Paweł Dworak"
+    ],
+    "time": 37726
+  },
+  "186": {
+    "ids": [
+      "Sukant Koul"
+    ],
+    "time": 37733
+  },
+  "187": {
+    "ids": [
+      "Angelo Melera"
+    ],
+    "time": 37804
+  },
+  "188": {
+    "ids": [
+      "Shiori Yanai (矢内詩織)"
+    ],
+    "time": 37838
+  },
+  "189": {
+    "ids": [
+      "Thomas Bevan"
+    ],
+    "time": 37951
+  },
+  "190": {
+    "ids": [
+      "Cedric Meysing"
+    ],
+    "time": 38213
+  },
+  "191": {
+    "ids": [
+      "Artyom Martirosov"
+    ],
+    "time": 38217
+  },
+  "192": {
+    "ids": [
+      "Peter Weyers"
+    ],
+    "time": 38267
+  },
+  "193": {
+    "ids": [
+      "Helmer Ewert"
+    ],
+    "time": 38317
+  },
+  "194": {
+    "ids": [
+      "Marcin Zalewski"
+    ],
+    "time": 38442
+  },
+  "195": {
+    "ids": [
+      "Raúl Cuevas Castillo"
+    ],
+    "time": 38620
+  },
+  "196": {
+    "ids": [
+      "Cary Huang"
+    ],
+    "time": 38642
+  },
+  "197": {
+    "ids": [
+      "Pavlo Bondar (Павло Бондар)"
+    ],
+    "time": 38745
+  },
+  "198": {
+    "ids": [
+      "Caleb Retik"
+    ],
+    "time": 38912
+  },
+  "199": {
+    "ids": [
+      "Hassan Khanani"
+    ],
+    "time": 39233
+  },
+  "200": {
+    "ids": [
+      "Miles Greco"
+    ],
+    "time": 39293
+  },
+  "201": {
+    "ids": [
+      "Sebastián Yuste Lucero"
+    ],
+    "time": 39561
+  },
+  "202": {
+    "ids": [
+      "Patryk Milewczyk"
+    ],
+    "time": 39575
+  },
+  "203": {
+    "ids": [
+      "Maxim Pürstinger"
+    ],
+    "time": 39773
+  },
+  "204": {
+    "ids": [
+      "Mike Hughey"
+    ],
+    "time": 39786
+  },
+  "205": {
+    "ids": [
+      "Corey Sakowski"
+    ],
+    "time": 39857
+  },
+  "206": {
+    "ids": [
+      "Kalindu Sachintha Wijesundara"
+    ],
+    "time": 39883
+  },
+  "207": {
+    "ids": [
+      "Joshua Feran"
+    ],
+    "time": 40080
+  },
+  "208": {
+    "ids": [
+      "Chester Lian"
+    ],
+    "time": 40238
+  },
+  "209": {
+    "ids": [
+      "Jake Brown"
+    ],
+    "time": 40260
+  },
+  "210": {
+    "ids": [
+      "Daniel Tidsey"
+    ],
+    "time": 40269
+  },
+  "211": {
+    "ids": [
+      "Gabriel Williams V"
+    ],
+    "time": 40288
+  },
+  "212": {
+    "ids": [
+      "Yuhei Takagi (高木佑平)"
+    ],
+    "time": 40472
+  },
+  "213": {
+    "ids": [
+      "Viktor Zenk"
+    ],
+    "time": 40619
+  },
+  "214": {
+    "ids": [
+      "Ting He (禾廷)"
+    ],
+    "time": 40897
+  },
+  "215": {
+    "ids": [
+      "Bárbara Guerra"
+    ],
+    "time": 41129
+  },
+  "216": {
+    "ids": [
+      "Ng Hoi Ying (吳鎧楹)"
+    ],
+    "time": 41177
+  },
+  "217": {
+    "ids": [
+      "Levi André Tallaksen"
+    ],
+    "time": 41213
+  },
+  "218": {
+    "ids": [
+      "Igor Aipkin"
+    ],
+    "time": 41468
+  },
+  "219": {
+    "ids": [
+      "Wilfrid Py"
+    ],
+    "time": 41473
+  },
+  "220": {
+    "ids": [
+      "Anuar Miguel Abib Onofre"
+    ],
+    "time": 41617
+  },
+  "221": {
+    "ids": [
+      "Achia Engel"
+    ],
+    "time": 41913
+  },
+  "222": {
+    "ids": [
+      "Adam Black"
+    ],
+    "time": 41992
+  },
+  "223": {
+    "ids": [
+      "Beomseok Ryu (류범석)"
+    ],
+    "time": 42025
+  },
+  "224": {
+    "ids": [
+      "Brayden Wroten"
+    ],
+    "time": 42107
+  },
+  "225": {
+    "ids": [
+      "Will Russo"
+    ],
+    "time": 42763
+  },
+  "226": {
+    "ids": [
+      "Sukesh Kumar"
+    ],
+    "time": 42880
+  },
+  "227": {
+    "ids": [
+      "Arkadiusz Żynel"
+    ],
+    "time": 42951
+  },
+  "228": {
+    "ids": [
+      "Bence Barát"
+    ],
+    "time": 43333
+  },
+  "229": {
+    "ids": [
+      "Dieter Amberger"
+    ],
+    "time": 43420
+  },
+  "230": {
+    "ids": [
+      "Manu Vereecken"
+    ],
+    "time": 43514
+  },
+  "231": {
+    "ids": [
+      "Mats Bergsten"
+    ],
+    "time": 43703
+  },
+  "232": {
+    "ids": [
+      "Howie Craig"
+    ],
+    "time": 43713
+  },
+  "233": {
+    "ids": [
+      "Kevin Matthews"
+    ],
+    "time": 44142
+  },
+  "234": {
+    "ids": [
+      "Walker Welch"
+    ],
+    "time": 44153
+  },
+  "235": {
+    "ids": [
+      "Šimon Borovský"
+    ],
+    "time": 44275
+  },
+  "236": {
+    "ids": [
+      "Max Hilliard"
+    ],
+    "time": 44357
+  },
+  "237": {
+    "ids": [
+      "Aaron Soley"
+    ],
+    "time": 44425
+  },
+  "238": {
+    "ids": [
+      "Justin Sui"
+    ],
+    "time": 45288
+  },
+  "239": {
+    "ids": [
+      "Tien Tran"
+    ],
+    "time": 45311
+  },
+  "240": {
+    "ids": [
+      "Alessio Pandin"
+    ],
+    "time": 45373
+  },
+  "241": {
+    "ids": [
+      "Stephen Bohner"
+    ],
+    "time": 45691
+  },
+  "242": {
+    "ids": [
+      "Wong Chong Wen (黄崇文)"
+    ],
+    "time": 45794
+  },
+  "243": {
+    "ids": [
+      "Yikuan Kan (阚亦宽)"
+    ],
+    "time": 45832
+  },
+  "244": {
+    "ids": [
+      "Rafael Sultanaliev"
+    ],
+    "time": 45858
+  },
+  "245": {
+    "ids": [
+      "Omar Ornelas Sifuentes"
+    ],
+    "time": 46031
+  },
+  "246": {
+    "ids": [
+      "Daniel Partridge"
+    ],
+    "time": 46074
+  },
+  "247": {
+    "ids": [
+      "Ziyi Xu (徐梓翼)"
+    ],
+    "time": 46087
+  },
+  "248": {
+    "ids": [
+      "Yinhao Ding"
+    ],
+    "time": 46321
+  },
+  "249": {
+    "ids": [
+      "Dylan Himmelfarb"
+    ],
+    "time": 46387
+  },
+  "250": {
+    "ids": [
+      "Ko Youngjin (고영진)"
+    ],
+    "time": 46496
+  },
+  "251": {
+    "ids": [
+      "Valerii Klymenko"
+    ],
+    "time": 46604
+  },
+  "252": {
+    "ids": [
+      "Kevin Arturo Huamán Ruiz"
+    ],
+    "time": 47400
+  },
+  "253": {
+    "ids": [
+      "Daniel Goodman"
+    ],
+    "time": 47681
+  },
+  "254": {
+    "ids": [
+      "Manu Dutheil"
+    ],
+    "time": 47756
+  },
+  "255": {
+    "ids": [
+      "Sean Hartman"
+    ],
+    "time": 47887
+  },
+  "256": {
+    "ids": [
+      "Sergio Bulux"
+    ],
+    "time": 48062
+  },
+  "257": {
+    "ids": [
+      "Chris Hardwick"
+    ],
+    "time": 48145
+  },
+  "258": {
+    "ids": [
+      "Max Kwok U Sam (郭愉琛)"
+    ],
+    "time": 48587
+  },
+  "259": {
+    "ids": [
+      "Elias Lampert"
+    ],
+    "time": 48618
+  },
+  "260": {
+    "ids": [
+      "Alexander Botz"
+    ],
+    "time": 48887
+  },
+  "261": {
+    "ids": [
+      "Takuma Shirahase (白波瀬拓磨)"
+    ],
+    "time": 48898
+  },
+  "262": {
+    "ids": [
+      "Knut Skaug Haraldsen"
+    ],
+    "time": 49270
+  },
+  "263": {
+    "ids": [
+      "Yunqi Ouyang (欧阳韵奇)"
+    ],
+    "time": 49346
+  },
+  "264": {
+    "ids": [
+      "Siah Yee Long"
+    ],
+    "time": 49493
+  },
+  "265": {
+    "ids": [
+      "Cyrill Speiser"
+    ],
+    "time": 49888
+  },
+  "266": {
+    "ids": [
+      "Thor Muto Asmund"
+    ],
+    "time": 50111
+  },
+  "267": {
+    "ids": [
+      "Andrew Mao"
+    ],
+    "time": 50215
+  },
+  "268": {
+    "ids": [
+      "Ryan Wu"
+    ],
+    "time": 50318
+  },
+  "269": {
+    "ids": [
+      "Ahmad Naufal Hakim"
+    ],
+    "time": 50345
+  },
+  "270": {
+    "ids": [
+      "Stone Amsbaugh"
+    ],
+    "time": 50449
+  },
+  "271": {
+    "ids": [
+      "Maksym Dumanskyi (Максим Думанський)"
+    ],
+    "time": 50616
+  },
+  "272": {
+    "ids": [
+      "Kate Grahame"
+    ],
+    "time": 50618
+  },
+  "273": {
+    "ids": [
+      "David McLean"
+    ],
+    "time": 50727
+  },
+  "274": {
+    "ids": [
+      "Karol Zakrzewski"
+    ],
+    "time": 50862
+  },
+  "275": {
+    "ids": [
+      "Evan Maccagnan"
+    ],
+    "time": 51037
+  },
+  "276": {
+    "ids": [
+      "Aaron Spiller"
+    ],
+    "time": 51082
+  },
+  "277": {
+    "ids": [
+      "Yu Da-Hyun (유다현)"
+    ],
+    "time": 51157
+  },
+  "278": {
+    "ids": [
+      "Brandon Villadolid"
+    ],
+    "time": 51302
+  },
+  "279": {
+    "ids": [
+      "Matt Prestwich"
+    ],
+    "time": 51612
+  },
+  "280": {
+    "ids": [
+      "Mykhailo Yartsun (Михайло Ярцун)"
+    ],
+    "time": 51797
+  },
+  "281": {
+    "ids": [
+      "Kit Clement"
+    ],
+    "time": 51798
+  },
+  "282": {
+    "ids": [
+      "Sean Moran"
+    ],
+    "time": 51952
+  },
+  "283": {
+    "ids": [
+      "Olivier Vos"
+    ],
+    "time": 51985
+  },
+  "284": {
+    "ids": [
+      "Jeremy Benik"
+    ],
+    "time": 52262
+  },
+  "285": {
+    "ids": [
+      "Étienne Aubry"
+    ],
+    "time": 52777
+  },
+  "286": {
+    "ids": [
+      "Fabrizio Cirnigliaro"
+    ],
+    "time": 52925
+  },
+  "287": {
+    "ids": [
+      "Alexis Fedeler"
+    ],
+    "time": 53080
+  },
+  "288": {
+    "ids": [
+      "Jiayue Chen (陈家悦)"
+    ],
+    "time": 53124
+  },
+  "289": {
+    "ids": [
+      "Conan Mo"
+    ],
+    "time": 53600
+  },
+  "290": {
+    "ids": [
+      "Jungwoo Kim (김정우)"
+    ],
+    "time": 53623
+  },
+  "291": {
+    "ids": [
+      "Sameer Aggarwal"
+    ],
+    "time": 53825
+  },
+  "292": {
+    "ids": [
+      "Joon Cha (차준혁)"
+    ],
+    "time": 53830
+  },
+  "293": {
+    "ids": [
+      "Christopher Chi"
+    ],
+    "time": 54232
+  },
+  "294": {
+    "ids": [
+      "Jacob Ambrose"
+    ],
+    "time": 54378
+  },
+  "295": {
+    "ids": [
+      "Hanns Hub"
+    ],
+    "time": 54633
+  },
+  "296": {
+    "ids": [
+      "James Moore"
+    ],
+    "time": 54636
+  },
+  "297": {
+    "ids": [
+      "Kai Yamamoto (山本快)"
+    ],
+    "time": 54740
+  },
+  "298": {
+    "ids": [
+      "Christian Naguio"
+    ],
+    "time": 55152
+  },
+  "299": {
+    "ids": [
+      "Takeo Nagoshi (名越丈雄)"
+    ],
+    "time": 55502
+  },
+  "300": {
+    "ids": [
+      "Namuun Natsagdorj"
+    ],
+    "time": 55564
+  },
+  "301": {
+    "ids": [
+      "AJ Blair"
+    ],
+    "time": 56189
+  },
+  "302": {
+    "ids": [
+      "CJ Brooke"
+    ],
+    "time": 57375
+  },
+  "303": {
+    "ids": [
+      "Hannah Minas"
+    ],
+    "time": 57501
+  },
+  "304": {
+    "ids": [
+      "Max Xiong (熊锐明)"
+    ],
+    "time": 57722
+  },
+  "305": {
+    "ids": [
+      "Daniel Mullen"
+    ],
+    "time": 58079
+  },
+  "306": {
+    "ids": [
+      "Gaurav Bachani"
+    ],
+    "time": 58197
+  },
+  "307": {
+    "ids": [
+      "Jiawen Wu (吴嘉文)"
+    ],
+    "time": 58328
+  },
+  "308": {
+    "ids": [
+      "Chu Yiu On (朱耀安)"
+    ],
+    "time": 58738
+  },
+  "309": {
+    "ids": [
+      "Li-Wei Wu (吳立偉)"
+    ],
+    "time": 58785
+  },
+  "310": {
+    "ids": [
+      "Arvid Ahlstrand"
+    ],
+    "time": 58901
+  },
+  "311": {
+    "ids": [
+      "Earl Bien D. Celestino"
+    ],
+    "time": 58903
+  },
+  "312": {
+    "ids": [
+      "Alexander Wheeler"
+    ],
+    "time": 59049
+  },
+  "313": {
+    "ids": [
+      "Yang Li (李扬)"
+    ],
+    "time": 59303
+  },
+  "314": {
+    "ids": [
+      "Sergio Torrijos Santano"
+    ],
+    "time": 59433
+  },
+  "315": {
+    "ids": [
+      "Alexander Nilsson"
+    ],
+    "time": 59521
+  },
+  "316": {
+    "ids": [
+      "Ivan Krueger"
+    ],
+    "time": 59544
+  },
+  "317": {
+    "ids": [
+      "Jelle Dillen"
+    ],
+    "time": 59581
+  },
+  "318": {
+    "ids": [
+      "Billie Hammill"
+    ],
+    "time": 59744
+  },
+  "319": {
+    "ids": [
+      "Matthew Dickman",
+      "Adam Hlavín"
+    ],
+    "time": 60600
+  },
+  "321": {
+    "ids": [
+      "Marcel Peters",
+      "Andrew Surine",
+      "Paweł Duraj"
+    ],
+    "time": 60800
+  },
+  "324": {
+    "ids": [
+      "Firstian Fushada (符逢城)"
+    ],
+    "time": 61200
+  },
+  "325": {
+    "ids": [
+      "Peter Åberg",
+      "Juan Ignacio Caneppa"
+    ],
+    "time": 61500
+  },
+  "327": {
+    "ids": [
+      "Braden Richards"
+    ],
+    "time": 61700
+  },
+  "328": {
+    "ids": [
+      "William Gan Wei Ren (颜伟仁)"
+    ],
+    "time": 62000
+  },
+  "329": {
+    "ids": [
+      "Jesús Lindo García"
+    ],
+    "time": 62300
+  },
+  "330": {
+    "ids": [
+      "Daniel Hicklin",
+      "Joaquín Hernan Sandoval Reyes"
+    ],
+    "time": 62800
+  },
+  "332": {
+    "ids": [
+      "Alex Butera"
+    ],
+    "time": 63100
+  },
+  "333": {
+    "ids": [
+      "Luke Selle"
+    ],
+    "time": 63800
+  },
+  "334": {
+    "ids": [
+      "Brandon Mikel"
+    ],
+    "time": 64300
+  },
+  "335": {
+    "ids": [
+      "Simon Chanin"
+    ],
+    "time": 64400
+  },
+  "336": {
+    "ids": [
+      "Raymos Castillo"
+    ],
+    "time": 64800
+  },
+  "337": {
+    "ids": [
+      "Achim Spies"
+    ],
+    "time": 65800
+  },
+  "338": {
+    "ids": [
+      "Yurii Riabov (Юрій Рябов)"
+    ],
+    "time": 65900
+  },
+  "339": {
+    "ids": [
+      "Simone Bentlage",
+      "Antonio Isaías Martínez Santos"
+    ],
+    "time": 66300
+  },
+  "341": {
+    "ids": [
+      "Erik Tjong Kim Sang"
+    ],
+    "time": 66400
+  },
+  "342": {
+    "ids": [
+      "Vishwa Sankar"
+    ],
+    "time": 66600
+  },
+  "343": {
+    "ids": [
+      "Mattia Rigo"
+    ],
+    "time": 66700
+  },
+  "344": {
+    "ids": [
+      "Kalin Doherty"
+    ],
+    "time": 67100
+  },
+  "345": {
+    "ids": [
+      "Brayden Adams"
+    ],
+    "time": 67200
+  },
+  "346": {
+    "ids": [
+      "Ali Mojarrad (علی مجرد)"
+    ],
+    "time": 67400
+  },
+  "347": {
+    "ids": [
+      "Takayuki Tanaka (田中隆喜)",
+      "Marharyta Dovbii (Маргарита Довбій)"
+    ],
+    "time": 67500
+  },
+  "349": {
+    "ids": [
+      "Dominik Obara"
+    ],
+    "time": 67700
+  },
+  "350": {
+    "ids": [
+      "Hannes Müller"
+    ],
+    "time": 67900
+  },
+  "351": {
+    "ids": [
+      "Leo Johansson"
+    ],
+    "time": 68100
+  },
+  "352": {
+    "ids": [
+      "Myles Jarman"
+    ],
+    "time": 68600
+  },
+  "353": {
+    "ids": [
+      "Jānis Zirnis"
+    ],
+    "time": 68900
+  },
+  "354": {
+    "ids": [
+      "Christopher Wittman"
+    ],
+    "time": 69300
+  },
+  "355": {
+    "ids": [
+      "Yuheng Wu (吴雨衡)"
+    ],
+    "time": 70100
+  },
+  "356": {
+    "ids": [
+      "James Quinn"
+    ],
+    "time": 71100
+  },
+  "357": {
+    "ids": [
+      "Carson Claud"
+    ],
+    "time": 71300
+  },
+  "358": {
+    "ids": [
+      "AJ Nicholls",
+      "Owl Carpenter"
+    ],
+    "time": 71900
+  },
+  "360": {
+    "ids": [
+      "Jingcai Li (李经才)"
+    ],
+    "time": 74300
+  },
+  "361": {
+    "ids": [
+      "Alistair Miller"
+    ],
+    "time": 74800
+  },
+  "362": {
+    "ids": [
+      "Philippe Schwartz"
+    ],
+    "time": 75300
+  },
+  "363": {
+    "ids": [
+      "Callum James Goodyear-Jørgensen"
+    ],
+    "time": 76500
+  },
+  "364": {
+    "ids": [
+      "Ge Shi (石歌)"
+    ],
+    "time": 77000
+  },
+  "365": {
+    "ids": [
+      "Jode Brewster"
+    ],
+    "time": 78200
+  },
+  "366": {
+    "ids": [
+      "Jan Riedl"
+    ],
+    "time": 78800
+  },
+  "367": {
+    "ids": [
+      "Aniketh Arya",
+      "Tyler Rose"
+    ],
+    "time": 78900
+  },
+  "369": {
+    "ids": [
+      "Zheng Shen (申正)"
+    ],
+    "time": 79400
+  },
+  "370": {
+    "ids": [
+      "Peter Preston",
+      "Komahal Eswaran"
+    ],
+    "time": 79500
+  },
+  "372": {
+    "ids": [
+      "Michael Conard"
+    ],
+    "time": 80100
+  },
+  "373": {
+    "ids": [
+      "Álvaro Aguilar Salobreña"
+    ],
+    "time": 80600
+  },
+  "374": {
+    "ids": [
+      "Flurin König"
+    ],
+    "time": 81000
+  },
+  "375": {
+    "ids": [
+      "Cyril Teichmann"
+    ],
+    "time": 82000
+  },
+  "376": {
+    "ids": [
+      "Kalyani H. Kiran",
+      "Takafumi Sakakibara (榊原隆文)"
+    ],
+    "time": 83000
+  },
+  "378": {
+    "ids": [
+      "Carlos Pedro Casado de Achával",
+      "Oliver Castledine"
+    ],
+    "time": 83100
+  },
+  "380": {
+    "ids": [
+      "Damir Zhanataev"
+    ],
+    "time": 83600
+  },
+  "381": {
+    "ids": [
+      "Manuel Prieto de Antón"
+    ],
+    "time": 84300
+  },
+  "382": {
+    "ids": [
+      "Christian Sachgau"
+    ],
+    "time": 85100
+  },
+  "383": {
+    "ids": [
+      "Artur Miralles Hernàndez"
+    ],
+    "time": 86000
+  },
+  "384": {
+    "ids": [
+      "Lanshi Zhang (张岚石)",
+      "Kerry Creech"
+    ],
+    "time": 86600
+  },
+  "386": {
+    "ids": [
+      "Logan Smith"
+    ],
+    "time": 87400
+  },
+  "387": {
+    "ids": [
+      "Danny Buschert"
+    ],
+    "time": 88000
+  },
+  "388": {
+    "ids": [
+      "Yizhi Cui (崔益智)"
+    ],
+    "time": 88500
+  },
+  "389": {
+    "ids": [
+      "Natanael Lundberg"
+    ],
+    "time": 89500
+  },
+  "390": {
+    "ids": [
+      "Maxim Chechnev"
+    ],
+    "time": 89700
+  },
+  "391": {
+    "ids": [
+      "Bradley Sampson"
+    ],
+    "time": 91600
+  },
+  "392": {
+    "ids": [
+      "Michał Wroński"
+    ],
+    "time": 92300
+  },
+  "393": {
+    "ids": [
+      "Chloe Lee Synn Yii"
+    ],
+    "time": 92400
+  },
+  "394": {
+    "ids": [
+      "David Pearce"
+    ],
+    "time": 92600
+  },
+  "395": {
+    "ids": [
+      "Eason Siew Ee Son (蕭奕晨)"
+    ],
+    "time": 93600
+  },
+  "396": {
+    "ids": [
+      "Andrei Răzvan Ionel"
+    ],
+    "time": 95000
+  },
+  "397": {
+    "ids": [
+      "Aiki Yaginuma (柳沼愛輝)"
+    ],
+    "time": 95300
+  },
+  "398": {
+    "ids": [
+      "Ian Moore"
+    ],
+    "time": 95700
+  },
+  "399": {
+    "ids": [
+      "Elijah Brown"
+    ],
+    "time": 98900
+  },
+  "400": {
+    "ids": [
+      "Gabriele Bacchieri"
+    ],
+    "time": 99700
+  },
+  "401": {
+    "ids": [
+      "Bartosz Krzysztoszek"
+    ],
+    "time": 100300
+  },
+  "402": {
+    "ids": [
+      "Matej Bolta"
+    ],
+    "time": 100500
+  },
+  "403": {
+    "ids": [
+      "Mayur Ukey"
+    ],
+    "time": 100700
+  },
+  "404": {
+    "ids": [
+      "Hua-Ting Lee (李華庭)"
+    ],
+    "time": 102400
+  },
+  "405": {
+    "ids": [
+      "Michael Larsen"
+    ],
+    "time": 103600
+  },
+  "406": {
+    "ids": [
+      "Oana-Simona Vrabie"
+    ],
+    "time": 104300
+  },
+  "407": {
+    "ids": [
+      "Syougo Kamo (加茂翔吾)"
+    ],
+    "time": 105500
+  },
+  "408": {
+    "ids": [
+      "Andrew Joshua"
+    ],
+    "time": 106300
+  },
+  "409": {
+    "ids": [
+      "Marcus Jormin"
+    ],
+    "time": 107100
+  },
+  "410": {
+    "ids": [
+      "Eli Rogers"
+    ],
+    "time": 109600
+  },
+  "411": {
+    "ids": [
+      "Draco Tong"
+    ],
+    "time": 111600
+  },
+  "412": {
+    "ids": [
+      "Ming Dao Ting"
+    ],
+    "time": 111900
+  },
+  "413": {
+    "ids": [
+      "Ben Whitmore"
+    ],
+    "time": 112000
+  },
+  "414": {
+    "ids": [
+      "Hamish Duncan"
+    ],
+    "time": 114800
+  },
+  "415": {
+    "ids": [
+      "Martin Fádlik"
+    ],
+    "time": 118300
+  },
+  "416": {
+    "ids": [
+      "Benjamin Schmutter"
+    ],
+    "time": 121500
+  },
+  "417": {
+    "ids": [
+      "Mateo Tiul"
+    ],
+    "time": 123200
+  },
+  "418": {
+    "ids": [
+      "Sora Sato"
+    ],
+    "time": 124900
+  },
+  "419": {
+    "ids": [
+      "Tripp Peters"
+    ],
+    "time": 126200
+  },
+  "420": {
+    "ids": [
+      "Daniel Kottenstette"
+    ],
+    "time": 126500
+  },
+  "421": {
+    "ids": [
+      "Simon Hiesl"
+    ],
+    "time": 130500
+  },
+  "422": {
+    "ids": [
+      "Sotaro Hayashi (林聡太朗)"
+    ],
+    "time": 132400
+  },
+  "423": {
+    "ids": [
+      "Preston Duke"
+    ],
+    "time": 132500
+  },
+  "424": {
+    "ids": [
+      "Donna Krueger"
+    ],
+    "time": 135800
+  },
+  "425": {
+    "ids": [
+      "Robin Hagner"
+    ],
+    "time": 137400
+  },
+  "426": {
+    "ids": [
+      "Rex Kotovich"
+    ],
+    "time": 138400
+  },
+  "427": {
+    "ids": [
+      "Salil Desai"
+    ],
+    "time": 139000
+  },
+  "428": {
+    "ids": [
+      "Ethan Woll"
+    ],
+    "time": 139400
+  },
+  "429": {
+    "ids": [
+      "Alex Lehman"
+    ],
+    "time": 142400
+  },
+  "430": {
+    "ids": [
+      "Chan Yau Hoi (陳佑愷)"
+    ],
+    "time": 149400
+  },
+  "431": {
+    "ids": [
+      "Joshua Paulus-Rosenow"
+    ],
+    "time": 231000
+  }
+}

@@ -1,0 +1,5696 @@
+{
+  "1": {
+    "ids": [
+      "Ernie Pulchny"
+    ],
+    "time": 175
+  },
+  "2": {
+    "ids": [
+      "Haokun Wang (王皓琨)"
+    ],
+    "time": 193
+  },
+  "3": {
+    "ids": [
+      "Máté Horváth",
+      "Yuxuan Wang (王宇轩)",
+      "Ramón Dersch"
+    ],
+    "time": 195
+  },
+  "6": {
+    "ids": [
+      "Mátyás Kuti"
+    ],
+    "time": 196
+  },
+  "7": {
+    "ids": [
+      "Kamil Fiedoruk"
+    ],
+    "time": 198
+  },
+  "8": {
+    "ids": [
+      "Fei Xue (薛非)"
+    ],
+    "time": 203
+  },
+  "9": {
+    "ids": [
+      "Angga Atrie"
+    ],
+    "time": 205
+  },
+  "10": {
+    "ids": [
+      "Milán Baticz"
+    ],
+    "time": 209
+  },
+  "11": {
+    "ids": [
+      "Ilham Ridhwan Kharisma Yudha"
+    ],
+    "time": 211
+  },
+  "12": {
+    "ids": [
+      "Quentin Lefebvre",
+      "Xiao Tan (谭啸)"
+    ],
+    "time": 213
+  },
+  "14": {
+    "ids": [
+      "Yiming Hua (华一鸣)",
+      "Yihao Zhao (赵羿皓)"
+    ],
+    "time": 216
+  },
+  "16": {
+    "ids": [
+      "Mo Ji (季默)"
+    ],
+    "time": 217
+  },
+  "17": {
+    "ids": [
+      "Parsa Saeed Nia (پارسا سعیدنیا)"
+    ],
+    "time": 220
+  },
+  "18": {
+    "ids": [
+      "Ryouga Hayashi (林竜河)"
+    ],
+    "time": 221
+  },
+  "19": {
+    "ids": [
+      "Bertalan Bodor",
+      "Hung Ka Shing (孔嘉城)",
+      "Zach Goldman",
+      "Dmitry Kryuzban"
+    ],
+    "time": 223
+  },
+  "23": {
+    "ids": [
+      "Xu Zhao (赵旭)"
+    ],
+    "time": 224
+  },
+  "24": {
+    "ids": [
+      "Karl Choi"
+    ],
+    "time": 225
+  },
+  "25": {
+    "ids": [
+      "Yoshiaki Hirayama (平山善章)"
+    ],
+    "time": 226
+  },
+  "26": {
+    "ids": [
+      "Oleksandr Pohasii (Олександр Погасій)"
+    ],
+    "time": 227
+  },
+  "27": {
+    "ids": [
+      "Amir Hossein Nafisi (امیر حسین نفیسی)"
+    ],
+    "time": 230
+  },
+  "28": {
+    "ids": [
+      "Aphichotewisit Woowong (อภิโชติวิสิทธิ์ วูวงศ์)"
+    ],
+    "time": 232
+  },
+  "29": {
+    "ids": [
+      "Leandro Baltazar",
+      "Sanio Kasumovic",
+      "Wei Zhou (周威)"
+    ],
+    "time": 233
+  },
+  "32": {
+    "ids": [
+      "Ming Gao (高鸣)",
+      "Puqi Yang (杨溥褀)"
+    ],
+    "time": 234
+  },
+  "34": {
+    "ids": [
+      "Mehrzad Goli (مهرزاد گلی)"
+    ],
+    "time": 235
+  },
+  "35": {
+    "ids": [
+      "Yuandi Zhang (张元缔)"
+    ],
+    "time": 236
+  },
+  "36": {
+    "ids": [
+      "Qirun Zhong (钟奇润)"
+    ],
+    "time": 239
+  },
+  "37": {
+    "ids": [
+      "Yang Yang (杨洋)"
+    ],
+    "time": 240
+  },
+  "38": {
+    "ids": [
+      "Yazhou Fu (付亚洲)",
+      "Denis Uglov"
+    ],
+    "time": 241
+  },
+  "40": {
+    "ids": [
+      "So Chi Leung",
+      "Hunor Bózsing",
+      "Yang Liu (刘洋)"
+    ],
+    "time": 242
+  },
+  "43": {
+    "ids": [
+      "Owidiusz Pryk",
+      "Guanda Fu (符冠达)"
+    ],
+    "time": 243
+  },
+  "45": {
+    "ids": [
+      "Sam Boyles",
+      "Sen Dang (党森)",
+      "Tanto Prabowo"
+    ],
+    "time": 244
+  },
+  "48": {
+    "ids": [
+      "Ryan Cangelosi"
+    ],
+    "time": 245
+  },
+  "49": {
+    "ids": [
+      "Kai Gabriel",
+      "Jaemin Jeon (전재민)"
+    ],
+    "time": 246
+  },
+  "51": {
+    "ids": [
+      "Mitchell Lane",
+      "Chen Lv (吕宸)",
+      "Sina Salehpour (سینا صالح پور)"
+    ],
+    "time": 247
+  },
+  "54": {
+    "ids": [
+      "Hongye Sun (孙虹烨)",
+      "Błażej Cichy"
+    ],
+    "time": 248
+  },
+  "56": {
+    "ids": [
+      "Tang Yiu Chun (鄧耀俊)",
+      "Wei Wang (汪威)"
+    ],
+    "time": 249
+  },
+  "58": {
+    "ids": [
+      "Piotr Michał Padlewski"
+    ],
+    "time": 250
+  },
+  "59": {
+    "ids": [
+      "Yuyang Zhang (张裕阳)",
+      "Angel Arrioja Landa",
+      "Bin Xie (谢斌)"
+    ],
+    "time": 251
+  },
+  "62": {
+    "ids": [
+      "Xiaojian Li (李晓健)"
+    ],
+    "time": 252
+  },
+  "63": {
+    "ids": [
+      "Bence Barát",
+      "Chao Liu (刘超)",
+      "Marcin Radziszewski"
+    ],
+    "time": 253
+  },
+  "66": {
+    "ids": [
+      "Mateusz Cichoracki"
+    ],
+    "time": 255
+  },
+  "67": {
+    "ids": [
+      "Hideki Niina (新名秀樹)",
+      "Justin Badua",
+      "Kunlin Yu (虞坤霖)"
+    ],
+    "time": 256
+  },
+  "70": {
+    "ids": [
+      "Shuai Liu (刘帅)",
+      "Antoine Cantin",
+      "Adam Rotal Yuliandaru",
+      "Dong-Hyun Kim (김동현)"
+    ],
+    "time": 257
+  },
+  "74": {
+    "ids": [
+      "James Dean Ludlow",
+      "Daniel Mucklow"
+    ],
+    "time": 259
+  },
+  "76": {
+    "ids": [
+      "Simone Santarsiero",
+      "Ihor Bilchenko (Ігор Більченко)",
+      "Sungho Hong (홍성호)"
+    ],
+    "time": 260
+  },
+  "79": {
+    "ids": [
+      "Dan Cohen",
+      "Hongyang Wang (王红洋)"
+    ],
+    "time": 261
+  },
+  "81": {
+    "ids": [
+      "Nathan Soria"
+    ],
+    "time": 262
+  },
+  "82": {
+    "ids": [
+      "Mok Man Kit (莫文傑)",
+      "Marasi Deon Joubert"
+    ],
+    "time": 263
+  },
+  "84": {
+    "ids": [
+      "Junyan Wu (吴俊彦)"
+    ],
+    "time": 264
+  },
+  "85": {
+    "ids": [
+      "Endre Kovács",
+      "Reinhard Eduardo Mozes"
+    ],
+    "time": 265
+  },
+  "87": {
+    "ids": [
+      "Yuanzhao Kang (康远昭)",
+      "Yi Quan (全熠)",
+      "Hidemichi Jou (城秀達)"
+    ],
+    "time": 266
+  },
+  "90": {
+    "ids": [
+      "Fachri Padmaridho"
+    ],
+    "time": 267
+  },
+  "91": {
+    "ids": [
+      "Evan Liu",
+      "Michael Röhrer",
+      "Ole Nikolai Gjerset"
+    ],
+    "time": 268
+  },
+  "94": {
+    "ids": [
+      "Fubo Wang (王富博)",
+      "Philip Gonzalez",
+      "Ke Pan (潘轲)"
+    ],
+    "time": 269
+  },
+  "97": {
+    "ids": [
+      "Yu Nakajima (中島悠)"
+    ],
+    "time": 270
+  },
+  "98": {
+    "ids": [
+      "Kevin Chau Ka Wai (周嘉偉)"
+    ],
+    "time": 271
+  },
+  "99": {
+    "ids": [
+      "Kou Oobatake (大畠功)",
+      "Jacob Bergqvist",
+      "Chonghao Wu (武崇皓)"
+    ],
+    "time": 272
+  },
+  "102": {
+    "ids": [
+      "Li Gao (高力)"
+    ],
+    "time": 273
+  },
+  "103": {
+    "ids": [
+      "Chan Tak Chuen (陳德泉)",
+      "Watjakorn Suwadinkul"
+    ],
+    "time": 274
+  },
+  "105": {
+    "ids": [
+      "Bálint Bodor",
+      "Cornelius Dieckmann",
+      "Fakhri Raihaan"
+    ],
+    "time": 275
+  },
+  "108": {
+    "ids": [
+      "Nicolò Simone",
+      "Mateusz Adamczyk"
+    ],
+    "time": 276
+  },
+  "110": {
+    "ids": [
+      "Parham Saeed Nia (پرهام سعیدنیا)"
+    ],
+    "time": 277
+  },
+  "111": {
+    "ids": [
+      "Ting Sheng Bao Yang",
+      "Chan Chun Hang (陳浚鏗)",
+      "Nora Akkersdijk",
+      "Korneliusz Tombarkiewicz",
+      "Xiaozhe Yan (晏骁哲)"
+    ],
+    "time": 278
+  },
+  "116": {
+    "ids": [
+      "Ryan Jew",
+      "Huy Dao"
+    ],
+    "time": 279
+  },
+  "118": {
+    "ids": [
+      "Carlos Méndez García-Barroso",
+      "Leow Yi Jun (廖艺畯)",
+      "Zheng Li (李征)",
+      "Dicky Junior"
+    ],
+    "time": 280
+  },
+  "122": {
+    "ids": [
+      "Takayuki Ookusa (大艸尊之)",
+      "Lining Wang (王立宁)",
+      "Andre Febriato Jonathan"
+    ],
+    "time": 281
+  },
+  "125": {
+    "ids": [
+      "Rudolf Wehofer",
+      "Ainesh Sevellaraja"
+    ],
+    "time": 283
+  },
+  "127": {
+    "ids": [
+      "Han Joong Won (한중원)"
+    ],
+    "time": 284
+  },
+  "128": {
+    "ids": [
+      "Martin Zahradník",
+      "Kim Weon Bin (김원빈)"
+    ],
+    "time": 285
+  },
+  "130": {
+    "ids": [
+      "Timothy Sun",
+      "Zhuotai Zhong (钟卓泰)",
+      "Reza Haji Abedini (رضا حاجی عابدینی)"
+    ],
+    "time": 286
+  },
+  "133": {
+    "ids": [
+      "Ge Song (宋鸽)",
+      "Kai Liu (刘恺)",
+      "Louis Cormier",
+      "Yefeng Hu (胡叶枫)",
+      "Muhammad Arsyad Maulana"
+    ],
+    "time": 287
+  },
+  "138": {
+    "ids": [
+      "Lo Chun Lok (盧雋樂)",
+      "Yu Chen (陈瑜)",
+      "James Hamory"
+    ],
+    "time": 288
+  },
+  "141": {
+    "ids": [
+      "Henrik Buus Aagaard",
+      "Maria Timoshchenko",
+      "Stefan Stoiber"
+    ],
+    "time": 289
+  },
+  "144": {
+    "ids": [
+      "Marcin Jakubowski"
+    ],
+    "time": 290
+  },
+  "145": {
+    "ids": [
+      "Yunqi Ouyang (欧阳韵奇)",
+      "Nipat Charoenpholphant (นิพัฒน์ เจริญพลพันธุ์)",
+      "Dennis Rosero",
+      "Casarengga",
+      "Nicolas Mathieu",
+      "Rudy"
+    ],
+    "time": 291
+  },
+  "151": {
+    "ids": [
+      "Alexander Ooms",
+      "Wojciech Szatanowski"
+    ],
+    "time": 292
+  },
+  "153": {
+    "ids": [
+      "Van Tien Trung Vu",
+      "Alexandre Philiponet",
+      "Jinwoo Choi (최진우)",
+      "Shikai Jiang (江侍锴)"
+    ],
+    "time": 293
+  },
+  "157": {
+    "ids": [
+      "Juan Juli Andika Chandra",
+      "Javier Tirado Ortiz",
+      "Nur Ibrahim Rosyad",
+      "Zihao Wang (王子豪)",
+      "Sam Nave",
+      "Bartłomiej Różalski"
+    ],
+    "time": 294
+  },
+  "163": {
+    "ids": [
+      "Shixian Li (李世先)",
+      "Ludwig Choi"
+    ],
+    "time": 295
+  },
+  "165": {
+    "ids": [
+      "Nathan Dwyer",
+      "Ishmam Mirza",
+      "Hao Tian (田浩)"
+    ],
+    "time": 296
+  },
+  "168": {
+    "ids": [
+      "Isaias Andrés Sepúlveda Pérez",
+      "Michael Christianto Rhynaldy",
+      "Jia Zeng (曾嘉)",
+      "Rafee Mirza"
+    ],
+    "time": 297
+  },
+  "172": {
+    "ids": [
+      "Bálint Horváth",
+      "Simone Ciancotti",
+      "Brandon Lin (林博浩)",
+      "Seyyed Ramin Hosseini (سید رامین حسینی)"
+    ],
+    "time": 298
+  },
+  "176": {
+    "ids": [
+      "Filippo Brancaleoni",
+      "Mo Yik Chung (毛奕聰)"
+    ],
+    "time": 300
+  },
+  "178": {
+    "ids": [
+      "Tim Reynolds"
+    ],
+    "time": 301
+  },
+  "179": {
+    "ids": [
+      "Erik Akkersdijk",
+      "Markus Pirzer",
+      "Łukasz Herman"
+    ],
+    "time": 302
+  },
+  "182": {
+    "ids": [
+      "Zhen Tang (唐镇)",
+      "Joshua Feran"
+    ],
+    "time": 303
+  },
+  "184": {
+    "ids": [
+      "Jan Bentlage",
+      "Niek Kamalian"
+    ],
+    "time": 304
+  },
+  "186": {
+    "ids": [
+      "Patrick Jameson",
+      "Yiming Liu (刘一鸣)",
+      "Tzu-Heng Lin (林子恆)",
+      "Bryson Azzopardi"
+    ],
+    "time": 306
+  },
+  "190": {
+    "ids": [
+      "Gábor Róka",
+      "Robin Deun",
+      "Donguk Kim (김동욱)"
+    ],
+    "time": 307
+  },
+  "193": {
+    "ids": [
+      "Daniel Borrajo Gutiérrez"
+    ],
+    "time": 308
+  },
+  "194": {
+    "ids": [
+      "Ardianto Satriawan",
+      "Bingfeng Wu (吴炳峰)",
+      "Tao Yu (余涛)",
+      "Khairur Rachim",
+      "Sebastian Werb"
+    ],
+    "time": 309
+  },
+  "199": {
+    "ids": [
+      "Zeyu Wang (王泽宇)",
+      "Oskar Åsbrink",
+      "Hongming Zhang (张洪铭)",
+      "Yan Wang (王岩)"
+    ],
+    "time": 310
+  },
+  "203": {
+    "ids": [
+      "Thom Barlow",
+      "Wang Junwen (王俊文)",
+      "Yiqun Fan (樊轶群)"
+    ],
+    "time": 311
+  },
+  "206": {
+    "ids": [
+      "Trần Văn Thanh Tùng",
+      "Shida Feng (冯世达)"
+    ],
+    "time": 312
+  },
+  "208": {
+    "ids": [
+      "Tong Boonrod (ต๋อง บุญรอด)",
+      "Ting-Xian Lin (林廷縣)"
+    ],
+    "time": 313
+  },
+  "210": {
+    "ids": [
+      "Bob Burton",
+      "Craig Bouchard",
+      "Everett Kelly",
+      "Stefan Lidström",
+      "Xinye Wang (王鑫晔)",
+      "David Burany",
+      "Haotian Dong (董浩天)"
+    ],
+    "time": 315
+  },
+  "217": {
+    "ids": [
+      "Jorge Morata Carrasco",
+      "Pang Pak Hin (彭栢軒)",
+      "Daniel Gracia Ortiz",
+      "Péter Pozsgai",
+      "Gaël Servignat"
+    ],
+    "time": 316
+  },
+  "222": {
+    "ids": [
+      "Zhulu Ke (柯助錄)",
+      "Bin Wang (王斌)"
+    ],
+    "time": 317
+  },
+  "224": {
+    "ids": [
+      "Jimmy Coll"
+    ],
+    "time": 318
+  },
+  "225": {
+    "ids": [
+      "Chen Chia Chen",
+      "Austin Reed"
+    ],
+    "time": 319
+  },
+  "227": {
+    "ids": [
+      "Jin Mochizuki (望月仁)",
+      "Chenxi Shan (单晨曦)"
+    ],
+    "time": 321
+  },
+  "229": {
+    "ids": [
+      "Simon Westlund",
+      "Yishun Chen (陈翊舜)"
+    ],
+    "time": 322
+  },
+  "231": {
+    "ids": [
+      "Wojciech Inglot",
+      "Jiawei Shou (寿佳伟)",
+      "Mengnan Sun (孙梦楠)",
+      "Jiayi Pan (潘嘉仪)"
+    ],
+    "time": 323
+  },
+  "235": {
+    "ids": [
+      "Tamás Kozaróczy",
+      "Maarten Smit",
+      "Daniel Sheppard",
+      "Brandon Mikel",
+      "Tonatiuh Martínez Mercado"
+    ],
+    "time": 324
+  },
+  "240": {
+    "ids": [
+      "Matic Omulec"
+    ],
+    "time": 327
+  },
+  "241": {
+    "ids": [
+      "Olivér Perge",
+      "Jun Wang (王骏)",
+      "Yu Shi (时宇)",
+      "Tan Hua Zheng (陈华政)"
+    ],
+    "time": 328
+  },
+  "245": {
+    "ids": [
+      "Haowei Fan (樊浩玮)"
+    ],
+    "time": 329
+  },
+  "246": {
+    "ids": [
+      "Michael Gottlieb",
+      "Marek Padlewski"
+    ],
+    "time": 330
+  },
+  "248": {
+    "ids": [
+      "Bonifác Péter Létai",
+      "Gabriel Felipe Rodríguez Manrique",
+      "Zainal Abidin"
+    ],
+    "time": 331
+  },
+  "251": {
+    "ids": [
+      "Ming Jiao (焦明)",
+      "Shuangbin Feng (冯爽彬)",
+      "Zhaoli Zheng (郑召利)"
+    ],
+    "time": 332
+  },
+  "254": {
+    "ids": [
+      "Nobuaki Suga (菅信昭)",
+      "Donglei Li (李冬雷)",
+      "Muhammad Badruddin",
+      "Achmad Rizki Zakaria"
+    ],
+    "time": 333
+  },
+  "258": {
+    "ids": [
+      "Róbert Örkényi",
+      "Chae Jiseok (채지석)",
+      "Kirk Nicklaus Manibuy",
+      "Yongyi Xiong (熊永一)",
+      "Ui-Min Park (박의민)",
+      "Xin Zheng (郑昕)",
+      "Ali Aghataher (علي آقاطاهر)",
+      "Hector Trujillo"
+    ],
+    "time": 334
+  },
+  "266": {
+    "ids": [
+      "Clément Gallet",
+      "Lee Chun Hin (李震軒)",
+      "Francisco Javier Lucas Marín",
+      "Greg Maziuk",
+      "Yan Song (宋岩)",
+      "Im Chan Gue (임찬규)",
+      "Hongyu Zhou (周翃羽)"
+    ],
+    "time": 335
+  },
+  "273": {
+    "ids": [
+      "Stefan Pochmann",
+      "Hideaki Komami (駒見英明)",
+      "Qingyu Cai (蔡青玉)",
+      "Fandy Ramadhan Ganefianto"
+    ],
+    "time": 336
+  },
+  "277": {
+    "ids": [
+      "Dániel Varga",
+      "Qingjia Li (李庆佳)",
+      "Jiachun Fan (樊佳纯)",
+      "Jiacheng Chen (陈佳丞)",
+      "Qingwei Kong (孔庆玮)"
+    ],
+    "time": 337
+  },
+  "282": {
+    "ids": [
+      "Nicolas Bodmer",
+      "Samuel Chiu",
+      "Young Joon Kim (김영준)"
+    ],
+    "time": 338
+  },
+  "285": {
+    "ids": [
+      "Tzu-Han Hung (洪梓菡)",
+      "Alan Pablo Luja Anguiano",
+      "Haibo Sui (隋海波)"
+    ],
+    "time": 339
+  },
+  "288": {
+    "ids": [
+      "Fucong Fei (费付聪)",
+      "Cameron Stollery",
+      "Yu Zhu (朱玉)",
+      "Ilham Fikriya Darmawan",
+      "Ric Donati",
+      "Hiroki Kanamori (金森広樹)",
+      "Wojciech Knott",
+      "Chris Wall",
+      "Bo Wang (王波)"
+    ],
+    "time": 340
+  },
+  "297": {
+    "ids": [
+      "Dan Dzoan",
+      "Leixin Zhou (周磊欣)"
+    ],
+    "time": 341
+  },
+  "299": {
+    "ids": [
+      "Gloryan Casimir Nursewan",
+      "Rong Fan (樊榕)"
+    ],
+    "time": 342
+  },
+  "301": {
+    "ids": [
+      "Didiet Aditya Bayu Kusuma",
+      "Alvin Christianto Budiman",
+      "Bixuan Li (李碧萱)"
+    ],
+    "time": 343
+  },
+  "304": {
+    "ids": [
+      "Takao Hashimoto (橋本貴夫)",
+      "Jason Gyani",
+      "Ranz Norwin Lim",
+      "Vincent Hartanto Utomo"
+    ],
+    "time": 344
+  },
+  "308": {
+    "ids": [
+      "Jakub Zawiślak",
+      "Mengke Li (李孟珂)",
+      "Andrés Alfaro",
+      "Sarah Rajemison"
+    ],
+    "time": 345
+  },
+  "312": {
+    "ids": [
+      "Chatree Malarak (ชาตรี มาลารักษ์)",
+      "Fachmi Pachlevi",
+      "Seyyed Mohammad Hossein Fatemi (سید محمد حسین فاطمی)",
+      "Kobe Balin"
+    ],
+    "time": 346
+  },
+  "316": {
+    "ids": [
+      "Xintao Tan (谭新涛)",
+      "Chan Yung Sang (陳容笙)",
+      "Kim Tae Hyung (김태형)",
+      "Tony Mitts",
+      "HyunDong You (유현동)"
+    ],
+    "time": 347
+  },
+  "321": {
+    "ids": [
+      "Yan-Jou Lin (林彥州)",
+      "Yang Jiang (蒋洋)"
+    ],
+    "time": 348
+  },
+  "323": {
+    "ids": [
+      "Xu Liu (刘旭)",
+      "Tse Yuet Ming (謝乙銘)",
+      "Leon Parfitt",
+      "Yandri Rahmat Fadli",
+      "Brock Hamann"
+    ],
+    "time": 349
+  },
+  "328": {
+    "ids": [
+      "Tadeás Miler",
+      "Michał Halczuk",
+      "Tibor Dezse",
+      "Ying Luo (罗鹰)",
+      "DongHoe Gu (구동회)"
+    ],
+    "time": 350
+  },
+  "333": {
+    "ids": [
+      "Jan Dickmann",
+      "Tamás Kelemen",
+      "Calvin Chau"
+    ],
+    "time": 351
+  },
+  "336": {
+    "ids": [
+      "Rowe Hessler",
+      "Shu Yi (易术)",
+      "Zichao Ye (叶子超)"
+    ],
+    "time": 352
+  },
+  "339": {
+    "ids": [
+      "Mike Hughey",
+      "Matthew Chang",
+      "Ng Chi Chung",
+      "Artur Firyan"
+    ],
+    "time": 353
+  },
+  "343": {
+    "ids": [
+      "Baramee Pookcharoen (บารมี พุกเจริญ)",
+      "Barnabás Turi",
+      "Qingxi Zhao (赵倾溪)",
+      "Jingyu Fan (范竟宇)"
+    ],
+    "time": 354
+  },
+  "347": {
+    "ids": [
+      "Garret von Gaffron",
+      "Clement Setyabudhy",
+      "Fung Hoi Yin (馮凱賢)",
+      "Hampus Hansson",
+      "Agnes Maxelino",
+      "Liang Chen (陈亮)",
+      "Fajar Ade Kurniawan"
+    ],
+    "time": 355
+  },
+  "354": {
+    "ids": [
+      "Olivér Nagy",
+      "Sven Gowal",
+      "Timo Schönfelder",
+      "Hongfei Tian (田洪飞)",
+      "Yan Xia (夏焱)"
+    ],
+    "time": 356
+  },
+  "359": {
+    "ids": [
+      "Rodrigo Piaggio Bermudez",
+      "Carter Olberg"
+    ],
+    "time": 357
+  },
+  "361": {
+    "ids": [
+      "Sebastián Pino Castillo",
+      "Kim Chow",
+      "Prin Kijviwattanakarn (ปริญ กิจวิวัฒนการ)",
+      "Intan Octavia",
+      "Nick Rech"
+    ],
+    "time": 358
+  },
+  "366": {
+    "ids": [
+      "Mingren Lu (卢鸣仁)",
+      "Olivier Polspoel",
+      "Lei Shi (时雷)",
+      "Nguyen Phuc Hai",
+      "James Molloy",
+      "Rami Sbahi"
+    ],
+    "time": 359
+  },
+  "372": {
+    "ids": [
+      "David Woner",
+      "Felipe Keller Ariza",
+      "Jianlin Lei (雷建麟)"
+    ],
+    "time": 360
+  },
+  "375": {
+    "ids": [
+      "Johan Holmedahl",
+      "Yi-Hsueh Chu (朱弈學)",
+      "Lianyue Shan (单连钺)",
+      "Arash Maslehatjoo (آرش مصلحت جو)"
+    ],
+    "time": 361
+  },
+  "379": {
+    "ids": [
+      "Ádám Laczó",
+      "Laura Ohrndorf"
+    ],
+    "time": 362
+  },
+  "381": {
+    "ids": [
+      "Marcin Karnicki",
+      "Mehdi Ghaderi (مهدی قادری)"
+    ],
+    "time": 363
+  },
+  "383": {
+    "ids": [
+      "Nils Feuer"
+    ],
+    "time": 364
+  },
+  "384": {
+    "ids": [
+      "Julian Fliege"
+    ],
+    "time": 365
+  },
+  "385": {
+    "ids": [
+      "Arttu Arpolahti",
+      "Pablo Grasböck",
+      "David Schult"
+    ],
+    "time": 366
+  },
+  "388": {
+    "ids": [
+      "Sébastien Auroux",
+      "Paulo Salgado Alvarez",
+      "Liwen Fang (方丽雯)",
+      "Dimas Satrio Danardono"
+    ],
+    "time": 367
+  },
+  "392": {
+    "ids": [
+      "Arnaud van Galen",
+      "Fanqi Zong (宗凡琪)",
+      "Zhichao Huang (黄智超)",
+      "Haoran Yin (殷浩然)",
+      "Jack O'Mahony"
+    ],
+    "time": 368
+  },
+  "397": {
+    "ids": [
+      "Rhodri Mativo",
+      "Jonathan Choi",
+      "Kenta Ohno (大野健太)",
+      "Tristan Paulussen",
+      "Cesare Paulin",
+      "Alfrisa Diva Wandana",
+      "Wesley Miller",
+      "Lijiaqi Zhang (张李佳琦)",
+      "Daniel Maienshein"
+    ],
+    "time": 369
+  },
+  "406": {
+    "ids": [
+      "Gavin Nelson",
+      "Atsushi Matsumoto (松本淳)",
+      "Victor Bogatov",
+      "Xinghua Guo (郭兴化)"
+    ],
+    "time": 370
+  },
+  "410": {
+    "ids": [
+      "István Fazekas",
+      "Jiarui Cao (曹家睿)",
+      "Pau Vela García",
+      "Justin Mallari"
+    ],
+    "time": 371
+  },
+  "414": {
+    "ids": [
+      "Kenneth Gustavsson",
+      "Nathanael Bettis",
+      "Yi-Fan Wu (吳亦凡)",
+      "Dehua Wu (吴德华)"
+    ],
+    "time": 372
+  },
+  "418": {
+    "ids": [
+      "Yunsu Nam (남윤수)",
+      "Hong Zhang (张宏)",
+      "Ng Tsz Chun (吳子俊)",
+      "Robert Yau",
+      "Andriyan Alfayed"
+    ],
+    "time": 373
+  },
+  "423": {
+    "ids": [
+      "Massimo Russo",
+      "Chan Yui Yin",
+      "David Thiringer",
+      "Andreas Pohl",
+      "Kengo Yamawaki (山脇憲吾)"
+    ],
+    "time": 374
+  },
+  "428": {
+    "ids": [
+      "Jaclyn Burton",
+      "Takuya Furukawa (古河拓也)",
+      "Chui-Hsien Lin (林垂憲)",
+      "Zikai Liu (刘子恺)"
+    ],
+    "time": 375
+  },
+  "432": {
+    "ids": [
+      "Riadi Arsandi",
+      "Bowen Deng (邓博文)",
+      "John Dirks",
+      "Yiping Wang (王一平)",
+      "Chunmei Wei (魏春美)"
+    ],
+    "time": 376
+  },
+  "437": {
+    "ids": [
+      "Aldo Feandri"
+    ],
+    "time": 377
+  },
+  "438": {
+    "ids": [
+      "Khairur Rachman",
+      "Saeed Safavizadeh (سعید صفوی زاده)"
+    ],
+    "time": 378
+  },
+  "440": {
+    "ids": [
+      "Doowon Joo",
+      "Joshua Shing Shun Li",
+      "Gooi Ying Chyi",
+      "Yiu Ting Hong",
+      "Yue Liu (刘月)",
+      "Yan Xuan (宣炎)",
+      "Miroslav Delinac",
+      "Suhyeon Lee",
+      "Arjay Vander Velden"
+    ],
+    "time": 379
+  },
+  "449": {
+    "ids": [
+      "Gabriela Gierasimiuk",
+      "Shuohong Wang (王硕鸿)"
+    ],
+    "time": 380
+  },
+  "451": {
+    "ids": [
+      "Takuma Shirahase (白波瀬拓磨)",
+      "Bálint Barát",
+      "Jiajun Li (李嘉俊)",
+      "Darun Mahtani"
+    ],
+    "time": 381
+  },
+  "455": {
+    "ids": [
+      "Nguyễn Việt Hoàng",
+      "Renxiang Xu (徐任翔)",
+      "Rui Zhou (周锐)"
+    ],
+    "time": 382
+  },
+  "458": {
+    "ids": [
+      "Gábor Szabó",
+      "Benjamín Straub"
+    ],
+    "time": 383
+  },
+  "460": {
+    "ids": [
+      "Dorian Stein",
+      "Haitong Wu (吴海通)"
+    ],
+    "time": 384
+  },
+  "462": {
+    "ids": [
+      "László Mészáros",
+      "Janitra Ezra Putra",
+      "Zhihao Jia (贾志豪)",
+      "Evgeny Sharov",
+      "Andy Smith",
+      "Yann Bouveret",
+      "Zachary Lowry",
+      "Benjamin Skoning",
+      "Lee Min Woo"
+    ],
+    "time": 385
+  },
+  "471": {
+    "ids": [
+      "Wataru Hashimura (端村航)",
+      "Yijun Wu (吴怡珺)",
+      "José Pablo Márquez",
+      "Natthaphat Mahtani (ณัฐภัทร จี มาทานี)"
+    ],
+    "time": 386
+  },
+  "475": {
+    "ids": [
+      "Javier Fernandes Chornet",
+      "Rémi Esturoune",
+      "José Leonardo Chaparro Prieto",
+      "Gabriel Guay"
+    ],
+    "time": 387
+  },
+  "479": {
+    "ids": [
+      "Paolo Jose Panganiban",
+      "Chen Yu Chi",
+      "Dawid Wojtyczka"
+    ],
+    "time": 388
+  },
+  "482": {
+    "ids": [
+      "Chih-Hsuan Tung (董志宣)",
+      "Alrimar Dias Rocha Sobrinho"
+    ],
+    "time": 389
+  },
+  "484": {
+    "ids": [
+      "Alex Bruso",
+      "Wong King Fung (黃儆豐)",
+      "Sarawut Srikonvit (ศราวุฒิ ศรีกรวิชญ์)",
+      "Alexandra Daryl Ariawan",
+      "Chi Han (韩驰)",
+      "Ambrose Huan Yee Yang",
+      "Byeong Wan Choi (최병완)",
+      "Lê Văn Thành Tâm"
+    ],
+    "time": 390
+  },
+  "492": {
+    "ids": [
+      "Hanie Ehsasi Namin (هانیه احساسی نمین)",
+      "Micah Stairs"
+    ],
+    "time": 391
+  },
+  "494": {
+    "ids": [
+      "Alexandre Toledo Guillén",
+      "Tobias Droste"
+    ],
+    "time": 392
+  },
+  "496": {
+    "ids": [
+      "Raffael Ort",
+      "Kadir Sertcanli",
+      "Jules Desjardin",
+      "Yizhuo Zhao (赵毅卓)"
+    ],
+    "time": 394
+  },
+  "500": {
+    "ids": [
+      "Tatsuya Ookubo (大久保達也)",
+      "Lee Jia Yong (李伽榮)",
+      "Jessica Uribe",
+      "Yichen Shen (申翊辰)"
+    ],
+    "time": 395
+  },
+  "504": {
+    "ids": [
+      "Yu Sajima (佐島優)",
+      "Chen Chen (陈晨)",
+      "Gleb Khrapov"
+    ],
+    "time": 396
+  },
+  "507": {
+    "ids": [
+      "Mufan Lü (吕慕凡)",
+      "Ignacio Vázquez Jiménez",
+      "Jacob Lange",
+      "Trevor Petersen",
+      "Ikbar Habib Fairuzi",
+      "Ali Farahani (علی فراهانی)"
+    ],
+    "time": 397
+  },
+  "513": {
+    "ids": [
+      "Huan Yuan (袁欢)",
+      "Ignacio Contreras Aid",
+      "Ryan Cramer"
+    ],
+    "time": 398
+  },
+  "516": {
+    "ids": [
+      "Andreas Pung",
+      "Chen Miao (苗琛)",
+      "Sheng-Jyun Chen (陳陞峻)"
+    ],
+    "time": 399
+  },
+  "519": {
+    "ids": [
+      "Dávid Balog",
+      "Kevin Hays",
+      "Brandon Delacruz",
+      "Josh Flagg",
+      "Thaynara Santana de Oliveira"
+    ],
+    "time": 400
+  },
+  "524": {
+    "ids": [
+      "Jarle Kvåle",
+      "Yifan Hao (郝逸凡)",
+      "Xiao Liu (刘潇)",
+      "Nikolaj Andreas Madsen",
+      "Damián Sánchez Izar",
+      "Amir Sepehrom (امیر سپهرم)"
+    ],
+    "time": 401
+  },
+  "530": {
+    "ids": [
+      "Jiaming Li (李嘉明)",
+      "Alex Thielemier",
+      "Jordan Wright",
+      "Zhou Yichen (周奕臣)",
+      "Phoochit Roonooy (ภูชิสส์ รุ่นอ๋อย)",
+      "Muhammad Husni Faisal",
+      "Ye Li (李烨)"
+    ],
+    "time": 402
+  },
+  "537": {
+    "ids": [
+      "Xiaoling Yang (杨晓玲)",
+      "Mokhamad Aguk Nur Anggraini",
+      "Nurym Kudaibergen",
+      "Masato Kobayashi (小林正人)",
+      "Ziling Wu (吴子菱)"
+    ],
+    "time": 403
+  },
+  "542": {
+    "ids": [
+      "Feby Kristianto",
+      "Congjian Zhang (张丛健)"
+    ],
+    "time": 404
+  },
+  "544": {
+    "ids": [
+      "Florian Herzog",
+      "Tao Chen (陈涛)",
+      "Xuezhong Zheng (郑学仲)"
+    ],
+    "time": 405
+  },
+  "547": {
+    "ids": [
+      "Men-Shing Lin (林孟欣)",
+      "Pascalis Sadewa Setyanta",
+      "Haifeng Zhang (章海峰)",
+      "Felipe Gregorio De Araujo Jardim"
+    ],
+    "time": 406
+  },
+  "551": {
+    "ids": [
+      "Tommy Gustavsson",
+      "Yi Ren (任逸)",
+      "Jaya Karnadi",
+      "Wojciech Włodarczyk"
+    ],
+    "time": 407
+  },
+  "555": {
+    "ids": [
+      "Balázs Máté",
+      "Fangjian Shang (尚方剑)"
+    ],
+    "time": 408
+  },
+  "557": {
+    "ids": [
+      "Lars Vandenbergh",
+      "Chia-Liang Tai (戴嘉良)",
+      "Chan Lok Tsun"
+    ],
+    "time": 409
+  },
+  "560": {
+    "ids": [
+      "Yunshui Qi (齐云水)",
+      "Yuen Ho Lam",
+      "Xiaoping Liu (刘晓平)",
+      "Tam Hou Meng (譚浩銘)",
+      "Jeremy Lu"
+    ],
+    "time": 410
+  },
+  "565": {
+    "ids": [
+      "Isaac Wappes",
+      "Xiaobo Hu (胡晓波)",
+      "Tomasz Kiełbasa",
+      "Adam Reduan Chin",
+      "Thomas Millen",
+      "Pablo Nicolás Oshiro Mondoñedo",
+      "Ivanna Oosterling",
+      "Zhiyang Chen (陈至扬)",
+      "Zeyu Lu (卢泽宇)",
+      "Emanuel Nico Oktavianto",
+      "Samuel Elyoenai Previano",
+      "Tim Richartz"
+    ],
+    "time": 411
+  },
+  "577": {
+    "ids": [
+      "Shane Rowland",
+      "Tianxing Wang (王天行)",
+      "Jared Benson"
+    ],
+    "time": 412
+  },
+  "580": {
+    "ids": [
+      "James Markey Jr.",
+      "Éder dos Santos Silva",
+      "Rolando Acuña Mitre",
+      "Amir Bakizade (امیر بکی زاده)",
+      "Guoquan Zhang (张国全)"
+    ],
+    "time": 413
+  },
+  "585": {
+    "ids": [
+      "Erlend Danielsen",
+      "Wei Hu (胡炜)",
+      "Joshua McDougal",
+      "Peng Yang (杨鹏)"
+    ],
+    "time": 414
+  },
+  "589": {
+    "ids": [
+      "Emile Compion",
+      "Domonkos Nyári",
+      "Giuliano Cayetano",
+      "Ivan Kalashnik",
+      "Yanhong Chen (陈燕宏)"
+    ],
+    "time": 415
+  },
+  "594": {
+    "ids": [
+      "Liping Shang (商立平)",
+      "Sam Zhixiao Wang (王志骁)"
+    ],
+    "time": 416
+  },
+  "596": {
+    "ids": [
+      "Peiyu Qi (齐培羽)",
+      "Xiaoyu Jing",
+      "Gerson Natanael"
+    ],
+    "time": 417
+  },
+  "599": {
+    "ids": [
+      "Letian Mattia Chang"
+    ],
+    "time": 418
+  },
+  "600": {
+    "ids": [
+      "Stefan Huber",
+      "Jacopo Melchiorri",
+      "Piotr Chodera"
+    ],
+    "time": 419
+  },
+  "603": {
+    "ids": [
+      "Quentin McLean",
+      "Junyuan Huang (黄俊源)"
+    ],
+    "time": 420
+  },
+  "605": {
+    "ids": [
+      "Xiaozhe Zhao (赵笑哲)",
+      "Ivan Adisatya",
+      "Thomas Ortega"
+    ],
+    "time": 421
+  },
+  "608": {
+    "ids": [
+      "Luigi Manzo",
+      "Matheus Ferreira Dentello Baddini",
+      "Sebastian Ortíz Reyes"
+    ],
+    "time": 422
+  },
+  "611": {
+    "ids": [
+      "Marie Hughey",
+      "Jin Zhang (张晋)"
+    ],
+    "time": 423
+  },
+  "613": {
+    "ids": [
+      "Scott Bedard",
+      "Geert Bicler",
+      "Gaspard Leleux",
+      "Hilman Nihaya",
+      "Yurii Uchaiev (Юрій Учаєв)"
+    ],
+    "time": 424
+  },
+  "618": {
+    "ids": [
+      "Rebecca Hughey",
+      "Laetitia Lemoine",
+      "Toru Omura (大村徹)",
+      "James Cavanaugh",
+      "Stephen Hungs",
+      "Jiawei Chen (陈嘉威)",
+      "Zhenli Lin (林朕立)"
+    ],
+    "time": 425
+  },
+  "625": {
+    "ids": [
+      "Spencer Kasper",
+      "Shujing Wang (王淑静)"
+    ],
+    "time": 426
+  },
+  "627": {
+    "ids": [
+      "Guus de Wit",
+      "Muhammad Isa Ansori",
+      "Andri Maulana Syahputra"
+    ],
+    "time": 427
+  },
+  "630": {
+    "ids": [
+      "Conor Baumann",
+      "Felipe de Carvalho Diniz",
+      "Junhe Zhang (张钧鹤)",
+      "Guibin Cao (曹桂斌)",
+      "Li-Yang Chen (陳豊洋)",
+      "Hengsheng Dai (戴恒盛)",
+      "Yutian Fang (方雨田)",
+      "Frédéric Ummenhover"
+    ],
+    "time": 428
+  },
+  "638": {
+    "ids": [
+      "Jakub Cabaj",
+      "Uku Kruusamägi",
+      "Jared Ruane",
+      "Tianzhi Wu (吴天智)",
+      "Viktor Stepanovich"
+    ],
+    "time": 429
+  },
+  "643": {
+    "ids": [
+      "Daniel Grabski",
+      "Mehdi Pourmotalleb (مهدی پورمطلب)",
+      "Avik Roychowdhury"
+    ],
+    "time": 430
+  },
+  "646": {
+    "ids": [
+      "Richárd Nagy",
+      "Fei Jin (金飞)",
+      "Isaac Frye"
+    ],
+    "time": 431
+  },
+  "649": {
+    "ids": [
+      "Chia-Wei Lu (呂家維)",
+      "Jiahai Luo (罗嘉海)",
+      "Cody Brown",
+      "Hilma Fitra Falahi",
+      "Diego Rodriguez Aguilar",
+      "Kaicheng Wang (王开诚)",
+      "Radityo Yunus Utomo Wicaksono",
+      "Chunyu Zhang (张春雨)",
+      "Adi Novit Saputra"
+    ],
+    "time": 432
+  },
+  "658": {
+    "ids": [
+      "Sam Shinn",
+      "Reza Aghadavoodi (رضا آقاداوودی)",
+      "Andrew Liu",
+      "Yue Li (李岳)",
+      "Zi-Xian Liao (廖子賢)"
+    ],
+    "time": 433
+  },
+  "663": {
+    "ids": [
+      "Kirstine Buus Aagaard",
+      "Kanneti Sae Han (คันธ์เนตี แซ่ห่าน)",
+      "Weiwei Sun (孙巍巍)",
+      "Ching-Yueh Chien (簡靖岳)",
+      "Wuttiwat Sritanisarakorn (วุฒิวัฒน์ ศรีฐานิศรากร)",
+      "Dylan Cook"
+    ],
+    "time": 434
+  },
+  "669": {
+    "ids": [
+      "Steven Turner",
+      "Jiaxi Wang (王嘉熙)"
+    ],
+    "time": 435
+  },
+  "671": {
+    "ids": [
+      "Josef Jelínek",
+      "Alexander McGuiness",
+      "Arief Khalid Mawardi"
+    ],
+    "time": 436
+  },
+  "674": {
+    "ids": [
+      "Jan Hetych",
+      "Mats Valk",
+      "Yoga Gunawan Budijono",
+      "Hanhan Liu (刘含菡)",
+      "Yifei Wang (汪逸飞)",
+      "Jiancong Tan (谭健聪)"
+    ],
+    "time": 437
+  },
+  "680": {
+    "ids": [
+      "John Brechon",
+      "Tianhui Yang (杨添辉)",
+      "Mason Burchill",
+      "Jason Cheng (鄭聿成)"
+    ],
+    "time": 438
+  },
+  "684": {
+    "ids": [
+      "Rafał Studnicki",
+      "Michael Young",
+      "Phạm Việt Dũng",
+      "Can Gücüyener",
+      "Jinghao Sun (孙景浩)"
+    ],
+    "time": 439
+  },
+  "689": {
+    "ids": [
+      "Kwok Chi Hang (郭志亨)",
+      "Erik Chan",
+      "Vishal Harpalani",
+      "Muhammad Syahmi",
+      "Paweł Kowol"
+    ],
+    "time": 440
+  },
+  "694": {
+    "ids": [
+      "Wei-Ming Tong (唐偉銘)",
+      "Guangquan Lü (吕光全)",
+      "Mihail Myshkin",
+      "Yohanes Antonio",
+      "Mikhail Golubev",
+      "Changzhi Li (李长治)"
+    ],
+    "time": 441
+  },
+  "700": {
+    "ids": [
+      "Jaap Scherphuis",
+      "Tobias Daneels",
+      "Oscar Roth Andersen",
+      "Nanda Bhayu Hariyanto",
+      "Philipp Weyer",
+      "Daniel Azarian",
+      "Cécile Vezzoli"
+    ],
+    "time": 442
+  },
+  "707": {
+    "ids": [
+      "Alejandro Riveiro Rodríguez",
+      "Radu Făciu",
+      "Yan Jin (金岩)"
+    ],
+    "time": 443
+  },
+  "710": {
+    "ids": [
+      "Chao Sun",
+      "Cahyo Galuh Wicaksono",
+      "Nestor Guillen Prado"
+    ],
+    "time": 444
+  },
+  "713": {
+    "ids": [
+      "Fernando Daniel Hernández Sánchez",
+      "Mohammad Reza Karimi (محمد رضا کریمی)",
+      "Muchlisin Syahri",
+      "Xinyu Chen (陈鑫雨)",
+      "Mehrzad Yadegari (مهرزاد یادگاری)",
+      "Chaofan Yan (严超凡)"
+    ],
+    "time": 445
+  },
+  "719": {
+    "ids": [
+      "Koen Heltzel",
+      "Gábriel Józsa",
+      "Gonzalo Serrano",
+      "Kenneth Svendson",
+      "Jiafan Tian (田嘉繁)",
+      "Lingxin Li (李凌欣)",
+      "Amir Reza Bigdeli (امیر رضا بیگدلی)",
+      "Amir Reza Nouri (امیر رضا نوری)",
+      "Min-Hung Wu (吳旻紘)"
+    ],
+    "time": 446
+  },
+  "728": {
+    "ids": [
+      "Marcelo Jara Cáceres",
+      "Michał Pleskowicz",
+      "Yiming Zhou (周一鸣)",
+      "Ajay Mysore",
+      "Haojian Xia (夏浩健)"
+    ],
+    "time": 447
+  },
+  "733": {
+    "ids": [
+      "Charlie Cooper",
+      "Lalei Yu (余拉雷)"
+    ],
+    "time": 448
+  },
+  "735": {
+    "ids": [
+      "Tobias Christlieb",
+      "Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)",
+      "Marco Willems",
+      "Mulun Yin (阴目仑)",
+      "Francisco Garrido Valenzuela",
+      "Jinseong Kim (김진성)",
+      "Ryan Vall"
+    ],
+    "time": 449
+  },
+  "742": {
+    "ids": [
+      "Deven Nadudvari",
+      "Chester Lian",
+      "Matias Macaya",
+      "Blake Bowers",
+      "Takayuki Ida (井田貴之)",
+      "Erfan Sahaf Nejad Mohammadi (عرفان صحاف نژاد محمدی)"
+    ],
+    "time": 450
+  },
+  "748": {
+    "ids": [
+      "Leonard Ewerbeck",
+      "Congbiao Jiang (蒋丛骉)",
+      "João Gabriel de Aguiar Milani",
+      "Eunice Ng"
+    ],
+    "time": 451
+  },
+  "752": {
+    "ids": [
+      "Brian Qiu"
+    ],
+    "time": 452
+  },
+  "753": {
+    "ids": [
+      "Uriel Gayosso Ruiz",
+      "Mariano D'Imperio",
+      "Yang Jiao (焦阳)",
+      "Rasyadan Muhammad",
+      "Firrar Artanang Widayat",
+      "Lucija Delinac",
+      "Grégoire Pfennig",
+      "Sylvia Astruc"
+    ],
+    "time": 453
+  },
+  "761": {
+    "ids": [
+      "Andrew Coghill",
+      "Ayano Maria Yoshida",
+      "Agung Fathony",
+      "Daniel Wu",
+      "Dana Yi",
+      "Lucas Etter",
+      "Pimolpan Moongken (พิมลพรรณ มุ่งเคน)"
+    ],
+    "time": 454
+  },
+  "768": {
+    "ids": [
+      "Fumiki Koseki (古関章記)",
+      "Jan Gnoiński",
+      "Marek Wójtowicz",
+      "Mihály Omiliák",
+      "Zhangning He (何樟宁)",
+      "Jiayi Sun (孙嘉艺)",
+      "Tim Tilstra",
+      "Callum Hales-Jepp"
+    ],
+    "time": 455
+  },
+  "776": {
+    "ids": [
+      "Kegham Khosdeghian",
+      "Riley Woo",
+      "Yu Huang (黄钰)",
+      "Vince Anka",
+      "Viktor Kalmar",
+      "Hanyu Fang (方寒玉)"
+    ],
+    "time": 456
+  },
+  "782": {
+    "ids": [
+      "Wira Dharma Kencana Putra",
+      "Stephen Adhisaputra",
+      "Rahman Shiri (رحمان شیری)"
+    ],
+    "time": 457
+  },
+  "785": {
+    "ids": [
+      "Donovon Jose Panganiban",
+      "Aiying Guo (郭蔼盈)",
+      "Yong Rong Seng (杨荣盛)",
+      "YiLin Li (李宜霖)"
+    ],
+    "time": 458
+  },
+  "789": {
+    "ids": [
+      "Thomas Watiotienne",
+      "Austin Thielemier",
+      "Chenli Yao (姚忱瓅)",
+      "Erik Silingi",
+      "Mantas Sidabras"
+    ],
+    "time": 459
+  },
+  "794": {
+    "ids": [
+      "Gianluca Muscò",
+      "Preston Nguyen",
+      "Feng-Ren Huang (黃逢任)",
+      "Dong Li (李栋)",
+      "Rizaldi Rakhman"
+    ],
+    "time": 460
+  },
+  "799": {
+    "ids": [
+      "David Barr",
+      "Yukun Xia (夏育坤)",
+      "Éric Lamarche"
+    ],
+    "time": 461
+  },
+  "802": {
+    "ids": [
+      "Mika Muranushi (村主美佳)",
+      "Damijan Duh"
+    ],
+    "time": 462
+  },
+  "804": {
+    "ids": [
+      "Michael Nguyen",
+      "Joar Mellström",
+      "Yang Feng (冯扬)",
+      "Ben Gelfand",
+      "Kaharuddin"
+    ],
+    "time": 463
+  },
+  "809": {
+    "ids": [
+      "Rómulo Guillén López",
+      "Kaiyuan Chen (陈恺垣)",
+      "Chen Kee Yen",
+      "Imre Mester",
+      "Prasert Singhasontibut",
+      "Hugo Tse",
+      "Fakhruzi Asrial Efransyah",
+      "Fahmi Taufiqulhadi",
+      "João Pedro Creado de Oliveira"
+    ],
+    "time": 464
+  },
+  "818": {
+    "ids": [
+      "Nick Vu",
+      "Alex Ozer",
+      "Karina Grandjean Beck",
+      "Chris Bender"
+    ],
+    "time": 465
+  },
+  "822": {
+    "ids": [
+      "Dávid Szabó",
+      "Dan Selzer",
+      "Bobby Erickson",
+      "Michał Parzyszek"
+    ],
+    "time": 466
+  },
+  "826": {
+    "ids": [
+      "Teemu Tiinanen",
+      "Juliana Moreno Oliveira",
+      "Quan Yu (于泉)",
+      "Mohammad Mehdi Bigdeli (محمد مهدی بیگدلی)",
+      "Juehui Zhang (张珏慧)"
+    ],
+    "time": 467
+  },
+  "831": {
+    "ids": [
+      "Fangyuan Chang (常方圆)",
+      "Luke Dwyer",
+      "Adli Ihsan Hariadi"
+    ],
+    "time": 468
+  },
+  "834": {
+    "ids": [
+      "Márk Kovács",
+      "Lin Chen (陈霖)",
+      "Yiming Liu (刘一明)",
+      "Bryan Erfanda Putra"
+    ],
+    "time": 469
+  },
+  "838": {
+    "ids": [
+      "Nathan Azaria",
+      "Damiano Quagliotto",
+      "Hunter Barton",
+      "Hao Chen (陈浩)",
+      "Vincent Jovian",
+      "Rebaz Alipour"
+    ],
+    "time": 470
+  },
+  "844": {
+    "ids": [
+      "Grzegorz Prusak",
+      "Bartosz Zawiślak",
+      "Daniel Ortiga Villatoro",
+      "Tomoaki Okayama (岡山友昭)",
+      "Ya Zhang (张娅)",
+      "Jinshi Zhang (张金石)",
+      "Ali Reza Pour Abedini (علی رضا پورعابدینی)",
+      "Jonas Brzenczek",
+      "Eduardo Akira Kawassaki",
+      "Joel Ulin"
+    ],
+    "time": 471
+  },
+  "854": {
+    "ids": [
+      "Lucas Garron"
+    ],
+    "time": 472
+  },
+  "855": {
+    "ids": [
+      "Anthony Huynh",
+      "Haonan Li (李浩楠)",
+      "Marcin Zalewski",
+      "Dylan Hughlett",
+      "Tony Moon"
+    ],
+    "time": 473
+  },
+  "860": {
+    "ids": [
+      "András Ferencz",
+      "Boriss Benzerruki",
+      "Kinga Wiśniewska"
+    ],
+    "time": 474
+  },
+  "863": {
+    "ids": [
+      "Peter Greenwood",
+      "Kristóf Péter Mérai",
+      "Shijie Li (李世杰)",
+      "Xiao Yao (姚骁)",
+      "Haoyiri (浩伊日)"
+    ],
+    "time": 475
+  },
+  "868": {
+    "ids": [
+      "Lam Tan Na (林丹娜)",
+      "Mike Kotch",
+      "Xiaoyuan Li (李肖源)",
+      "Niko Ronkainen",
+      "Xiaodong Sun (孙晓东)"
+    ],
+    "time": 476
+  },
+  "873": {
+    "ids": [
+      "Valentin Doussin",
+      "Lau Chi Pang (劉智鵬)",
+      "Oleh Shulha (Олег Шульга)"
+    ],
+    "time": 477
+  },
+  "876": {
+    "ids": [
+      "Joris Mühlsteff",
+      "Shu Kasuga (春日柊)",
+      "Martias Try Wardhana",
+      "Alvaro Calderon",
+      "Siliang Yu (于思靓)"
+    ],
+    "time": 478
+  },
+  "881": {
+    "ids": [
+      "Frank Severinsen",
+      "Slater Metz",
+      "Muhammad Ridwan",
+      "Elham Seyedi (الهام سیدی)"
+    ],
+    "time": 479
+  },
+  "885": {
+    "ids": [
+      "Rui Yang (杨睿)",
+      "Aulia Ismail Adhiim",
+      "Hendro",
+      "Xingshuo Zhai (翟星硕)",
+      "Jessica Lohe",
+      "Gabriel David Moreno",
+      "Jakub Janusz"
+    ],
+    "time": 480
+  },
+  "892": {
+    "ids": [
+      "Cody Jones",
+      "Loïc Petit",
+      "Rizky Aditya Ramadhan",
+      "Alberto Pérez de Rada Fiol",
+      "Hao Tian (田浩)"
+    ],
+    "time": 481
+  },
+  "897": {
+    "ids": [
+      "Sam Zwaenepoel",
+      "Kai Han (韩铠)",
+      "Lee Jin-Hyung (이진형)",
+      "Majid Ataee (مجید عطایی)",
+      "Shonathon Collins",
+      "Ming Chen (陈明)",
+      "Wu Xia (夏武)"
+    ],
+    "time": 482
+  },
+  "904": {
+    "ids": [
+      "Yafei Zhang",
+      "Helena Vela García",
+      "István Márián",
+      "Ali Salavati (علی صلواتی)",
+      "Vincent Spijkers",
+      "Ryohei Yoshioka (吉岡亮平)",
+      "Pablo Cristian Duarte de Sousa"
+    ],
+    "time": 483
+  },
+  "911": {
+    "ids": [
+      "Zsolt Vincze",
+      "Adrien Mokrara",
+      "Yannick Lesseur",
+      "Myles Brophy",
+      "Qi An (安琪)"
+    ],
+    "time": 484
+  },
+  "916": {
+    "ids": [
+      "Fabio Bini Graciose",
+      "Yusheng Liu (刘雨生)",
+      "Aline Freismuth"
+    ],
+    "time": 485
+  },
+  "919": {
+    "ids": [
+      "Chris Hardwick",
+      "Norbert Hantos",
+      "Paweł Włoszek",
+      "Linsong Qi (綦林松)",
+      "Denis Grachev",
+      "Willi Mickein"
+    ],
+    "time": 486
+  },
+  "925": {
+    "ids": [
+      "Matt Bahner",
+      "Chenghao Yang (杨程皓)",
+      "Vincent Bruns",
+      "Arash Kazerouni (آرش کازرونی)"
+    ],
+    "time": 487
+  },
+  "929": {
+    "ids": [
+      "Brúnó Bereczki",
+      "Hang Wang (王杭)",
+      "Chengzhi Yin (殷程智)",
+      "Vũ Đức Minh",
+      "Sung Hyun Park (박성현)",
+      "Jacob Racine"
+    ],
+    "time": 488
+  },
+  "935": {
+    "ids": [
+      "Jascha Bakarinow",
+      "Pierre Bouvier",
+      "Albert Chu (朱書廷)",
+      "Jihao Wang (王基昊)"
+    ],
+    "time": 489
+  },
+  "939": {
+    "ids": [
+      "Xiaobo Jin (金晓波)",
+      "Szabolcs Obriton",
+      "Yunfa Cao (曹云发)",
+      "Marcel Doose",
+      "Christian Luis Hinkle",
+      "Raúl Sancho Molinero",
+      "Han Dong (董晗)"
+    ],
+    "time": 490
+  },
+  "946": {
+    "ids": [
+      "Marcell Töröcsik",
+      "Daniel Becker",
+      "Mingsen Han (韩明森)",
+      "Alexander Simon"
+    ],
+    "time": 491
+  },
+  "950": {
+    "ids": [
+      "Bahatiar Lamusa",
+      "Ryan Reese",
+      "Christian Knut",
+      "Max Kolkmann",
+      "Jiacheng Peng (彭家诚)"
+    ],
+    "time": 492
+  },
+  "955": {
+    "ids": [
+      "Sean Connolly",
+      "Tamás Kucsera",
+      "Andy Worden",
+      "Muhammad Putra Perdana",
+      "Farkhan Ananda Khoirul"
+    ],
+    "time": 493
+  },
+  "960": {
+    "ids": [
+      "Frank Morris",
+      "Luis Vallejos González",
+      "Norbert József Gyenes",
+      "David Hamilton",
+      "Tianzi Lei (雷田子)"
+    ],
+    "time": 494
+  },
+  "965": {
+    "ids": [
+      "Péter Trombitás",
+      "Paolo Moriello",
+      "Bobby Adrian Vitra",
+      "Phannuwat Maicharoenkun (ภาณุวัฒน์ มายเจริญกุล)",
+      "Angeline Wijaya (黃千儀)",
+      "Diyuan Yang (杨棣源)",
+      "Kevin Costello III"
+    ],
+    "time": 495
+  },
+  "972": {
+    "ids": [
+      "Janilo Ocampo",
+      "Chung Tze Yang (鍾志扬)",
+      "Enze Hou (侯恩则)",
+      "Marvin Strehl",
+      "Yuliia Ostapenko (Юлія Остапенко)",
+      "Anthony Paremsky"
+    ],
+    "time": 496
+  },
+  "978": {
+    "ids": [
+      "Xusheng Hong (洪旭升)"
+    ],
+    "time": 497
+  },
+  "979": {
+    "ids": [
+      "Jules Manalang"
+    ],
+    "time": 498
+  },
+  "980": {
+    "ids": [
+      "Pascal So (蘇柏熙)",
+      "Kellon Olusola",
+      "Felix Harst",
+      "Huong Dang",
+      "Denys Haidaichuk",
+      "Lukas Vaitkevičius",
+      "Xuezhi Xia (夏学智)"
+    ],
+    "time": 499
+  },
+  "987": {
+    "ids": [
+      "Lacey Burton",
+      "Tianxiao Wang (王天笑)"
+    ],
+    "time": 500
+  },
+  "989": {
+    "ids": [
+      "Greg French",
+      "Muhammad Aditya Bermadi",
+      "Auguste Olivry",
+      "Yi Wang (汪义)",
+      "Haoran Xu (徐浩然)"
+    ],
+    "time": 501
+  },
+  "994": {
+    "ids": [
+      "Doug Li",
+      "Paul Wagner",
+      "Lucie Ruffie",
+      "Tiantian Sun (孙甜甜)",
+      "Claudio Kevin",
+      "Javier Eissmann Peña",
+      "Xiaolin Zeng (曾小林)",
+      "Fernando Castro Ibarra",
+      "Ming-Wei Peng (彭明威)",
+      "Milutin Živković"
+    ],
+    "time": 502
+  },
+  "1004": {
+    "ids": [
+      "Kevin Wu",
+      "Achmad Nur Aliansyah",
+      "Peter Chau"
+    ],
+    "time": 503
+  },
+  "1007": {
+    "ids": [
+      "Alex Seidler",
+      "Brian Brooks",
+      "Mok Jia Jin",
+      "Nathan Shake"
+    ],
+    "time": 504
+  },
+  "1011": {
+    "ids": [
+      "Adrian Lehmann",
+      "Raúl Low Beattie",
+      "Rully Satriawan Deniharza"
+    ],
+    "time": 505
+  },
+  "1014": {
+    "ids": [
+      "Hangbin Liu",
+      "Maxim Novikov",
+      "Ying Ma (马颖)",
+      "Haiyun Jin (金海云)"
+    ],
+    "time": 506
+  },
+  "1018": {
+    "ids": [
+      "Jacco Krijnen",
+      "Hilmar Magnusson",
+      "Mursyid Maulana"
+    ],
+    "time": 508
+  },
+  "1021": {
+    "ids": [
+      "Deniz Atak",
+      "Jonathan Badua",
+      "Xianqi Wu (吴贤琦)"
+    ],
+    "time": 509
+  },
+  "1024": {
+    "ids": [
+      "Guillain Potron",
+      "Edward Valencia",
+      "João Guilherme Barejan Maiale"
+    ],
+    "time": 510
+  },
+  "1027": {
+    "ids": [
+      "Szabolcs Balázsi",
+      "Teo Kai Xiang",
+      "David Lange",
+      "Antônio Henrique Alves Cardoso"
+    ],
+    "time": 511
+  },
+  "1031": {
+    "ids": [
+      "Cho Won-Bang",
+      "Péter Róka",
+      "Anton Bedrichenko",
+      "Christopher Milburn",
+      "Qiping Zhang (张企平)",
+      "Dany Yaacoub",
+      "Zheyi Zhang (张哲译)"
+    ],
+    "time": 512
+  },
+  "1038": {
+    "ids": [
+      "Sunniva Fonn",
+      "Joke Roels",
+      "Sándor Szabó",
+      "Shengcheng Chang (昌盛成)",
+      "Rifky Fahrezi Ilham",
+      "Jie Jin (金杰)",
+      "Jakub Kaczmarczyk"
+    ],
+    "time": 513
+  },
+  "1045": {
+    "ids": [
+      "Anders Larsson",
+      "Chao Zhang (章超)",
+      "Lindsey Bressert",
+      "Joshua Evely",
+      "Jacek Gierasimiuk",
+      "Jernej Omulec",
+      "Marcelo Langhinrichs Cunha",
+      "Chris Wright",
+      "Yusyar Yahya"
+    ],
+    "time": 514
+  },
+  "1054": {
+    "ids": [
+      "Zhenbin Yang (杨振斌)"
+    ],
+    "time": 515
+  },
+  "1055": {
+    "ids": [
+      "Peter Dracopoulos",
+      "Xiaodi Kang (康晓迪)",
+      "Alexis Roussel",
+      "Toni Varga",
+      "Edi Zubčić"
+    ],
+    "time": 516
+  },
+  "1060": {
+    "ids": [
+      "Łukasz Ciałoń",
+      "Noah Hevey",
+      "Yinghao Wang (王鹰豪)",
+      "Liwei Cai (蔡立崴)",
+      "Felipe Baldívio Freires",
+      "Muhammad Iqbal Fattrah",
+      "Georgiy Marshalko",
+      "Ali Stanton"
+    ],
+    "time": 517
+  },
+  "1068": {
+    "ids": [
+      "Cody McCaig",
+      "Kasper Kirk Svendsen",
+      "Trần Minh Quân",
+      "Javier Agudelo"
+    ],
+    "time": 518
+  },
+  "1072": {
+    "ids": [
+      "Yumu Tabuchi (田渕雄夢)",
+      "Xiaofeng Xu",
+      "Brian Kim",
+      "Bence Loboda",
+      "Mariusz Wiśniewski",
+      "Xiebin Yu (于榭彬)"
+    ],
+    "time": 519
+  },
+  "1078": {
+    "ids": [
+      "Erik Johansson",
+      "Chen Liang (梁晨)",
+      "Vladislav Prokhorov",
+      "Ally Larkin"
+    ],
+    "time": 520
+  },
+  "1082": {
+    "ids": [
+      "James Sangil",
+      "Leong Wing Sik",
+      "Bin Li (李斌)",
+      "Yi Zhang (张懿)",
+      "Casey Dech",
+      "Eduardo Divino Miranda Pereira",
+      "Tahsin Majumder"
+    ],
+    "time": 521
+  },
+  "1089": {
+    "ids": [
+      "Ao Sun (孙垇)",
+      "Ismael Garcia Salgado"
+    ],
+    "time": 522
+  },
+  "1091": {
+    "ids": [
+      "Qiang Yue (岳强)",
+      "Ryuji Hamano (浜野竜二)",
+      "Xinyi Zhang (张馨艺)"
+    ],
+    "time": 523
+  },
+  "1094": {
+    "ids": [
+      "Frank Provoost",
+      "Martin Silvestri",
+      "Nóra Szepes",
+      "Arwed Lübben",
+      "Allyson Dias de Lima",
+      "David Quach",
+      "Michael Rose"
+    ],
+    "time": 524
+  },
+  "1101": {
+    "ids": [
+      "Klaus Andersen",
+      "Zhiping Wang (王治平)",
+      "Jakub Wolniewicz"
+    ],
+    "time": 525
+  },
+  "1104": {
+    "ids": [
+      "Kevin Westermann",
+      "Rachel Hadley",
+      "Josh Shinn",
+      "Albertus Hastomo Sutanto",
+      "Ahmad Fauzy Erwansyah",
+      "Sina Shah Hoseini (سینا شاه حسینی)",
+      "Jorge García Ramos"
+    ],
+    "time": 526
+  },
+  "1111": {
+    "ids": [
+      "Jek Villacampa",
+      "Viktor Elinder",
+      "Igor Zvarichuk",
+      "Dick Yong Xiaodi",
+      "Wei Zhang (张伟)"
+    ],
+    "time": 527
+  },
+  "1116": {
+    "ids": [
+      "Yuhei Takagi (高木佑平)",
+      "Napat Jarureuangsri",
+      "Boyuan Tang (唐博远)",
+      "Alastair Whitely",
+      "Ustsin Vashchanka"
+    ],
+    "time": 528
+  },
+  "1121": {
+    "ids": [
+      "Qifan Zhu (祝起凡)",
+      "Matin Ataee (متین عطایی)"
+    ],
+    "time": 529
+  },
+  "1123": {
+    "ids": [
+      "Arifumi Fushimi (伏見有史)"
+    ],
+    "time": 530
+  },
+  "1124": {
+    "ids": [
+      "Ben Winkeler",
+      "Geoffray Pontet",
+      "Shaun Lee"
+    ],
+    "time": 531
+  },
+  "1127": {
+    "ids": [
+      "Clancy Cochran",
+      "Tinnapop Suparjak (ติณณภพ สุภาจักร์)",
+      "Morten Arborg",
+      "Jonan Seeley",
+      "Mavel Villegas"
+    ],
+    "time": 532
+  },
+  "1132": {
+    "ids": [
+      "Fathur Reynaldi",
+      "Lê Quý Vượng"
+    ],
+    "time": 533
+  },
+  "1134": {
+    "ids": [
+      "Samuel Laire",
+      "Shilong Chen (陈世龙)",
+      "Fangxi Shi (史芳溪)",
+      "Amir Hossein Khajepoor (امیرحسین خواجه پور)",
+      "Jakob Kogler",
+      "Muhammad Ramadhan",
+      "Junda Chen (陈骏达)",
+      "Arnaud Freismuth"
+    ],
+    "time": 534
+  },
+  "1142": {
+    "ids": [
+      "Quinnzon Radyatmadja Djauhari",
+      "Anatolii Kalinin",
+      "Joko Martanto",
+      "Wenting Ni (倪雯婷)",
+      "Prasetya Wijaya"
+    ],
+    "time": 535
+  },
+  "1147": {
+    "ids": [
+      "Eva Alvarez",
+      "Florian Kreyssig",
+      "Tim Major",
+      "Diogo Ribeiro de Almeida",
+      "Mohammad Arya Bima"
+    ],
+    "time": 538
+  },
+  "1152": {
+    "ids": [
+      "Moritz Karl",
+      "Andre Vincentius Angga",
+      "Muhammad Irza Fernanda Bermadi"
+    ],
+    "time": 539
+  },
+  "1155": {
+    "ids": [
+      "Hiroto Ueda (上田浩登)",
+      "Daniel Yeo Sian Leng",
+      "Valentin Hoffmann",
+      "Takuya Emori (榎森拓也)"
+    ],
+    "time": 540
+  },
+  "1159": {
+    "ids": [
+      "Andrew Hwang",
+      "Eder Olivencia González"
+    ],
+    "time": 541
+  },
+  "1161": {
+    "ids": [
+      "Asia Konvittayayotin (เอเชีย กรวิทยโยธิน)",
+      "Wenchang Chen (陈文昌)",
+      "Alex Ray",
+      "Caleb Stairs"
+    ],
+    "time": 542
+  },
+  "1165": {
+    "ids": [
+      "Olivier Gaucher",
+      "Nam Yun-Sang (남윤상)",
+      "Michael Czerpak",
+      "Jingyu Feng (冯京宇)",
+      "Ivan Makachev",
+      "Nicholas Sia",
+      "Johannes Ridefelt",
+      "Dennis van Enckevort"
+    ],
+    "time": 543
+  },
+  "1173": {
+    "ids": [
+      "Victor Efremov",
+      "Barnabás Vanyolos",
+      "Ryan Simmons",
+      "Larry Zuo",
+      "Wenqiang Jia (贾文强)",
+      "Adam Tedesco"
+    ],
+    "time": 544
+  },
+  "1179": {
+    "ids": [
+      "Anssi Vanhala",
+      "Jakub Kipa",
+      "Wilson Alvis (陈智胜)",
+      "Karl Hendrik Haavandi"
+    ],
+    "time": 545
+  },
+  "1183": {
+    "ids": [
+      "Gustavo Maysonnave Franck",
+      "Luiz Felipe Parente Santiago",
+      "Jose Urrego-Gomez"
+    ],
+    "time": 546
+  },
+  "1186": {
+    "ids": [
+      "Muhammad Jihan Khalilurrahman",
+      "Wahyudi Asrel",
+      "Terra Hickman",
+      "Fadel Kurniawan",
+      "Tyler Leite"
+    ],
+    "time": 547
+  },
+  "1191": {
+    "ids": [
+      "Colin Boyd"
+    ],
+    "time": 548
+  },
+  "1192": {
+    "ids": [
+      "Balázs Bernát",
+      "Shuto Ueno (上野柊斗)",
+      "Hubert Antokolski"
+    ],
+    "time": 549
+  },
+  "1195": {
+    "ids": [
+      "Kate Nelson",
+      "Tiancheng Feng (冯天成)",
+      "Jiawei He (贺佳伟)",
+      "Yiwei Wang (王祎玮)",
+      "Yongting You (尤永庭)",
+      "Chenghao Yu (于程浩)"
+    ],
+    "time": 550
+  },
+  "1201": {
+    "ids": [
+      "Jianing Liang (梁佳宁)",
+      "Nguyễn Tài Đức",
+      "Muhammad Bayu Devara",
+      "Agus Hermanto",
+      "Ilya Posevkin"
+    ],
+    "time": 551
+  },
+  "1206": {
+    "ids": [
+      "Nicolai Kildegaard",
+      "Sarah Bouveret",
+      "Kacper Szumigaj"
+    ],
+    "time": 552
+  },
+  "1209": {
+    "ids": [
+      "Ellery Murdock",
+      "Andreas Bahr",
+      "Xianjiang Wang (王贤江)"
+    ],
+    "time": 553
+  },
+  "1212": {
+    "ids": [
+      "Billy Hall",
+      "Eszter Szabó",
+      "Kailong Li (李开隆)",
+      "Marco Rota",
+      "Jason Greenberg",
+      "Yanming Zhang (张晏铭)"
+    ],
+    "time": 554
+  },
+  "1218": {
+    "ids": [
+      "Jonathan Mun",
+      "Sameer Rai",
+      "Jiyanglin Li (李继杨霖)",
+      "Andrii Chernichko (Андрій Черничко)"
+    ],
+    "time": 555
+  },
+  "1222": {
+    "ids": [
+      "Jasmine Lee",
+      "Johannes Laire",
+      "Anjun Yu (于安君)",
+      "Mathijs Herremans",
+      "Yan Zhuang (庄岩)",
+      "Raphael Fimpel"
+    ],
+    "time": 556
+  },
+  "1228": {
+    "ids": [
+      "Ian Jones",
+      "Tao Fang (房涛)"
+    ],
+    "time": 557
+  },
+  "1230": {
+    "ids": [
+      "Shinichi Kajita (梶田真一)",
+      "Andrew Morris"
+    ],
+    "time": 558
+  },
+  "1232": {
+    "ids": [
+      "Robin Kwant",
+      "Brad Vorjohan",
+      "Kexin Wang (王珂昕)",
+      "Penghui Zhang (张鹏慧)"
+    ],
+    "time": 559
+  },
+  "1236": {
+    "ids": [
+      "Rafael de Andrade Cinoto",
+      "Kai Jiptner",
+      "Fang Qin (秦方)",
+      "Weifeng Cheng (程维锋)",
+      "Lam Tsz Hei",
+      "Yunzhe Jia (贾蕴哲)",
+      "Michael McCann",
+      "Wojciech Fydrych"
+    ],
+    "time": 560
+  },
+  "1244": {
+    "ids": [
+      "Ramón Viladomat Arro",
+      "Fong Joon-Sun",
+      "Tran Minh Tuyen"
+    ],
+    "time": 561
+  },
+  "1247": {
+    "ids": [
+      "Yakai Gu (谷雅凯)"
+    ],
+    "time": 562
+  },
+  "1248": {
+    "ids": [
+      "Zhuanghui Zhu (朱壮晖)",
+      "Abel Brata",
+      "Kārlis Iskrovs",
+      "Wentao Li (李文韬)",
+      "Tianxin Ye (叶田鑫)"
+    ],
+    "time": 563
+  },
+  "1253": {
+    "ids": [
+      "Heng Ma (马恒)",
+      "Oscar Paredes Arroyo Zemeño",
+      "Wescley Vinicius Duarte Moura",
+      "Nathan Seeto"
+    ],
+    "time": 564
+  },
+  "1257": {
+    "ids": [
+      "Jing Li (李晶)",
+      "Kristoffer Lauderbaugh",
+      "Christopher Quattrociocchi",
+      "Andrés Armesto Brosio",
+      "Alex Cafolla",
+      "Alvin Febrianth",
+      "Maximilian Julius Schneider"
+    ],
+    "time": 565
+  },
+  "1264": {
+    "ids": [
+      "Yaozong Liang (梁耀宗)",
+      "Willy Hericson",
+      "Bobby Krupa",
+      "Yingfang Li (厉颖方)",
+      "Alexander Braun",
+      "Kirill Fomichev",
+      "Puya Shahidi (پویا شهیدی)",
+      "Xiaofeng Xu (徐晓峰)"
+    ],
+    "time": 566
+  },
+  "1272": {
+    "ids": [
+      "Keanu László Vestil"
+    ],
+    "time": 567
+  },
+  "1273": {
+    "ids": [
+      "Sander Hendrickx",
+      "William Medeiros",
+      "Roberta Chiovoloni",
+      "Blake Thompson",
+      "Ahmad Humaidi",
+      "Shanqing Chen (陈山青)",
+      "Feng Liu (刘峰)"
+    ],
+    "time": 568
+  },
+  "1280": {
+    "ids": [
+      "Kentaro Nishi (西賢太郎)",
+      "Gábor Patkós",
+      "Xianglei Fu (傅相磊)",
+      "Channae Anderson",
+      "Jacob Davidson"
+    ],
+    "time": 569
+  },
+  "1285": {
+    "ids": [
+      "Eric Limeback",
+      "Yang Song (宋阳)",
+      "Daniel Martín Martínez",
+      "Zheng Chen (陈政)"
+    ],
+    "time": 570
+  },
+  "1289": {
+    "ids": [
+      "Muhammad Ibdarul Fajar",
+      "Christian Foyle",
+      "Jie Liu (刘杰)",
+      "Lều Thọ Tùng"
+    ],
+    "time": 571
+  },
+  "1293": {
+    "ids": [
+      "AJ Blair",
+      "Foong Chung Seng",
+      "Guolun Gao (高国伦)",
+      "Takuro Kawamoto (川本琢朗)"
+    ],
+    "time": 572
+  },
+  "1297": {
+    "ids": [
+      "Gaël Dusser",
+      "Cameron Hobbs",
+      "Andrés Zuleta Vergottini",
+      "Javier Santa Cruz Álvarez",
+      "Kun-Feng Lin (林琨鋒)"
+    ],
+    "time": 573
+  },
+  "1302": {
+    "ids": [
+      "Daniel Prieto Paz",
+      "András Szermek",
+      "Piyachat Jamsai (ปิยะฉัตร แจ่มใส)",
+      "Raven Dela Cruz",
+      "Zesong Yuan (苑泽松)",
+      "Gustavo Henrique Pinheiro Manoel",
+      "Zackary Rochon"
+    ],
+    "time": 574
+  },
+  "1309": {
+    "ids": [
+      "John Mauro Suárez Cerda",
+      "Yongan Liu (刘永安)",
+      "Andrey Bankov",
+      "Michael Shannon",
+      "Tichapong Tansomros (ทิชาพงศ์ ตันสมรส)"
+    ],
+    "time": 575
+  },
+  "1314": {
+    "ids": [
+      "Edward Kwok",
+      "Naoya Inahara (稲原直哉)",
+      "David Lacher"
+    ],
+    "time": 576
+  },
+  "1317": {
+    "ids": [
+      "Lorenzo Bonoan",
+      "Xinjue Zhang (张欣珏)",
+      "Roberto Adrianus",
+      "Matthew Murray",
+      "Lang Yuan (袁朗)",
+      "Isaiah Stairs"
+    ],
+    "time": 577
+  },
+  "1323": {
+    "ids": [
+      "Andrew Bostrom",
+      "Vincent Di Leo",
+      "Aldino Mangawing",
+      "Yoga Mahardika",
+      "Xing Su (苏星)",
+      "Xiao Xue (薛晓)"
+    ],
+    "time": 578
+  },
+  "1329": {
+    "ids": [
+      "Simone Avezzano Comes",
+      "Pangbo Wu",
+      "Jonathan Senjaya",
+      "Qi'an Cai (蔡淇安)",
+      "Petey Karalis"
+    ],
+    "time": 579
+  },
+  "1334": {
+    "ids": [
+      "Jean-Louis Mathieu",
+      "Ziru Zhao (赵梓汝)"
+    ],
+    "time": 580
+  },
+  "1336": {
+    "ids": [
+      "Grégoire Delnott",
+      "Aaron Mok Kin Long (莫建朗)",
+      "Kawinmirai Yamato"
+    ],
+    "time": 581
+  },
+  "1339": {
+    "ids": [
+      "Arthur Ng",
+      "Mohamad Hafiz bin Azman",
+      "Jianyu Que (阙剑宇)"
+    ],
+    "time": 582
+  },
+  "1342": {
+    "ids": [
+      "David Pemberton",
+      "Polux Eduardo Sánchez Moreno"
+    ],
+    "time": 583
+  },
+  "1344": {
+    "ids": [
+      "Tessa Cookmeyer",
+      "Anonymous",
+      "Alexey Oblaukhov",
+      "Irwan Sarbeni"
+    ],
+    "time": 584
+  },
+  "1348": {
+    "ids": [
+      "Leung Ka Chun (梁嘉焌)",
+      "Doug Gromek",
+      "Linus Engberg",
+      "Imam Hariyadi",
+      "Leung Pak Wai"
+    ],
+    "time": 585
+  },
+  "1353": {
+    "ids": [
+      "Drake Winters",
+      "Muhammad Maulidinnur"
+    ],
+    "time": 586
+  },
+  "1355": {
+    "ids": [
+      "Ilkyoo Choi (최일규)",
+      "Guillaume Iooss",
+      "Tawanporn Laovanichvit (ธวัลพร เหล่าวณิชย์วิทย์)",
+      "Bing Xu (许兵)",
+      "Felix Gebauer",
+      "Artem Melikian (Артем Мелікян)"
+    ],
+    "time": 587
+  },
+  "1361": {
+    "ids": [
+      "Baiqiang Dong (董百强)",
+      "Michael Angelo Zafra",
+      "Conor Fairbanks",
+      "Henning Schaar",
+      "Angus Hamill"
+    ],
+    "time": 588
+  },
+  "1366": {
+    "ids": [
+      "Karl Þorláksson",
+      "Ziyue Wang (王紫玥)"
+    ],
+    "time": 589
+  },
+  "1368": {
+    "ids": [
+      "Ho Shui Ho",
+      "Luis Daniel Chavez González",
+      "Liwei Ma (马立炜)"
+    ],
+    "time": 590
+  },
+  "1371": {
+    "ids": [
+      "Bryan Logan",
+      "Jessica Flay"
+    ],
+    "time": 592
+  },
+  "1373": {
+    "ids": [
+      "Dániel Kui",
+      "Douwe Wermer",
+      "Jake Bueler",
+      "Manuel Guse",
+      "Galiya Mukhametdinova",
+      "Irwin Arruda Sales"
+    ],
+    "time": 593
+  },
+  "1379": {
+    "ids": [
+      "Elliott Herz",
+      "Armando Valtierra de la Fuente"
+    ],
+    "time": 594
+  },
+  "1381": {
+    "ids": [
+      "Jian Shi (时间)",
+      "Fitrah Makmun",
+      "Ehsan Seyedi (احسان سیدی)"
+    ],
+    "time": 595
+  },
+  "1384": {
+    "ids": [
+      "Alana Ruth",
+      "Gong-Feng Lin (林躬豐)",
+      "Victoria Svendson",
+      "Walker Welch",
+      "Joe Richards",
+      "Jonas Schober"
+    ],
+    "time": 596
+  },
+  "1390": {
+    "ids": [
+      "Łukasz Cichecki",
+      "Felipe Fuenzalida",
+      "Lulu Zhao (赵路路)",
+      "Jichao Li (李纪超)",
+      "Seyyed Nariman Mir Eshghi (سید نریمان میرعشقی)"
+    ],
+    "time": 597
+  },
+  "1395": {
+    "ids": [
+      "Mok Mun Wai (莫滿懷)",
+      "Ju-Seung Baek (백주승)",
+      "Szymon Bałos"
+    ],
+    "time": 599
+  },
+  "1398": {
+    "ids": [
+      "Yun Zheng (郑允)",
+      "Roman Ostapenko (Роман Остапенко)",
+      "Jure Gregorc",
+      "Tim Möller",
+      "Bowen Wen (温博文)",
+      "Subin Park (박수빈)"
+    ],
+    "time": 600
+  },
+  "1404": {
+    "ids": [
+      "Sanae Yamashita (山下佐苗)",
+      "Álvaro González Lasseube",
+      "Marcel Passon"
+    ],
+    "time": 601
+  },
+  "1407": {
+    "ids": [
+      "Chung-Han Hsu (許鍾瀚)"
+    ],
+    "time": 602
+  },
+  "1408": {
+    "ids": [
+      "Malin Aspelin",
+      "Yohei Oka (岡要平)",
+      "Kyle Pabst",
+      "Trịnh Nguyên Anh",
+      "Javier Rodríguez Domínguez",
+      "Jonathan Lin"
+    ],
+    "time": 603
+  },
+  "1414": {
+    "ids": [
+      "Ian Winokur",
+      "Magda Gancarz",
+      "Márk Járai",
+      "Johnson Vun",
+      "Jeremy Mah Siew Meng",
+      "Kevin Kaldera",
+      "Yue Qiu (邱玥)"
+    ],
+    "time": 604
+  },
+  "1421": {
+    "ids": [
+      "Jack Moseley",
+      "Victor Sinan Seixo de Brito Gomes"
+    ],
+    "time": 605
+  },
+  "1423": {
+    "ids": [
+      "Leung Yu Ching (梁宇正)",
+      "Konstantin Marburger",
+      "Luis Garcés Méndez",
+      "Gabriel Gratton"
+    ],
+    "time": 606
+  },
+  "1427": {
+    "ids": [
+      "Beiji Sun (孙北吉)",
+      "Denny Rizer",
+      "Andre Cantin",
+      "Jiahe Tian",
+      "Nanda Yorian",
+      "Weijian Long (龙伟健)"
+    ],
+    "time": 607
+  },
+  "1433": {
+    "ids": [
+      "Mao-te Hsieh (謝茂德)",
+      "Zul Faisal Ibrahim",
+      "Douglas Roth"
+    ],
+    "time": 608
+  },
+  "1436": {
+    "ids": [
+      "Enej Sečki"
+    ],
+    "time": 609
+  },
+  "1437": {
+    "ids": [
+      "Rebecca Milburn"
+    ],
+    "time": 610
+  },
+  "1438": {
+    "ids": [
+      "Kåre Krig",
+      "Ben Whitmore",
+      "Andrew Kilbourn",
+      "Gabriel Ruiz"
+    ],
+    "time": 611
+  },
+  "1442": {
+    "ids": [
+      "Alexander Olleta del Molino",
+      "Eduardo Bernieri Schiavon de Andrade",
+      "Vladyslav Zelenskyi (Владислав Зеленський)"
+    ],
+    "time": 612
+  },
+  "1445": {
+    "ids": [
+      "Hubert Wiśniewski",
+      "Gabriel Pitali de Carvalho",
+      "Yoann Gauthier"
+    ],
+    "time": 613
+  },
+  "1448": {
+    "ids": [
+      "Abdelhak Kaddour",
+      "Peng Lan (兰鹏)"
+    ],
+    "time": 614
+  },
+  "1450": {
+    "ids": [
+      "Joshua Satterfield",
+      "Xiaofeng Jiao (焦晓峰)",
+      "Yusuke Tsukada (塚田裕介)",
+      "Daniel Hernandez",
+      "Jiajian Xu (徐家健)"
+    ],
+    "time": 615
+  },
+  "1455": {
+    "ids": [
+      "Patinya Prapasinsap"
+    ],
+    "time": 616
+  },
+  "1456": {
+    "ids": [
+      "Felix Kung",
+      "Dawid Grobelny",
+      "César Paredes Arroyo Zemeño",
+      "Corey Sakowski"
+    ],
+    "time": 617
+  },
+  "1460": {
+    "ids": [
+      "Tristan Penson",
+      "Ziyuan Lin (林子源)"
+    ],
+    "time": 618
+  },
+  "1462": {
+    "ids": [
+      "Conrad Alberto Michelucci",
+      "Xinran Liu (刘欣然)",
+      "Amy Tai"
+    ],
+    "time": 619
+  },
+  "1465": {
+    "ids": [
+      "Wong Chung Yin"
+    ],
+    "time": 621
+  },
+  "1466": {
+    "ids": [
+      "Dmitry Karyakin",
+      "Kory Hui",
+      "Bo-Quan Wei (魏柏全)"
+    ],
+    "time": 622
+  },
+  "1469": {
+    "ids": [
+      "Matthew Wallisa",
+      "Ming-Yang Liu (劉名揚)"
+    ],
+    "time": 623
+  },
+  "1471": {
+    "ids": [
+      "Cong Wang (王丛)",
+      "James Christensen",
+      "Alfian Irdandi"
+    ],
+    "time": 624
+  },
+  "1474": {
+    "ids": [
+      "Christoph Zistler"
+    ],
+    "time": 625
+  },
+  "1475": {
+    "ids": [
+      "Ivo Bakker",
+      "Asa Kaplan",
+      "Michał Herjan"
+    ],
+    "time": 626
+  },
+  "1478": {
+    "ids": [
+      "Dewa Astika"
+    ],
+    "time": 627
+  },
+  "1479": {
+    "ids": [
+      "Antonio Gallego Zambrano",
+      "Chen Shen (申琛)"
+    ],
+    "time": 628
+  },
+  "1481": {
+    "ids": [
+      "Lu Li (李鹿)",
+      "Álvaro García Navarro",
+      "Jie Liu (刘洁)"
+    ],
+    "time": 629
+  },
+  "1484": {
+    "ids": [
+      "Yi Yang (杨奕)",
+      "Haoran Sun (孙浩然)"
+    ],
+    "time": 630
+  },
+  "1486": {
+    "ids": [
+      "Victor Dela Cruz Jr.",
+      "Yongxiang Li (李永翔)"
+    ],
+    "time": 632
+  },
+  "1488": {
+    "ids": [
+      "David Lim",
+      "Guoyihao Wang (王郭一豪)",
+      "Yona Isandika",
+      "Jeong Bin Lee (이정빈)"
+    ],
+    "time": 633
+  },
+  "1492": {
+    "ids": [
+      "Syoji Takamatsu (高松唱司)",
+      "Jiun-Yi Wu (吳俊逸)",
+      "Wen-chung Tien (田文中)"
+    ],
+    "time": 634
+  },
+  "1495": {
+    "ids": [
+      "Guanghua Wang (王光华)",
+      "Klara Dickmann",
+      "Daniel Albert Sindunata",
+      "Gonzalo Zuleta Vergottini",
+      "Dongxing Chen (陈东兴)",
+      "Rahman Ramadhan"
+    ],
+    "time": 635
+  },
+  "1501": {
+    "ids": [
+      "Trần Quang Huy",
+      "Risky Apriliansyah",
+      "Hanwen Kang (康汉文)"
+    ],
+    "time": 636
+  },
+  "1504": {
+    "ids": [
+      "Ditho Putratopo",
+      "Lars Sauer",
+      "Austin Navarrette",
+      "Ryan Jones"
+    ],
+    "time": 637
+  },
+  "1508": {
+    "ids": [
+      "Tommy Holm",
+      "Sittinon Sukhaya (สิทธินนท์ สุขายะ)",
+      "Zoltán Barcsa"
+    ],
+    "time": 638
+  },
+  "1511": {
+    "ids": [
+      "Chalotorn Hatthapornsawan"
+    ],
+    "time": 639
+  },
+  "1512": {
+    "ids": [
+      "Zhengjie Wang (王政杰)",
+      "Zonghao Chen (陈宗豪)"
+    ],
+    "time": 640
+  },
+  "1514": {
+    "ids": [
+      "Jingkang Zhou",
+      "Timothy Ng"
+    ],
+    "time": 641
+  },
+  "1516": {
+    "ids": [
+      "Henry Ammermann",
+      "Rodrigo Gómez Araya",
+      "Derek Han"
+    ],
+    "time": 643
+  },
+  "1519": {
+    "ids": [
+      "Andy Tsao",
+      "Edvárd Novacsek",
+      "Hilko Wiards",
+      "Ke Sun (孙珂)"
+    ],
+    "time": 644
+  },
+  "1523": {
+    "ids": [
+      "Edward Liu",
+      "Ken Yuan",
+      "Yung-Kuan Kuo (郭永寬)",
+      "Nguyễn Ngọc Thịnh",
+      "Gábor Nagy",
+      "Vincent Pistelli"
+    ],
+    "time": 645
+  },
+  "1529": {
+    "ids": [
+      "David Buzgo",
+      "Herman Lundgren"
+    ],
+    "time": 646
+  },
+  "1531": {
+    "ids": [
+      "Sebastian Weyer"
+    ],
+    "time": 647
+  },
+  "1532": {
+    "ids": [
+      "Kevin Zhou",
+      "Ahmad Nugraha Abrar",
+      "Samuel Klopfenstein",
+      "Tim Sonnhalter"
+    ],
+    "time": 648
+  },
+  "1536": {
+    "ids": [
+      "Kwok Chung Ming",
+      "Arnau Esteller Beltrán",
+      "Ryan Saputra"
+    ],
+    "time": 649
+  },
+  "1539": {
+    "ids": [
+      "Robin Richárd Mérai",
+      "Lu Li (李璐)",
+      "Hongguang Wu (武宏光)",
+      "Rizal Wahyu Kurniawan"
+    ],
+    "time": 650
+  },
+  "1543": {
+    "ids": [
+      "Wu Tsz Lung"
+    ],
+    "time": 651
+  },
+  "1544": {
+    "ids": [
+      "James Hildreth",
+      "Khrystyna Litovchenko (Христина Літовченко)"
+    ],
+    "time": 652
+  },
+  "1546": {
+    "ids": [
+      "Tse-Kan Lin (林哲侃)",
+      "Basel Al-Darwisch",
+      "Lei Han (韩磊)",
+      "Dongfang Qiao (乔东方)"
+    ],
+    "time": 653
+  },
+  "1550": {
+    "ids": [
+      "Lam Yiu Tong",
+      "Heike Zbierski",
+      "Wenly Sulistio"
+    ],
+    "time": 654
+  },
+  "1553": {
+    "ids": [
+      "Koen Wermer",
+      "Xavier Neier",
+      "Sergio Carbonell Soler"
+    ],
+    "time": 655
+  },
+  "1556": {
+    "ids": [
+      "Kamil Górski"
+    ],
+    "time": 656
+  },
+  "1557": {
+    "ids": [
+      "Francesco Verdicchio",
+      "Nahckjoon Kim"
+    ],
+    "time": 657
+  },
+  "1559": {
+    "ids": [
+      "Yann Leenhardt",
+      "Fariq Ismeth",
+      "Cheng Yang (杨诚)"
+    ],
+    "time": 658
+  },
+  "1562": {
+    "ids": [
+      "Jordi Piqueras Gómez"
+    ],
+    "time": 659
+  },
+  "1563": {
+    "ids": [
+      "Daniel Gloppestad Bajer",
+      "Dedi Hariyadi",
+      "Arthur Ludovico Paranhos"
+    ],
+    "time": 660
+  },
+  "1566": {
+    "ids": [
+      "Julien Rischard",
+      "William Wu",
+      "Fan Yang (杨帆)",
+      "Kouichi Mitsui (三ツ井洸一)",
+      "Hongbin Chang (常宏彬)"
+    ],
+    "time": 661
+  },
+  "1571": {
+    "ids": [
+      "Seyyed Mohammad Mahdi Fatemi (سید محمد مهدی فاطمی)",
+      "Thibaud Lamothe"
+    ],
+    "time": 662
+  },
+  "1573": {
+    "ids": [
+      "Michael Erskine",
+      "Cameron Drysdale",
+      "Krisztián Pál Szűcs"
+    ],
+    "time": 663
+  },
+  "1576": {
+    "ids": [
+      "Chaoliang Gu (顾超亮)",
+      "Aneurin Hunt",
+      "Jonathan Barajas",
+      "Hao Li (李浩)"
+    ],
+    "time": 664
+  },
+  "1580": {
+    "ids": [
+      "Howard Wong Jun Yen (黄俊仁)",
+      "Ryan McCune",
+      "Gastón Sebastián Marengo"
+    ],
+    "time": 665
+  },
+  "1583": {
+    "ids": [
+      "Fabian Löhle"
+    ],
+    "time": 666
+  },
+  "1584": {
+    "ids": [
+      "Pantita Sandusadee (ปัณฑิตา สันดุษฎี)",
+      "Donovan Cline",
+      "Cristo Devinco",
+      "Guodong Qiao (乔国栋)"
+    ],
+    "time": 667
+  },
+  "1588": {
+    "ids": [
+      "Sebastian Miner",
+      "Reinier Schippers",
+      "Juan Camilo Vargas",
+      "Guokang He (何国康)"
+    ],
+    "time": 668
+  },
+  "1592": {
+    "ids": [
+      "Oleksandr Lazorenko (Олександр Лазоренко)"
+    ],
+    "time": 669
+  },
+  "1593": {
+    "ids": [
+      "Kong Chai Chen",
+      "Caroline Paeßens",
+      "Drew McNutt",
+      "Roberto Henrique Borges Machado",
+      "Twila Stairs",
+      "Ruoye Zheng (郑若也)"
+    ],
+    "time": 670
+  },
+  "1599": {
+    "ids": [
+      "Gilberto Caracciolo Morelli",
+      "Donato Marro",
+      "Illia Zhadan (Ілля Жадан)"
+    ],
+    "time": 671
+  },
+  "1602": {
+    "ids": [
+      "Shi Feng (冯实)",
+      "Zahra Sadat Fatemi (زهراسادات فاطمی)"
+    ],
+    "time": 672
+  },
+  "1604": {
+    "ids": [
+      "David Shi",
+      "Guozheng Xu (徐国正)",
+      "Pengju Li (李鹏举)",
+      "Ken Torito Lasi"
+    ],
+    "time": 673
+  },
+  "1608": {
+    "ids": [
+      "Feliks Zemdegs",
+      "Mateusz Fydrych"
+    ],
+    "time": 674
+  },
+  "1610": {
+    "ids": [
+      "Gilles van den Peereboom",
+      "Leon Heiderich",
+      "Jukkit Junshurat (จักรกฤษณ์ จันชุรัตน์)"
+    ],
+    "time": 675
+  },
+  "1613": {
+    "ids": [
+      "Katja Renner",
+      "Patrick Bichler",
+      "Qiao Wang (王巧)"
+    ],
+    "time": 677
+  },
+  "1616": {
+    "ids": [
+      "Yu-Luo Hong (洪語洛)",
+      "Quentin Dallison",
+      "Marcos Vinícius Vieira Takahashi da Silva"
+    ],
+    "time": 678
+  },
+  "1619": {
+    "ids": [
+      "Samuel Djian",
+      "Peng Cao (曹鹏)"
+    ],
+    "time": 679
+  },
+  "1621": {
+    "ids": [
+      "Shang Wu (吴尚)",
+      "Hanrui Kang (康汉睿)",
+      "Jinyang Zhou (周锦阳)"
+    ],
+    "time": 680
+  },
+  "1624": {
+    "ids": [
+      "Liang Liu (刘良)",
+      "Eric Fernandes Monteiro",
+      "Haysel Nursewan"
+    ],
+    "time": 681
+  },
+  "1627": {
+    "ids": [
+      "Jun Zhao (赵军)"
+    ],
+    "time": 682
+  },
+  "1628": {
+    "ids": [
+      "Adam Zamora",
+      "Kristopher De Asis",
+      "Minh Duong",
+      "Cody Hui",
+      "Merlin Schmidt"
+    ],
+    "time": 684
+  },
+  "1633": {
+    "ids": [
+      "Viktor Benjámin Mérai",
+      "Nutchapong Ketaniruj"
+    ],
+    "time": 685
+  },
+  "1635": {
+    "ids": [
+      "Yazhao Lu (卢亚召)",
+      "Eric Johnson",
+      "Safirra Afifah Firanka",
+      "Rituraj Sohoni"
+    ],
+    "time": 686
+  },
+  "1639": {
+    "ids": [
+      "Adrian Englhardt",
+      "Alejandro de Frutos Leon",
+      "Matthias Gruber"
+    ],
+    "time": 687
+  },
+  "1642": {
+    "ids": [
+      "Andrei Dumitrescu",
+      "José Felipe Duarte Coronado",
+      "Bohdan Burdyliak"
+    ],
+    "time": 688
+  },
+  "1645": {
+    "ids": [
+      "Alan Chang",
+      "Oleksandr Borysenko (Олександр Борисенко)"
+    ],
+    "time": 690
+  },
+  "1647": {
+    "ids": [
+      "Ábrahám Papp"
+    ],
+    "time": 691
+  },
+  "1648": {
+    "ids": [
+      "Tamás Lövei",
+      "Eric Yip",
+      "Austin Montiel",
+      "Alex Comeau"
+    ],
+    "time": 692
+  },
+  "1652": {
+    "ids": [
+      "Luna Suzuki (鈴木留奈)",
+      "Ilya Samarin"
+    ],
+    "time": 693
+  },
+  "1654": {
+    "ids": [
+      "Laura Juhász"
+    ],
+    "time": 694
+  },
+  "1655": {
+    "ids": [
+      "Xiaotao Wang (王晓涛)"
+    ],
+    "time": 695
+  },
+  "1656": {
+    "ids": [
+      "Teo Fenny",
+      "Yusuke Morikawa (森川裕介)"
+    ],
+    "time": 697
+  },
+  "1658": {
+    "ids": [
+      "Kei Suga (須賀慶)",
+      "Yohei Suzuki (鈴木洋平)",
+      "Rodrigo Septién Rodríguez",
+      "Dániel Ferencz"
+    ],
+    "time": 698
+  },
+  "1662": {
+    "ids": [
+      "Han Wu (吳翰)",
+      "Ramadan Sulejman",
+      "Paweł Szmalc"
+    ],
+    "time": 699
+  },
+  "1665": {
+    "ids": [
+      "Lee Yiu Fai (李曜輝)"
+    ],
+    "time": 700
+  },
+  "1666": {
+    "ids": [
+      "Aaron Lester",
+      "Weicheng Gao (高伟程)",
+      "Nutthaphat Ngernkitti",
+      "Patrick Pepin",
+      "Łukasz Boczek"
+    ],
+    "time": 701
+  },
+  "1671": {
+    "ids": [
+      "Nabbas Mughal"
+    ],
+    "time": 703
+  },
+  "1672": {
+    "ids": [
+      "Patrick Kelly",
+      "Dennis Strehlau",
+      "Máté Tóth",
+      "Roman Yakobyshyn (Роман Якобишин)"
+    ],
+    "time": 704
+  },
+  "1676": {
+    "ids": [
+      "Víctor Melero Borja"
+    ],
+    "time": 706
+  },
+  "1677": {
+    "ids": [
+      "Leon Spataru"
+    ],
+    "time": 707
+  },
+  "1678": {
+    "ids": [
+      "Adam Wills",
+      "Ali Jahanbani (علی جهانبانی)"
+    ],
+    "time": 708
+  },
+  "1680": {
+    "ids": [
+      "Peter Hung",
+      "Matthew Bohman"
+    ],
+    "time": 709
+  },
+  "1682": {
+    "ids": [
+      "Jiaqing Shen (沈家青)",
+      "Sam Davidson",
+      "Damar Wahyu",
+      "Jing Wu (吴晶)"
+    ],
+    "time": 710
+  },
+  "1686": {
+    "ids": [
+      "Hiroo Saito (斉藤広大)",
+      "Hunter McGahan",
+      "Ha Chan Uy"
+    ],
+    "time": 711
+  },
+  "1689": {
+    "ids": [
+      "Anja Provoost",
+      "Leandro Vasconcellos Alleoni",
+      "Vilho Kivihalme",
+      "Anna Kerkmann",
+      "Lê Hải Ninh"
+    ],
+    "time": 712
+  },
+  "1694": {
+    "ids": [
+      "Nathaniel Knopf",
+      "Branko Kobal"
+    ],
+    "time": 713
+  },
+  "1696": {
+    "ids": [
+      "Ken Mei (梅肯)",
+      "Alex Hontz",
+      "Dale Stairs"
+    ],
+    "time": 714
+  },
+  "1699": {
+    "ids": [
+      "Elliott Bolzan",
+      "Michael Hans",
+      "Xudong Zhao (赵旭东)"
+    ],
+    "time": 715
+  },
+  "1702": {
+    "ids": [
+      "Alexei Gousev"
+    ],
+    "time": 716
+  },
+  "1703": {
+    "ids": [
+      "Bernett Orlando"
+    ],
+    "time": 717
+  },
+  "1704": {
+    "ids": [
+      "Raiza Mativo",
+      "Kevin Unkrich",
+      "Jay Horan"
+    ],
+    "time": 718
+  },
+  "1707": {
+    "ids": [
+      "Gunnar Kantare Krig",
+      "Zhiao Guo (郭志翱)"
+    ],
+    "time": 719
+  },
+  "1709": {
+    "ids": [
+      "Andri Rutschmann"
+    ],
+    "time": 720
+  },
+  "1710": {
+    "ids": [
+      "Huangchao Yu (于黄超)",
+      "Debei Li (李德备)"
+    ],
+    "time": 722
+  },
+  "1712": {
+    "ids": [
+      "Loo Kian Kit"
+    ],
+    "time": 723
+  },
+  "1713": {
+    "ids": [
+      "Park Seung Chae (박성채)"
+    ],
+    "time": 724
+  },
+  "1714": {
+    "ids": [
+      "Bill Tuscher",
+      "Anggita Cahyaningtyas"
+    ],
+    "time": 725
+  },
+  "1716": {
+    "ids": [
+      "David Weisiger",
+      "Saharta"
+    ],
+    "time": 727
+  },
+  "1718": {
+    "ids": [
+      "Antton Curutchet",
+      "Borislav Marchovski"
+    ],
+    "time": 728
+  },
+  "1720": {
+    "ids": [
+      "Petra Kobal Vogrinec",
+      "Miriana Cecchi"
+    ],
+    "time": 729
+  },
+  "1722": {
+    "ids": [
+      "Oksana Ruzaeva"
+    ],
+    "time": 730
+  },
+  "1723": {
+    "ids": [
+      "Liqiang Zhou (周利强)"
+    ],
+    "time": 732
+  },
+  "1724": {
+    "ids": [
+      "István Kocza"
+    ],
+    "time": 733
+  },
+  "1725": {
+    "ids": [
+      "Nathaniel Day",
+      "Noa Arthurs"
+    ],
+    "time": 734
+  },
+  "1727": {
+    "ids": [
+      "Yiding Zhao (赵一丁)",
+      "Sheng Jiang (蒋笙)"
+    ],
+    "time": 736
+  },
+  "1729": {
+    "ids": [
+      "Nikolaj Buus-Kofoed",
+      "Felix Lee"
+    ],
+    "time": 737
+  },
+  "1731": {
+    "ids": [
+      "Kun Zhu (朱坤)"
+    ],
+    "time": 738
+  },
+  "1732": {
+    "ids": [
+      "Jai Gambhir"
+    ],
+    "time": 740
+  },
+  "1733": {
+    "ids": [
+      "Isabella Azzopardi"
+    ],
+    "time": 741
+  },
+  "1734": {
+    "ids": [
+      "Ye Yuan (袁野)"
+    ],
+    "time": 743
+  },
+  "1735": {
+    "ids": [
+      "Michał Machała",
+      "Yipeng Zhou (周逸鹏)"
+    ],
+    "time": 744
+  },
+  "1737": {
+    "ids": [
+      "Isabela Maria de Aguiar Milani"
+    ],
+    "time": 746
+  },
+  "1738": {
+    "ids": [
+      "Chunwei Qiao (乔春玮)"
+    ],
+    "time": 747
+  },
+  "1739": {
+    "ids": [
+      "Aria Zolfaghari"
+    ],
+    "time": 748
+  },
+  "1740": {
+    "ids": [
+      "Anton Piau",
+      "Henrik Bui",
+      "Pei-Chun Tsao (曹培峻)",
+      "Wong Juan Ying",
+      "André Lars da Cunha"
+    ],
+    "time": 749
+  },
+  "1745": {
+    "ids": [
+      "Bin Luo (罗彬)"
+    ],
+    "time": 752
+  },
+  "1746": {
+    "ids": [
+      "Andrew Fleckenstein",
+      "Aaron Dworetzky",
+      "Maksym Samoilenko (Максим Самойленко)"
+    ],
+    "time": 753
+  },
+  "1749": {
+    "ids": [
+      "Lee Yin To",
+      "Ricky Lianto",
+      "Gilbert Joshua"
+    ],
+    "time": 754
+  },
+  "1752": {
+    "ids": [
+      "Thomas Müller"
+    ],
+    "time": 757
+  },
+  "1753": {
+    "ids": [
+      "Valensia Sebastiani"
+    ],
+    "time": 758
+  },
+  "1754": {
+    "ids": [
+      "Robert Allen Santayana"
+    ],
+    "time": 760
+  },
+  "1755": {
+    "ids": [
+      "Jake Rueth"
+    ],
+    "time": 761
+  },
+  "1756": {
+    "ids": [
+      "Stephanie Chow",
+      "Lorenzo Vigani Poli"
+    ],
+    "time": 762
+  },
+  "1758": {
+    "ids": [
+      "Mandi Leong"
+    ],
+    "time": 763
+  },
+  "1759": {
+    "ids": [
+      "Glenn Ishida Jr."
+    ],
+    "time": 765
+  },
+  "1760": {
+    "ids": [
+      "Allan Ortega",
+      "William Scanlon",
+      "Youxin Wang (王有信)",
+      "Christian Hartch"
+    ],
+    "time": 766
+  },
+  "1764": {
+    "ids": [
+      "Yandong Li (李燕东)",
+      "Cendy Cahyo Rahmat"
+    ],
+    "time": 767
+  },
+  "1766": {
+    "ids": [
+      "Dániel Forgó"
+    ],
+    "time": 768
+  },
+  "1767": {
+    "ids": [
+      "Michał Weskida"
+    ],
+    "time": 769
+  },
+  "1768": {
+    "ids": [
+      "Nicolas Fruy"
+    ],
+    "time": 771
+  },
+  "1769": {
+    "ids": [
+      "Andreas Bækdahl"
+    ],
+    "time": 774
+  },
+  "1770": {
+    "ids": [
+      "Sio Ian Son"
+    ],
+    "time": 775
+  },
+  "1771": {
+    "ids": [
+      "Olivér Falvai",
+      "Hanneke Rijks"
+    ],
+    "time": 776
+  },
+  "1773": {
+    "ids": [
+      "Pedro Henrique Leite Wanderley"
+    ],
+    "time": 777
+  },
+  "1774": {
+    "ids": [
+      "Setyo Okiviantoro"
+    ],
+    "time": 779
+  },
+  "1775": {
+    "ids": [
+      "Robin Blöhm",
+      "Kamil Zieliński",
+      "Weiwei Han (韩微微)"
+    ],
+    "time": 780
+  },
+  "1778": {
+    "ids": [
+      "Sophie van de Graaff"
+    ],
+    "time": 782
+  },
+  "1779": {
+    "ids": [
+      "Eric Reese"
+    ],
+    "time": 783
+  },
+  "1780": {
+    "ids": [
+      "Ziyu Ma (马子于)",
+      "Guangye Zhang (张广业)"
+    ],
+    "time": 785
+  },
+  "1782": {
+    "ids": [
+      "Hui Dong (董辉)",
+      "Hye-Sung Namkung (남궁혜성)"
+    ],
+    "time": 786
+  },
+  "1784": {
+    "ids": [
+      "Jameson O'Connor",
+      "Maor Youavian"
+    ],
+    "time": 788
+  },
+  "1786": {
+    "ids": [
+      "Emma Dickmann",
+      "Weijie Gu (顾伟杰)",
+      "Jibo Zhao (赵吉波)",
+      "Darren Schoensee"
+    ],
+    "time": 790
+  },
+  "1790": {
+    "ids": [
+      "Kam Chor Kin (甘楚健)"
+    ],
+    "time": 792
+  },
+  "1791": {
+    "ids": [
+      "Bimo Aryo Tyasono"
+    ],
+    "time": 794
+  },
+  "1792": {
+    "ids": [
+      "Shi Yang (杨诗)",
+      "Vincent Yeung"
+    ],
+    "time": 795
+  },
+  "1794": {
+    "ids": [
+      "Andrea Javier"
+    ],
+    "time": 797
+  },
+  "1795": {
+    "ids": [
+      "Nuttanai Kijviwattanakarn (ณัฐนัย กิจวิวัฒนการ)"
+    ],
+    "time": 798
+  },
+  "1796": {
+    "ids": [
+      "Joey Gouly",
+      "Aina Hashimoto (橋本愛那)"
+    ],
+    "time": 799
+  },
+  "1798": {
+    "ids": [
+      "Giovanni Contardi",
+      "Xinnan Ye (叶新楠)",
+      "Victor Li"
+    ],
+    "time": 801
+  },
+  "1801": {
+    "ids": [
+      "David Gugl"
+    ],
+    "time": 802
+  },
+  "1802": {
+    "ids": [
+      "Meng Zhou (周萌)"
+    ],
+    "time": 803
+  },
+  "1803": {
+    "ids": [
+      "Daniel Weber"
+    ],
+    "time": 804
+  },
+  "1804": {
+    "ids": [
+      "Levente Zsóka"
+    ],
+    "time": 807
+  },
+  "1805": {
+    "ids": [
+      "Neel Shah"
+    ],
+    "time": 811
+  },
+  "1806": {
+    "ids": [
+      "Sizhang Xue (薛嗣彰)"
+    ],
+    "time": 812
+  },
+  "1807": {
+    "ids": [
+      "Antoine Perdereau"
+    ],
+    "time": 814
+  },
+  "1808": {
+    "ids": [
+      "Alexander Schröder"
+    ],
+    "time": 815
+  },
+  "1809": {
+    "ids": [
+      "Bence Tóth"
+    ],
+    "time": 816
+  },
+  "1810": {
+    "ids": [
+      "Jessica Moore"
+    ],
+    "time": 818
+  },
+  "1811": {
+    "ids": [
+      "Fyodor Ivanov"
+    ],
+    "time": 819
+  },
+  "1812": {
+    "ids": [
+      "Krzysztof Górka",
+      "João Hiroyuki de Melo Inagaki"
+    ],
+    "time": 820
+  },
+  "1814": {
+    "ids": [
+      "Zalán Mihály",
+      "Leon Schmidtchen",
+      "Maxim Chechnev"
+    ],
+    "time": 828
+  },
+  "1817": {
+    "ids": [
+      "Gabriel Jubé de Oliveira"
+    ],
+    "time": 834
+  },
+  "1818": {
+    "ids": [
+      "Chen Yuan (原晨)"
+    ],
+    "time": 839
+  },
+  "1819": {
+    "ids": [
+      "Eko Widianto"
+    ],
+    "time": 841
+  },
+  "1820": {
+    "ids": [
+      "Wei Zhang (张炜)"
+    ],
+    "time": 843
+  },
+  "1821": {
+    "ids": [
+      "Xiaohan Li (李霄翰)"
+    ],
+    "time": 847
+  },
+  "1822": {
+    "ids": [
+      "Kritsinee Butsri"
+    ],
+    "time": 849
+  },
+  "1823": {
+    "ids": [
+      "Steffen Gufler",
+      "Artem Fokin (Артем Фокін)"
+    ],
+    "time": 851
+  },
+  "1825": {
+    "ids": [
+      "Muhammad Iril Khairul Anam"
+    ],
+    "time": 854
+  },
+  "1826": {
+    "ids": [
+      "Chi-Fan Li (李啟帆)"
+    ],
+    "time": 858
+  },
+  "1827": {
+    "ids": [
+      "Peter Douthwright",
+      "Jonothon Holmes-Brown"
+    ],
+    "time": 859
+  },
+  "1829": {
+    "ids": [
+      "Guillaume Erbibou",
+      "Anatoly Kim",
+      "Mingshen Yin (阴明珅)"
+    ],
+    "time": 860
+  },
+  "1832": {
+    "ids": [
+      "Daniel Brunthaler"
+    ],
+    "time": 862
+  },
+  "1833": {
+    "ids": [
+      "Kwok Ming Tim",
+      "Alif Reza Nurhadi"
+    ],
+    "time": 863
+  },
+  "1835": {
+    "ids": [
+      "Revaldo Abedram Hapaa",
+      "Sergio Alejandro Vargas"
+    ],
+    "time": 866
+  },
+  "1837": {
+    "ids": [
+      "Pierre Lemerle"
+    ],
+    "time": 867
+  },
+  "1838": {
+    "ids": [
+      "Hans Christian"
+    ],
+    "time": 870
+  },
+  "1839": {
+    "ids": [
+      "Luigi Lunardon"
+    ],
+    "time": 871
+  },
+  "1840": {
+    "ids": [
+      "Vincent Sheu",
+      "Sijing Ma (马思靖)"
+    ],
+    "time": 872
+  },
+  "1842": {
+    "ids": [
+      "Tomasz Cyrklaff"
+    ],
+    "time": 877
+  },
+  "1843": {
+    "ids": [
+      "Arnold Soeparjanto",
+      "Kate Sosik",
+      "Tenyson Couto dos Reis",
+      "Thijs De Laet"
+    ],
+    "time": 878
+  },
+  "1847": {
+    "ids": [
+      "Thoriq Muttaqin",
+      "Zeynab Sadat Fatemi (زینب سادات فاطمی)"
+    ],
+    "time": 884
+  },
+  "1849": {
+    "ids": [
+      "Edgar Ricardo Hernández Rosales"
+    ],
+    "time": 886
+  },
+  "1850": {
+    "ids": [
+      "Hamlet Fernando Guerrero Ramírez"
+    ],
+    "time": 887
+  },
+  "1851": {
+    "ids": [
+      "Rick Mazzante"
+    ],
+    "time": 890
+  },
+  "1852": {
+    "ids": [
+      "Marek Kurcyus",
+      "Jin Zhuo (卓金)"
+    ],
+    "time": 892
+  },
+  "1854": {
+    "ids": [
+      "Adison Trueblood",
+      "Einar Andersen",
+      "Francisco Hamlin"
+    ],
+    "time": 894
+  },
+  "1857": {
+    "ids": [
+      "Jarvis Jin"
+    ],
+    "time": 897
+  },
+  "1858": {
+    "ids": [
+      "Krzysztof Żerucha"
+    ],
+    "time": 898
+  },
+  "1859": {
+    "ids": [
+      "Eric Zhao"
+    ],
+    "time": 899
+  },
+  "1860": {
+    "ids": [
+      "Ágnes Dóra Szermek"
+    ],
+    "time": 900
+  },
+  "1861": {
+    "ids": [
+      "Sylvain Garcia"
+    ],
+    "time": 903
+  },
+  "1862": {
+    "ids": [
+      "Thibaut Duvoid"
+    ],
+    "time": 907
+  },
+  "1863": {
+    "ids": [
+      "Gregor Billing"
+    ],
+    "time": 908
+  },
+  "1864": {
+    "ids": [
+      "Yan-Hung Lai (賴彥宏)",
+      "Mohammad Reza Khademi (محمد رضا خادمی)"
+    ],
+    "time": 911
+  },
+  "1866": {
+    "ids": [
+      "Chong Tze Hao (张智豪)",
+      "Tianyu Xiong (熊天煜)",
+      "Maksim Vorobyev"
+    ],
+    "time": 917
+  },
+  "1869": {
+    "ids": [
+      "Ziqian Yin (尹子谦)"
+    ],
+    "time": 919
+  },
+  "1870": {
+    "ids": [
+      "Chris DeAngelis"
+    ],
+    "time": 921
+  },
+  "1871": {
+    "ids": [
+      "Niklas Dittrich"
+    ],
+    "time": 922
+  },
+  "1872": {
+    "ids": [
+      "Benjamin Filborn"
+    ],
+    "time": 923
+  },
+  "1873": {
+    "ids": [
+      "Chew Soon Quan"
+    ],
+    "time": 925
+  },
+  "1874": {
+    "ids": [
+      "Tam Ming Ki"
+    ],
+    "time": 926
+  },
+  "1875": {
+    "ids": [
+      "Qianchuan Gui (桂黔川)",
+      "Giovana Guimarães Nolêto"
+    ],
+    "time": 927
+  },
+  "1877": {
+    "ids": [
+      "Austin Abrahamson"
+    ],
+    "time": 933
+  },
+  "1878": {
+    "ids": [
+      "Jong-Ho Jeong (정종호)"
+    ],
+    "time": 937
+  },
+  "1879": {
+    "ids": [
+      "Yucheng Lu (陆宇澄)"
+    ],
+    "time": 938
+  },
+  "1880": {
+    "ids": [
+      "Rodrigo Kenji Asato Kobayashi",
+      "Frankie Sell",
+      "Daiming Si (思黛明)"
+    ],
+    "time": 939
+  },
+  "1883": {
+    "ids": [
+      "Ben Beer",
+      "Yi Cai (蔡益)",
+      "Barry Bower"
+    ],
+    "time": 940
+  },
+  "1886": {
+    "ids": [
+      "Ivan Hammurabi Sánchez Chavez"
+    ],
+    "time": 941
+  },
+  "1887": {
+    "ids": [
+      "Mariano Shaar Gutierrez"
+    ],
+    "time": 942
+  },
+  "1888": {
+    "ids": [
+      "Hippolyte Moreau"
+    ],
+    "time": 943
+  },
+  "1889": {
+    "ids": [
+      "Chris Bird"
+    ],
+    "time": 944
+  },
+  "1890": {
+    "ids": [
+      "Neil Xia",
+      "Jing Zhao (赵晶)"
+    ],
+    "time": 945
+  },
+  "1892": {
+    "ids": [
+      "Victor Wong",
+      "Eiji Okeda (桶田英次)"
+    ],
+    "time": 949
+  },
+  "1894": {
+    "ids": [
+      "Xiao Gu (顾骁)"
+    ],
+    "time": 950
+  },
+  "1895": {
+    "ids": [
+      "Zhaoyi Zhou (周兆毅)"
+    ],
+    "time": 952
+  },
+  "1896": {
+    "ids": [
+      "Yoann Roig"
+    ],
+    "time": 957
+  },
+  "1897": {
+    "ids": [
+      "Fathur Rahman"
+    ],
+    "time": 958
+  },
+  "1898": {
+    "ids": [
+      "Christy Morris",
+      "Tianshu Liu (刘天树)"
+    ],
+    "time": 960
+  },
+  "1900": {
+    "ids": [
+      "Lee Poon Kit (李本杰)",
+      "Christopher Rosario"
+    ],
+    "time": 964
+  },
+  "1902": {
+    "ids": [
+      "Callum Moseley",
+      "Niloufar Farajpour (نیلوفر فرجپور)",
+      "Shawn Jozsa"
+    ],
+    "time": 965
+  },
+  "1905": {
+    "ids": [
+      "Yanick Villeneuve"
+    ],
+    "time": 969
+  },
+  "1906": {
+    "ids": [
+      "Renato Freire Leandro",
+      "Muhammad Alkautsar Sanusi"
+    ],
+    "time": 973
+  },
+  "1908": {
+    "ids": [
+      "Houwang Bian (边厚望)"
+    ],
+    "time": 977
+  },
+  "1909": {
+    "ids": [
+      "Niki Placskó",
+      "Anthony Kesich"
+    ],
+    "time": 978
+  },
+  "1911": {
+    "ids": [
+      "Yousen Liu (刘有森)"
+    ],
+    "time": 981
+  },
+  "1912": {
+    "ids": [
+      "Matteo Colombo"
+    ],
+    "time": 983
+  },
+  "1913": {
+    "ids": [
+      "Siraj Ali",
+      "Rafa Serrano Hinojosa"
+    ],
+    "time": 985
+  },
+  "1915": {
+    "ids": [
+      "Chun Hou (侯纯)"
+    ],
+    "time": 994
+  },
+  "1916": {
+    "ids": [
+      "Mario Kunzemann"
+    ],
+    "time": 995
+  },
+  "1917": {
+    "ids": [
+      "Tyler Wilkinson"
+    ],
+    "time": 996
+  },
+  "1918": {
+    "ids": [
+      "Miao He (何淼)"
+    ],
+    "time": 1004
+  },
+  "1919": {
+    "ids": [
+      "Alexander Smith"
+    ],
+    "time": 1007
+  },
+  "1920": {
+    "ids": [
+      "Jun Guo (郭军)"
+    ],
+    "time": 1010
+  },
+  "1921": {
+    "ids": [
+      "Lucas Scheiper"
+    ],
+    "time": 1013
+  },
+  "1922": {
+    "ids": [
+      "Zhilin Wang (王智琳)"
+    ],
+    "time": 1014
+  },
+  "1923": {
+    "ids": [
+      "Simon Wadsworth",
+      "Andrey Krasovskiy"
+    ],
+    "time": 1018
+  },
+  "1925": {
+    "ids": [
+      "Thomas Lind Magnussen",
+      "Shayan Mohseni (شایان محسنی)"
+    ],
+    "time": 1021
+  },
+  "1927": {
+    "ids": [
+      "Chengze Li (李承泽)"
+    ],
+    "time": 1025
+  },
+  "1928": {
+    "ids": [
+      "Jayden Mchargue"
+    ],
+    "time": 1026
+  },
+  "1929": {
+    "ids": [
+      "Swee Yew Yong",
+      "Ding Zhi (志丁)"
+    ],
+    "time": 1028
+  },
+  "1931": {
+    "ids": [
+      "Pierre Schramm"
+    ],
+    "time": 1034
+  },
+  "1932": {
+    "ids": [
+      "Tan Joe Hau"
+    ],
+    "time": 1037
+  },
+  "1933": {
+    "ids": [
+      "Xiang Dong (董祥)",
+      "Ying Wang (王莹)"
+    ],
+    "time": 1038
+  },
+  "1935": {
+    "ids": [
+      "Michał Robaczyk",
+      "Kaiyang Gao (高凯阳)",
+      "Deanna Yi"
+    ],
+    "time": 1042
+  },
+  "1938": {
+    "ids": [
+      "Junjie Chen (陈俊杰)"
+    ],
+    "time": 1046
+  },
+  "1939": {
+    "ids": [
+      "Jack Irvine"
+    ],
+    "time": 1049
+  },
+  "1940": {
+    "ids": [
+      "Wahidin Annas Sunarya"
+    ],
+    "time": 1050
+  },
+  "1941": {
+    "ids": [
+      "Chris Dzoan"
+    ],
+    "time": 1052
+  },
+  "1942": {
+    "ids": [
+      "Alexander Lau"
+    ],
+    "time": 1053
+  },
+  "1943": {
+    "ids": [
+      "Max Olschok"
+    ],
+    "time": 1062
+  },
+  "1944": {
+    "ids": [
+      "José Garrido"
+    ],
+    "time": 1063
+  },
+  "1945": {
+    "ids": [
+      "Yura Plitin",
+      "Joris Balland"
+    ],
+    "time": 1064
+  },
+  "1947": {
+    "ids": [
+      "Bobby D'Angelo"
+    ],
+    "time": 1065
+  },
+  "1948": {
+    "ids": [
+      "Marieke van der Wegen"
+    ],
+    "time": 1067
+  },
+  "1949": {
+    "ids": [
+      "Zheng Li (李政)"
+    ],
+    "time": 1073
+  },
+  "1950": {
+    "ids": [
+      "Fikri Tulus"
+    ],
+    "time": 1079
+  },
+  "1951": {
+    "ids": [
+      "David Adams"
+    ],
+    "time": 1087
+  },
+  "1952": {
+    "ids": [
+      "Zongwei Guo"
+    ],
+    "time": 1088
+  },
+  "1953": {
+    "ids": [
+      "Tris Angell"
+    ],
+    "time": 1093
+  },
+  "1954": {
+    "ids": [
+      "Jorge Nieto Sánchez-Campillo"
+    ],
+    "time": 1095
+  },
+  "1955": {
+    "ids": [
+      "Andrea Santambrogio"
+    ],
+    "time": 1103
+  },
+  "1956": {
+    "ids": [
+      "Bartosz Pawłowski"
+    ],
+    "time": 1105
+  },
+  "1957": {
+    "ids": [
+      "David Aguila"
+    ],
+    "time": 1114
+  },
+  "1958": {
+    "ids": [
+      "Renan Mondini Cerpe"
+    ],
+    "time": 1118
+  },
+  "1959": {
+    "ids": [
+      "Albert Böhm"
+    ],
+    "time": 1119
+  },
+  "1960": {
+    "ids": [
+      "Luis Fernando Muñoz Correa"
+    ],
+    "time": 1123
+  },
+  "1961": {
+    "ids": [
+      "Aramayis Adloyan (Արամայիս Ադլոյան)"
+    ],
+    "time": 1126
+  },
+  "1962": {
+    "ids": [
+      "Anthony Hsu",
+      "Tanner Reece"
+    ],
+    "time": 1133
+  },
+  "1964": {
+    "ids": [
+      "Hanrui Yu (于涵睿)"
+    ],
+    "time": 1140
+  },
+  "1965": {
+    "ids": [
+      "Jonas Aaslet",
+      "Seyyed Ali Reza Heidari (سید علی رضا حیدری)",
+      "Filip Zowczak"
+    ],
+    "time": 1144
+  },
+  "1968": {
+    "ids": [
+      "Hadley Sheffield"
+    ],
+    "time": 1150
+  },
+  "1969": {
+    "ids": [
+      "Maciek Jabłoński"
+    ],
+    "time": 1151
+  },
+  "1970": {
+    "ids": [
+      "Norbert Héjja"
+    ],
+    "time": 1155
+  },
+  "1971": {
+    "ids": [
+      "Linlin Su (苏林林)"
+    ],
+    "time": 1160
+  },
+  "1972": {
+    "ids": [
+      "Joel Spang"
+    ],
+    "time": 1161
+  },
+  "1973": {
+    "ids": [
+      "Jackson Warley"
+    ],
+    "time": 1165
+  },
+  "1974": {
+    "ids": [
+      "Lin Wei (魏琳)"
+    ],
+    "time": 1166
+  },
+  "1975": {
+    "ids": [
+      "Javier Espinosa García"
+    ],
+    "time": 1173
+  },
+  "1976": {
+    "ids": [
+      "Sam Nowachek"
+    ],
+    "time": 1174
+  },
+  "1977": {
+    "ids": [
+      "Yi Wei (危毅)"
+    ],
+    "time": 1187
+  },
+  "1978": {
+    "ids": [
+      "Taylor Howell",
+      "Yan Xia (夏炎)"
+    ],
+    "time": 1192
+  },
+  "1980": {
+    "ids": [
+      "Weronika Marczyk"
+    ],
+    "time": 1197
+  },
+  "1981": {
+    "ids": [
+      "Yinlu Dang (党尹潞)"
+    ],
+    "time": 1206
+  },
+  "1982": {
+    "ids": [
+      "Yanjun Liu (刘艳军)"
+    ],
+    "time": 1207
+  },
+  "1983": {
+    "ids": [
+      "Isabella Bosia"
+    ],
+    "time": 1215
+  },
+  "1984": {
+    "ids": [
+      "Novianto Pambudi"
+    ],
+    "time": 1216
+  },
+  "1985": {
+    "ids": [
+      "Aje Derian Parenrengi"
+    ],
+    "time": 1218
+  },
+  "1986": {
+    "ids": [
+      "Alexia Rimbert"
+    ],
+    "time": 1220
+  },
+  "1987": {
+    "ids": [
+      "Daniel Lundwall"
+    ],
+    "time": 1225
+  },
+  "1988": {
+    "ids": [
+      "Hana Kotinova"
+    ],
+    "time": 1226
+  },
+  "1989": {
+    "ids": [
+      "Ella Wu"
+    ],
+    "time": 1227
+  },
+  "1990": {
+    "ids": [
+      "Thibaut Jacquinot",
+      "Meng Li (李梦)"
+    ],
+    "time": 1245
+  },
+  "1992": {
+    "ids": [
+      "Mikhail Denisov"
+    ],
+    "time": 1253
+  },
+  "1993": {
+    "ids": [
+      "Patrick Chu (朱桓鋒)"
+    ],
+    "time": 1272
+  },
+  "1994": {
+    "ids": [
+      "Matheus Aricawa"
+    ],
+    "time": 1282
+  },
+  "1995": {
+    "ids": [
+      "Pradeep Dhananjay"
+    ],
+    "time": 1295
+  },
+  "1996": {
+    "ids": [
+      "William Addington"
+    ],
+    "time": 1297
+  },
+  "1997": {
+    "ids": [
+      "Ruifeng Ji (姬锐锋)"
+    ],
+    "time": 1309
+  },
+  "1998": {
+    "ids": [
+      "Pongsathorn Srikornvit"
+    ],
+    "time": 1316
+  },
+  "1999": {
+    "ids": [
+      "Rebecca Westhoff"
+    ],
+    "time": 1341
+  },
+  "2000": {
+    "ids": [
+      "Thomas Lampe"
+    ],
+    "time": 1366
+  },
+  "2001": {
+    "ids": [
+      "Justin Katz"
+    ],
+    "time": 1377
+  },
+  "2002": {
+    "ids": [
+      "Jin Feng Wang Qiu"
+    ],
+    "time": 1381
+  },
+  "2003": {
+    "ids": [
+      "Bob Burton Sr."
+    ],
+    "time": 1386
+  },
+  "2004": {
+    "ids": [
+      "Viet Pham"
+    ],
+    "time": 1392
+  },
+  "2005": {
+    "ids": [
+      "Alice Tchang"
+    ],
+    "time": 1401
+  },
+  "2006": {
+    "ids": [
+      "Koen Arens"
+    ],
+    "time": 1416
+  },
+  "2007": {
+    "ids": [
+      "Ilya Yatsenko"
+    ],
+    "time": 1427
+  },
+  "2008": {
+    "ids": [
+      "Xinran Wang (王新然)"
+    ],
+    "time": 1450
+  },
+  "2009": {
+    "ids": [
+      "Salim Short"
+    ],
+    "time": 1456
+  },
+  "2010": {
+    "ids": [
+      "János Nemes"
+    ],
+    "time": 1466
+  },
+  "2011": {
+    "ids": [
+      "Aki Kunikoshi (國越晶)"
+    ],
+    "time": 1470
+  },
+  "2012": {
+    "ids": [
+      "David Gomes",
+      "Yoel Putera Samuel"
+    ],
+    "time": 1474
+  },
+  "2014": {
+    "ids": [
+      "Feng Yao (姚峰)"
+    ],
+    "time": 1514
+  },
+  "2015": {
+    "ids": [
+      "Alban Marchal"
+    ],
+    "time": 1526
+  },
+  "2016": {
+    "ids": [
+      "Dina Gaidaichuk (Діна Гайдайчук)"
+    ],
+    "time": 1529
+  },
+  "2017": {
+    "ids": [
+      "Sean Li"
+    ],
+    "time": 1553
+  },
+  "2018": {
+    "ids": [
+      "Yiqun Yang (杨屹群)"
+    ],
+    "time": 1563
+  },
+  "2019": {
+    "ids": [
+      "Guang Zhao (赵广)"
+    ],
+    "time": 1565
+  },
+  "2020": {
+    "ids": [
+      "Jonathan Tan Wei Xiat"
+    ],
+    "time": 1628
+  },
+  "2021": {
+    "ids": [
+      "Chew Weng Chuen"
+    ],
+    "time": 1650
+  },
+  "2022": {
+    "ids": [
+      "Ron van Bruchem"
+    ],
+    "time": 1718
+  },
+  "2023": {
+    "ids": [
+      "Nick Edmonds"
+    ],
+    "time": 1734
+  },
+  "2024": {
+    "ids": [
+      "Evgeny Akivis"
+    ],
+    "time": 1757
+  },
+  "2025": {
+    "ids": [
+      "Mateusz Burnicki"
+    ],
+    "time": 1841
+  },
+  "2026": {
+    "ids": [
+      "Moritz Patzelt"
+    ],
+    "time": 1888
+  },
+  "2027": {
+    "ids": [
+      "Rémi Duboué-Dijon"
+    ],
+    "time": 1916
+  },
+  "2028": {
+    "ids": [
+      "Zoé de Moffarts"
+    ],
+    "time": 1944
+  },
+  "2029": {
+    "ids": [
+      "Ved Topkar"
+    ],
+    "time": 2033
+  },
+  "2030": {
+    "ids": [
+      "Danielle Harrison"
+    ],
+    "time": 2050
+  },
+  "2031": {
+    "ids": [
+      "Calvin Le"
+    ],
+    "time": 2067
+  },
+  "2032": {
+    "ids": [
+      "Raphaëlle Stuer"
+    ],
+    "time": 2092
+  },
+  "2033": {
+    "ids": [
+      "Felipe Andres Rojas Garces"
+    ],
+    "time": 2167
+  },
+  "2034": {
+    "ids": [
+      "Aurélien Jacques"
+    ],
+    "time": 2206
+  },
+  "2035": {
+    "ids": [
+      "Muhammad Sangga Gigih Kanugrahan"
+    ],
+    "time": 2240
+  },
+  "2036": {
+    "ids": [
+      "Pantazis Constantine Houlis"
+    ],
+    "time": 2320
+  },
+  "2037": {
+    "ids": [
+      "Guomin Huang (黄国民)"
+    ],
+    "time": 2933
+  },
+  "2038": {
+    "ids": [
+      "Kevin Liu"
+    ],
+    "time": 3291
+  },
+  "2039": {
+    "ids": [
+      "Darren Grewe"
+    ],
+    "time": 6706
+  }
+}
