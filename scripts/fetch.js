@@ -48,10 +48,10 @@ async function main() {
                 const rank = single.rank.world;
                 const time = single.best;
                 if (rank in eventRanks.single[eventId]) {
-                    eventRanks.single[eventId][rank].ids.push(person);
+                    eventRanks.single[eventId][rank].ids.push(person.id);
                 } else {
                     eventRanks.single[eventId][rank] = {
-                        ids: [person.name],
+                        ids: [person.id],
                         time: time
                     };
                 }
