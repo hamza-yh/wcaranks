@@ -1,0 +1,801 @@
+{
+  "1": {
+    "ids": [
+      "Tim Habermaas"
+    ],
+    "time": 750815700
+  },
+  "2": {
+    "ids": [
+      "Dennis Strehlau"
+    ],
+    "time": 810918906
+  },
+  "3": {
+    "ids": [
+      "Ryosuke Mondo (門戸良介)"
+    ],
+    "time": 832179317
+  },
+  "4": {
+    "ids": [
+      "Mike Hughey"
+    ],
+    "time": 840792000
+  },
+  "5": {
+    "ids": [
+      "Rowe Hessler"
+    ],
+    "time": 851585108
+  },
+  "6": {
+    "ids": [
+      "Alex Cook"
+    ],
+    "time": 870690501
+  },
+  "7": {
+    "ids": [
+      "Eric Limeback"
+    ],
+    "time": 880611100
+  },
+  "8": {
+    "ids": [
+      "Rafał Guzewicz"
+    ],
+    "time": 890770704
+  },
+  "9": {
+    "ids": [
+      "István Kocza"
+    ],
+    "time": 910582001
+  },
+  "10": {
+    "ids": [
+      "Ángel de Jaén Gotarredona"
+    ],
+    "time": 930695803
+  },
+  "11": {
+    "ids": [
+      "Marcell Endrey"
+    ],
+    "time": 940170100
+  },
+  "12": {
+    "ids": [
+      "Simon Bourigault"
+    ],
+    "time": 940262100
+  },
+  "13": {
+    "ids": [
+      "Henrik Buus Aagaard"
+    ],
+    "time": 940310101
+  },
+  "14": {
+    "ids": [
+      "Clément Gallet"
+    ],
+    "time": 940326500
+  },
+  "15": {
+    "ids": [
+      "Constantin Ceausu"
+    ],
+    "time": 940360000
+  },
+  "16": {
+    "ids": [
+      "Manuel López Sheriff"
+    ],
+    "time": 940382401
+  },
+  "17": {
+    "ids": [
+      "Stefan Pochmann"
+    ],
+    "time": 940403500
+  },
+  "18": {
+    "ids": [
+      "Joël van Noort"
+    ],
+    "time": 950201000
+  },
+  "19": {
+    "ids": [
+      "Péter Róka"
+    ],
+    "time": 950213200
+  },
+  "20": {
+    "ids": [
+      "Milán Baticz"
+    ],
+    "time": 950229200
+  },
+  "21": {
+    "ids": [
+      "Federico Soldati"
+    ],
+    "time": 950558003
+  },
+  "22": {
+    "ids": [
+      "Bastien Bonnet"
+    ],
+    "time": 959999900
+  },
+  "23": {
+    "ids": [
+      "Alexander Yu"
+    ],
+    "time": 960066300
+  },
+  "24": {
+    "ids": [
+      "Bertalan Bodor"
+    ],
+    "time": 960088000
+  },
+  "25": {
+    "ids": [
+      "Timothy Sun"
+    ],
+    "time": 960090800
+  },
+  "26": {
+    "ids": [
+      "Erik Akkersdijk"
+    ],
+    "time": 960110800
+  },
+  "27": {
+    "ids": [
+      "Kai Jiptner"
+    ],
+    "time": 960120600
+  },
+  "28": {
+    "ids": [
+      "Olivér Perge"
+    ],
+    "time": 960128100
+  },
+  "29": {
+    "ids": [
+      "Piotr Kózka"
+    ],
+    "time": 960141200
+  },
+  "30": {
+    "ids": [
+      "Edouard Chambon"
+    ],
+    "time": 960144200
+  },
+  "31": {
+    "ids": [
+      "Lars Vennike Nielsson"
+    ],
+    "time": 960152400
+  },
+  "32": {
+    "ids": [
+      "Bernett Orlando"
+    ],
+    "time": 960162400
+  },
+  "33": {
+    "ids": [
+      "Kåre Krig"
+    ],
+    "time": 960225000
+  },
+  "34": {
+    "ids": [
+      "Joey Gouly"
+    ],
+    "time": 970025300
+  },
+  "35": {
+    "ids": [
+      "Danyang Chen (陈丹阳)"
+    ],
+    "time": 970037600
+  },
+  "36": {
+    "ids": [
+      "Park Byung-Hwa"
+    ],
+    "time": 970047900
+  },
+  "37": {
+    "ids": [
+      "Kim Kyung-Ho"
+    ],
+    "time": 970051100
+  },
+  "38": {
+    "ids": [
+      "Andy Tsao"
+    ],
+    "time": 970054200
+  },
+  "39": {
+    "ids": [
+      "Joffrey Lenoble"
+    ],
+    "time": 970063000
+  },
+  "40": {
+    "ids": [
+      "Leyan Lo"
+    ],
+    "time": 970070400
+  },
+  "41": {
+    "ids": [
+      "Máté Somlyay"
+    ],
+    "time": 970070700
+  },
+  "42": {
+    "ids": [
+      "Sinpei Araki (荒木慎平)"
+    ],
+    "time": 970073200
+  },
+  "43": {
+    "ids": [
+      "Anthony Hsu"
+    ],
+    "time": 970083800
+  },
+  "44": {
+    "ids": [
+      "Noah Ehrich"
+    ],
+    "time": 970097600
+  },
+  "45": {
+    "ids": [
+      "Daniel Lundwall"
+    ],
+    "time": 970101400
+  },
+  "46": {
+    "ids": [
+      "Qiang Lin (林强)"
+    ],
+    "time": 970103200
+  },
+  "47": {
+    "ids": [
+      "Piotr Frankowski"
+    ],
+    "time": 970103300
+  },
+  "48": {
+    "ids": [
+      "Pedro Santos Guimarães"
+    ],
+    "time": 970106401
+  },
+  "49": {
+    "ids": [
+      "Dániel Varga"
+    ],
+    "time": 970107500
+  },
+  "50": {
+    "ids": [
+      "Jacco Krijnen"
+    ],
+    "time": 970108800
+  },
+  "51": {
+    "ids": [
+      "Gaël Dusser"
+    ],
+    "time": 970109600
+  },
+  "52": {
+    "ids": [
+      "Chia-Wei Lu (呂家維)"
+    ],
+    "time": 970112200
+  },
+  "53": {
+    "ids": [
+      "Sébastien Auroux"
+    ],
+    "time": 970112800
+  },
+  "54": {
+    "ids": [
+      "Ton Dennenbroek"
+    ],
+    "time": 970118700
+  },
+  "55": {
+    "ids": [
+      "Dan Cohen"
+    ],
+    "time": 970133701
+  },
+  "56": {
+    "ids": [
+      "Niklas Bitén"
+    ],
+    "time": 970135200
+  },
+  "57": {
+    "ids": [
+      "Arnaud van Galen"
+    ],
+    "time": 970158000
+  },
+  "58": {
+    "ids": [
+      "Mimmi Leckius"
+    ],
+    "time": 970165000
+  },
+  "59": {
+    "ids": [
+      "Hans van der Zijden"
+    ],
+    "time": 970166100
+  },
+  "60": {
+    "ids": [
+      "Gilles van den Peereboom"
+    ],
+    "time": 979999900
+  },
+  "61": {
+    "ids": [
+      "Guillain Potron"
+    ],
+    "time": 980120001
+  },
+  "62": {
+    "ids": [
+      "Karthik Puthraya"
+    ],
+    "time": 980138601
+  },
+  "63": {
+    "ids": [
+      "Tomasz Korzeniewski"
+    ],
+    "time": 980209502
+  },
+  "64": {
+    "ids": [
+      "Jean Pons"
+    ],
+    "time": 980213002
+  },
+  "65": {
+    "ids": [
+      "Balázs Bernát"
+    ],
+    "time": 980312003
+  },
+  "66": {
+    "ids": [
+      "Mario Laurent"
+    ],
+    "time": 990038801
+  },
+  "67": {
+    "ids": [
+      "Péter Oriskó"
+    ],
+    "time": 990050101
+  },
+  "68": {
+    "ids": [
+      "Yunqi Ouyang (欧阳韵奇)"
+    ],
+    "time": 990054201
+  },
+  "69": {
+    "ids": [
+      "Norbert Héjja"
+    ],
+    "time": 990060301
+  },
+  "70": {
+    "ids": [
+      "François Sechet"
+    ],
+    "time": 990061901
+  },
+  "71": {
+    "ids": [
+      "Zacharie Cortes"
+    ],
+    "time": 990063701
+  },
+  "72": {
+    "ids": [
+      "Javier Soto Bustos"
+    ],
+    "time": 990065001
+  },
+  "73": {
+    "ids": [
+      "Willian Fidêncio"
+    ],
+    "time": 990067701
+  },
+  "74": {
+    "ids": [
+      "Phil Thomas"
+    ],
+    "time": 990070301
+  },
+  "75": {
+    "ids": [
+      "Justin Adsuara"
+    ],
+    "time": 990071301
+  },
+  "76": {
+    "ids": [
+      "Ville Seppänen"
+    ],
+    "time": 990074702
+  },
+  "77": {
+    "ids": [
+      "John Robert Anguluan"
+    ],
+    "time": 990075601
+  },
+  "78": {
+    "ids": [
+      "Kim Se-Han"
+    ],
+    "time": 990078301
+  },
+  "79": {
+    "ids": [
+      "Patrick Jameson"
+    ],
+    "time": 990080701
+  },
+  "80": {
+    "ids": [
+      "Jens Diewald"
+    ],
+    "time": 990085301
+  },
+  "81": {
+    "ids": [
+      "Peter Greenwood"
+    ],
+    "time": 990085801
+  },
+  "82": {
+    "ids": [
+      "Michael Avelino Britto"
+    ],
+    "time": 990087801
+  },
+  "83": {
+    "ids": [
+      "Robin Blöhm"
+    ],
+    "time": 990088601
+  },
+  "84": {
+    "ids": [
+      "Norbert Hantos"
+    ],
+    "time": 990090301
+  },
+  "85": {
+    "ids": [
+      "Antoine Perdereau"
+    ],
+    "time": 990092001
+  },
+  "86": {
+    "ids": [
+      "Alejandro Aguado Barahona"
+    ],
+    "time": 990092701
+  },
+  "87": {
+    "ids": [
+      "Rafael de Andrade Cinoto"
+    ],
+    "time": 990096501
+  },
+  "88": {
+    "ids": [
+      "Raffael Ort"
+    ],
+    "time": 990098201
+  },
+  "89": {
+    "ids": [
+      "Wei-Jiunn Jang (鄭惟駿)"
+    ],
+    "time": 990099801
+  },
+  "90": {
+    "ids": [
+      "Samuel Djian"
+    ],
+    "time": 990102001
+  },
+  "91": {
+    "ids": [
+      "Abhijitharam Tadepalli"
+    ],
+    "time": 990102501
+  },
+  "92": {
+    "ids": [
+      "Patrick Joseph Daep"
+    ],
+    "time": 990104901
+  },
+  "93": {
+    "ids": [
+      "Norman Mijares"
+    ],
+    "time": 990106201
+  },
+  "94": {
+    "ids": [
+      "Siva Shanmukh Vetcha"
+    ],
+    "time": 990108201
+  },
+  "95": {
+    "ids": [
+      "Máté Horváth"
+    ],
+    "time": 990110901
+  },
+  "96": {
+    "ids": [
+      "Tobias Daneels"
+    ],
+    "time": 990111001
+  },
+  "97": {
+    "ids": [
+      "Eszter Szabó",
+      "Márton Pelles",
+      "Péter Trombitás"
+    ],
+    "time": 990120001
+  },
+  "100": {
+    "ids": [
+      "Cliff Shen"
+    ],
+    "time": 990123701
+  },
+  "101": {
+    "ids": [
+      "Tim Reynolds"
+    ],
+    "time": 990130602
+  },
+  "102": {
+    "ids": [
+      "Mateusz Burnicki"
+    ],
+    "time": 990131701
+  },
+  "103": {
+    "ids": [
+      "John Louis"
+    ],
+    "time": 1920808880
+  },
+  "104": {
+    "ids": [
+      "Georges Poinsot"
+    ],
+    "time": 1950604529
+  },
+  "105": {
+    "ids": [
+      "Thomas Kohn"
+    ],
+    "time": 1960404816
+  },
+  "106": {
+    "ids": [
+      "Jimmy Coll"
+    ],
+    "time": 1960606000
+  },
+  "107": {
+    "ids": [
+      "Derrick Eide"
+    ],
+    "time": 1960704150
+  },
+  "108": {
+    "ids": [
+      "Antoine Simon-Chautemps"
+    ],
+    "time": 1970301771
+  },
+  "109": {
+    "ids": [
+      "Tyson Mao (毛台勝)"
+    ],
+    "time": 1980200340
+  },
+  "110": {
+    "ids": [
+      "Dan Dzoan"
+    ],
+    "time": 1980200542
+  },
+  "111": {
+    "ids": [
+      "Shelley Chang"
+    ],
+    "time": 1980200560
+  },
+  "112": {
+    "ids": [
+      "Lorenzo Vigani Poli"
+    ],
+    "time": 1980201023
+  },
+  "113": {
+    "ids": [
+      "Antoine Tonnoir"
+    ],
+    "time": 1980201333
+  },
+  "114": {
+    "ids": [
+      "Grzegorz Łuczyna"
+    ],
+    "time": 1980201427
+  },
+  "115": {
+    "ids": [
+      "Pierre Calendini"
+    ],
+    "time": 1980201605
+  },
+  "116": {
+    "ids": [
+      "Zoltán Schindler"
+    ],
+    "time": 1980201623
+  },
+  "117": {
+    "ids": [
+      "Pierre Bienaimé"
+    ],
+    "time": 1980201743
+  },
+  "118": {
+    "ids": [
+      "Etienne Castagno",
+      "Mats Luthman"
+    ],
+    "time": 1980299999
+  },
+  "120": {
+    "ids": [
+      "Ryosuke Higo (肥後亮佑)"
+    ],
+    "time": 1980301326
+  },
+  "121": {
+    "ids": [
+      "Jonathan Papa"
+    ],
+    "time": 1980301414
+  },
+  "122": {
+    "ids": [
+      "Jan Jerome Bautista"
+    ],
+    "time": 1980301458
+  },
+  "123": {
+    "ids": [
+      "Adam Zamora"
+    ],
+    "time": 1990200540
+  },
+  "124": {
+    "ids": [
+      "Kiyoshi Takahashi"
+    ],
+    "time": 1990200800
+  },
+  "125": {
+    "ids": [
+      "Erik Johnson"
+    ],
+    "time": 1990201066
+  },
+  "126": {
+    "ids": [
+      "Dan Wang"
+    ],
+    "time": 1990201161
+  },
+  "127": {
+    "ids": [
+      "Adrien Mokrara"
+    ],
+    "time": 1990201282
+  },
+  "128": {
+    "ids": [
+      "Erik Johansson"
+    ],
+    "time": 1990201298
+  },
+  "129": {
+    "ids": [
+      "Gábor Szabó"
+    ],
+    "time": 1990201785
+  },
+  "130": {
+    "ids": [
+      "Michel Hop",
+      "David Bergling",
+      "Mathieu Chataigner",
+      "Bryan Manzana"
+    ],
+    "time": 1990201800
+  },
+  "134": {
+    "ids": [
+      "Aurelien Souchet (高凡)",
+      "Isagani Esteron"
+    ],
+    "time": 1990299999
+  },
+  "136": {
+    "ids": [
+      "Lucas Garron"
+    ],
+    "time": 1990300775
+  },
+  "137": {
+    "ids": [
+      "Dror Vomberg"
+    ],
+    "time": 1990401391
+  },
+  "138": {
+    "ids": [
+      "Mátyás Kuti"
+    ],
+    "time": 1990500571
+  },
+  "139": {
+    "ids": [
+      "Daniel Beyer"
+    ],
+    "time": 1990805627
+  }
+}
