@@ -18,6 +18,7 @@ async function main() {
             "clock": {}, "magic": {}, "mmagic": {}, "minx": {}, "pyram": {}, "skewb": {}, "sq1": {}
         }
     };
+
     const firstRes = await fetch('https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/persons-page-1.json');
     const firstJson = await firstRes.json();
     const totalPages = Math.ceil(firstJson.total / 1000);
@@ -33,10 +34,10 @@ async function main() {
                 const time = average.best;
 
                 if (rank in eventRanks.average[eventId]) {
-                    eventRanks.average[eventId][rank].ids.push(person.name);
+                    eventRanks.average[eventId][rank].ids.push(person.id);
                 } else {
                     eventRanks.average[eventId][rank] = {
-                        ids: [person.name],
+                        ids: [person.id],
                         time: time
                     };
                 }
@@ -47,7 +48,7 @@ async function main() {
                 const rank = single.rank.world;
                 const time = single.best;
                 if (rank in eventRanks.single[eventId]) {
-                    eventRanks.single[eventId][rank].ids.push(person.name);
+                    eventRanks.single[eventId][rank].ids.push(person);
                 } else {
                     eventRanks.single[eventId][rank] = {
                         ids: [person.name],
