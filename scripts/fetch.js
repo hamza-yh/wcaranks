@@ -1,6 +1,26 @@
 import fs from 'fs/promises';
 import path from 'path';
 
+import { Client, GatewayIntentBits } from 'discord.js';
+import 'dotenv/config'; // If using ESM
+
+export async function sendDiscordMessage(messageText) {
+  const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages] });
+
+  await client.login(process.env.DISCORD_BOT_TOKEN);
+
+  const channel = await client.channels.fetch(process.env.DISCORD_CHANNEL_ID);
+  if (channel?.isTextBased()) {
+    await channel.send("Start");
+    await new Promise(resolve => setTimeout(resolve, 20000)); // 3 second delay
+    await channel.send("Stop");
+  } else {
+    console.error("Invalid channel or not text-based.");
+  }
+
+  await client.destroy(); // clean up
+}
+
 async function main() {
     // Make sure folders exist
     await fs.mkdir('api/average', { recursive: true });
@@ -23,7 +43,7 @@ async function main() {
     const firstJson = await firstRes.json();
     const totalPages = Math.ceil(firstJson.total / 1000);
 
-    for (let page = 1; page <= totalPages; page++) {
+    for (let page = 1; page <= 3; page++) {
         console.log(page);
         const res = await fetch(`https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/persons-page-${page}.json`);
         const json = await res.json();
@@ -94,6 +114,8 @@ async function main() {
     const filePath = path.join('api', 'single', `${eventId}.json`);
     await fs.writeFile(filePath, JSON.stringify(rankings, null, 2));
     }
+    await sendDiscordMessage("YAY");
+
 }
 
 main().catch(err => {
