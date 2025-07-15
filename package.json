@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/hamza-yh/wcaranks/issues"
   },
-  "homepage": "https://github.com/hamza-yh/wcaranks#readme"
+  "homepage": "https://github.com/hamza-yh/wcaranks#readme",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0"
+  }
 }
