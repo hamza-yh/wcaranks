@@ -13,7 +13,7 @@ async function main() {
             "clock": {}, "magic": {}, "mmagic": {}, "minx": {}, "pyram": {}, "skewb": {}, "sq1": {}
         },
         average: {
-            "222": {}, "333": {}, "333bf": {}, "333fm": {}, "333mbf": {}, "333mbo": {}, "333oh": {}, "333ft": {},
+            "222": {}, "333": {}, "333bf": {}, "333fm": {}, "333oh": {}, "333ft": {},
             "444": {}, "444bf": {}, "555": {}, "555bf": {}, "666": {}, "777": {},
             "clock": {}, "magic": {}, "mmagic": {}, "minx": {}, "pyram": {}, "skewb": {}, "sq1": {}
         }
@@ -59,6 +59,29 @@ async function main() {
         });
     }
     
+    // Create counts object
+    const eventCounts = {
+        average: {},
+        single: {}
+    };
+
+    // Count average ranks
+    for (const [eventId, rankings] of Object.entries(eventRanks.average)) {
+        const ranks = Object.keys(rankings).map(Number);
+        const maxRank = Math.max(...ranks);
+        eventCounts.average[eventId] = maxRank;
+    }
+
+    // Count single ranks
+    for (const [eventId, rankings] of Object.entries(eventRanks.single)) {
+        const ranks = Object.keys(rankings).map(Number);
+        const maxRank = Math.max(...ranks);
+        eventCounts.single[eventId] = maxRank;
+    }
+
+    // Write counts file
+    const countsPath = path.join('api', 'counts.json');
+    await fs.writeFile(countsPath, JSON.stringify(eventCounts, null, 2));
 
     // Write average rankings
     for (const [eventId, rankings] of Object.entries(eventRanks.average)) {
