@@ -1,25 +1,6 @@
 import fs from 'fs/promises';
 import path from 'path';
 
-import { Client, GatewayIntentBits } from 'discord.js';
-import 'dotenv/config'; // If using ESM
-
-export async function sendDiscordMessage(messageText) {
-  const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages] });
-
-  await client.login(process.env.DISCORD_BOT_TOKEN);
-
-  const channel = await client.channels.fetch(process.env.DISCORD_CHANNEL_ID);
-  if (channel?.isTextBased()) {
-    await channel.send("Start");
-    await new Promise(resolve => setTimeout(resolve, 20000)); // 3 second delay
-    await channel.send("Stop");
-  } else {
-    console.error("Invalid channel or not text-based.");
-  }
-
-  await client.destroy(); // clean up
-}
 
 async function main() {
     // Make sure folders exist
@@ -114,8 +95,6 @@ async function main() {
     const filePath = path.join('api', 'single', `${eventId}.json`);
     await fs.writeFile(filePath, JSON.stringify(rankings, null, 2));
     }
-    await sendDiscordMessage("YAY");
-
 }
 
 main().catch(err => {
