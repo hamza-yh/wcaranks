@@ -24,7 +24,7 @@ async function main() {
     const firstJson = await firstRes.json();
     const totalPages = Math.ceil(firstJson.total / 1000);
 
-    for (let page = 1; page <= 3; page++) {
+    for (let page = 1; page <= totalPages; page++) {
         console.log(page);
         const res = await fetch(`https://raw.githubusercontent.com/robiningelbrecht/wca-rest-api/master/api/persons-page-${page}.json`);
         const json = await res.json();
